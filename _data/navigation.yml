@@ -1,7 +1,9 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
+  - title: "Theme Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Current JSNA"
+    url: http://jsna.westsussex.gov.uk/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
