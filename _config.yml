@@ -6,7 +6,7 @@ remote_theme: mmistakes/minimal-mistakes
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en"
@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "WSCC Public Health and Social Research Unit"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "The Public Health and Social Research Unit is responsible for the evidence base to underpin strategic decision-making in West Sussex County Council and its partners."
   location         : "West Sussex, UK"
   email            :
   uri              :
