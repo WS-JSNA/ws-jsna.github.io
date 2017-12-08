@@ -1,62 +1,60 @@
 ---
 layout: splash
 author_profile: true
-title: "Welcome to the West Sussex JSNA website."
+title: "Welcome to the West Sussex JSNA Website"
 header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
   overlay_image: /assets/images/stock/estuary.jpg
-feature_row:
-  - image_path: /assets/images/stock/swimmer.jpg
-    alt: "Starting and developing well image"
+  cta_label: "Read more"
+  cta_url: "#topics"
+  caption: "Photo credit: [**Shutterstock**](https://shutterstock.com)"
+excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+intro: 
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+topics:
+  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
     title: "Starting and Developing Well"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "This section of the website provides key data and analyses relating to these young populations as well as school age children and young people in West Sussex to enable planning and support to ensure West Sussex populations are starting and developing well."
     url: "#test-link"
     btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/stock/Students.jpg
-    alt: "Living and working well image"
+    btn_class: "btn--success"
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
     title: "Living and Working Well"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "{{"/living-working-well/" | absolute_url}}"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/stock/estuary.jpg
-    alt: "Ageing well image"
-    title: "Ageing Well"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "This section is presented under three headings, reflecting the available demographics of the workforce in West Sussex, data on housing, environment and wider determinants of health and data on Health behaviours of the working age population."
     url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--warning"
+  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    title: "Ageing Well"
+    excerpt: "The county’s population age structure is older than the South East region and England as a whole and presents challenges in relation to the demand for and provision of services, but also in the way that older people are perceived and included in the wider community."
+    url: "/ageing-well/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/images/stock/wheelchair.jpg
-    alt: "Core datasets"
-    title: "Core Datasets"
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Reports"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
     url: "#test-link"
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--info"
 feature_row3:
-  - image_path: /assets/images/stock/jogging.jpg
-    alt: "Reports"
-    title: "Reports"
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Key Datasets"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
     url: "#test-link"
     btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--info"
 ---
+
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
+<div id="topics">{% include feature_row id="topics" %}</div>
 
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="right" %}
-
-<!--{% include feature_row id="feature_row4" type="center" %}-->

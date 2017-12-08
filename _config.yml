@@ -1,4 +1,3 @@
-remote_theme: mmistakes/minimal-mistakes
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -6,17 +5,17 @@ remote_theme: mmistakes/minimal-mistakes
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "aqua" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en"
-title                    : "West Sussex JSNA"
+title                    : "West Sussex JSNA Website"
 title_separator          : "-"
 name                     : "PHSRU"
 description              : "The Public Health and Social Research Unit is responsible for the evidence base to underpin strategic decision-making in West Sussex County Council and its partners."
 url                      : https://ws-jsna.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : ws-jsna/ws-jsna.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -52,6 +51,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
+search                   : # true, false (default)
 
 # SEO Related
 google_site_verification :
@@ -83,9 +83,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "WSCC Public Health and Social Research Unit"
+  name             : "PHSRU"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "The Public Health and Social Research Unit is responsible for the evidence base to underpin strategic decision-making in West Sussex County Council and its partners."
+  bio              : "The Public Health and Social Research Unit is responsible for the evidence base to underpin strategic decision-making in West Sussex County Council and its partners.
+
+We are a multi-disciplinary, highly skilled and experienced research team in both health and social research.
+
+We lead on a number of statutory responsibilities, including the production of the Joint Strategic Needs Assessment on behalf of the West Sussex Health and Wellbeing Board, commissioning West Sussex Healthwatch and West Sussex County Council’s Research Governance process."
   location         : "West Sussex, UK"
   email            :
   uri              :
@@ -178,7 +182,7 @@ sass:
 
 
 # Outputting
-permalink: /:title/
+permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -237,6 +241,23 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+  starting-well:
+    output: true
+    permalink: /:collection/:path/
+  working-well:
+    output: true
+    permalink: /:collection/:path/
+  ageing-well:
+    output: true
+    permalink: /:collection/:path/
+  reports:
+    output: true
+    permalink: /:collection/:path/
+  data-sets:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -251,10 +272,3 @@ defaults:
       comments: # true
       share: true
       related: true
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
