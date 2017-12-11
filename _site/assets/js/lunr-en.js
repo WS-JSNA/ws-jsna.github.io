@@ -41,8 +41,8 @@ var idx = lunr(function () {
     
   
     idx.add({
-      title: "Physical and mental health and wellbeing in later life",
-      excerpt: "This section includes data and information about the physical and mental health of older people in West Sussex. Will use...",
+      title: "Population estimates",
+      excerpt: "Population estimates Annual estimates of the population living in West Sussex are provided for a range of geographies (e.g. output...",
       categories: [],
       tags: [],
       id: 3
@@ -676,9 +676,9 @@ var store = [
     
       
       {
-        "title": "Physical and mental health and wellbeing in later life",
-        "url": "http://localhost:4000/ageing-well/population-data/",
-        "excerpt": "This section includes data and information about the physical and mental health of older people in West Sussex. Will use...",
+        "title": "Population estimates",
+        "url": "http://localhost:4000/core-datasets/population-estimates/",
+        "excerpt": "Population estimates Annual estimates of the population living in West Sussex are provided for a range of geographies (e.g. output...",
         "teaser":
           
             null
