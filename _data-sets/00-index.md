@@ -3,7 +3,7 @@ layout: single
 author_profile: false
 title: "Core Data Sets"
 header:
-  overlay_image: /assets/images/stock/estuary.jpg
+  overlay_color: "#1976d2"
 permalink: "/core-datasets/"
 ---
 
