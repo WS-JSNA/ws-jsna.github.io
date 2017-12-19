@@ -608,8 +608,8 @@ var idx = lunr(function () {
   
   
     idx.add({
-      title: "Ageing well.",
-      excerpt: "The county’s population age structure is older than the South East region and England as a whole. This presents challenges...",
+      title: "Starting & developing well",
+      excerpt: "The health and wellbeing of children from conception to the age of two is a priority of the West Sussex...",
       categories: [],
       tags: [],
       id: 65
@@ -617,11 +617,65 @@ var idx = lunr(function () {
     
   
     idx.add({
-      title: "Physical and mental health and wellbeing in later life",
-      excerpt: "This section includes data and information about the physical and mental health of older people in West Sussex. Will use...",
+      title: "Child Health Profiles (formerly Children and Family Centre Profiles)",
+      excerpt: "The West Sussex Public Health and Social Research Unit have been working on the production of a new Child Health...",
+      categories: [],
+      tags: ["child health","early years","under 5's"],
+      id: 66
+    });
+    
+  
+    idx.add({
+      title: "Maternity and Fertility",
+      excerpt: "This section contains information about women in West Sussex before, during and after childbirth. Please note: we are currently updating...",
       categories: [],
       tags: [],
-      id: 66
+      id: 67
+    });
+    
+  
+    idx.add({
+      title: "Birth and the newborn",
+      excerpt: "This page contains information about births and newborn babies in West Sussex. Please note: we are currently updating the West...",
+      categories: [],
+      tags: [],
+      id: 68
+    });
+    
+  
+    idx.add({
+      title: "0-4 years of age",
+      excerpt: "This page contains documents about the early years of the lives of children living in West Sussex. Please note: we are...",
+      categories: [],
+      tags: [],
+      id: 69
+    });
+    
+  
+    idx.add({
+      title: "School age children and education",
+      excerpt: "This section contains data sets and information about school aged children and education services in West Sussex. Special Educational Needs...",
+      categories: [],
+      tags: [],
+      id: 70
+    });
+    
+  
+    idx.add({
+      title: "Young People",
+      excerpt: "This section contains information and data sets about the young people living in West Sussex. The What About YOUth? survey...",
+      categories: [],
+      tags: [],
+      id: 71
+    });
+    
+  
+    idx.add({
+      title: "Children and Family Centre profiles (up to 2016)",
+      excerpt: "The West Sussex Children’s Workforce Public Health data profile (2016) is an interactive dashboard that summarises a wide range of...",
+      categories: [],
+      tags: ["births","child health","early years","mother and child","under 5's"],
+      id: 72
     });
     
   
@@ -633,7 +687,7 @@ var idx = lunr(function () {
       excerpt: "The county’s population age structure is older than the South East region and England as a whole. This presents challenges...",
       categories: [],
       tags: [],
-      id: 67
+      id: 73
     });
     
   
@@ -642,7 +696,7 @@ var idx = lunr(function () {
       excerpt: "This section includes data and information about the physical and mental health of older people in West Sussex. Will use...",
       categories: [],
       tags: [],
-      id: 68
+      id: 74
     });
     
   
@@ -1388,9 +1442,9 @@ var store = [
     
       
       {
-        "title": "Ageing well.",
-        "url": "http://localhost:4000/ageing-well/",
-        "excerpt": "The county’s population age structure is older than the South East region and England as a whole. This presents challenges...",
+        "title": "Starting & developing well",
+        "url": "http://localhost:4000/starting-well/",
+        "excerpt": "The health and wellbeing of children from conception to the age of two is a priority of the West Sussex...",
         "teaser":
           
             null
@@ -1399,9 +1453,75 @@ var store = [
     
       
       {
-        "title": "Physical and mental health and wellbeing in later life",
-        "url": "http://localhost:4000/ageing-well/population-data/",
-        "excerpt": "This section includes data and information about the physical and mental health of older people in West Sussex. Will use...",
+        "title": "Child Health Profiles (formerly Children and Family Centre Profiles)",
+        "url": "http://localhost:4000/starting-well/child-health-profiles/",
+        "excerpt": "The West Sussex Public Health and Social Research Unit have been working on the production of a new Child Health...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Maternity and Fertility",
+        "url": "http://localhost:4000/starting-well/maternity-and-fertility/",
+        "excerpt": "This section contains information about women in West Sussex before, during and after childbirth. Please note: we are currently updating...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Birth and the newborn",
+        "url": "http://localhost:4000/starting-well/birth-newborn/",
+        "excerpt": "This page contains information about births and newborn babies in West Sussex. Please note: we are currently updating the West...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "0-4 years of age",
+        "url": "http://localhost:4000/starting-well/early-years/",
+        "excerpt": "This page contains documents about the early years of the lives of children living in West Sussex. Please note: we are...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "School age children and education",
+        "url": "http://localhost:4000/starting-well/education-children/",
+        "excerpt": "This section contains data sets and information about school aged children and education services in West Sussex. Special Educational Needs...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Young People",
+        "url": "http://localhost:4000/starting-well/young-people/",
+        "excerpt": "This section contains information and data sets about the young people living in West Sussex. The What About YOUth? survey...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Children and Family Centre profiles (up to 2016)",
+        "url": "http://localhost:4000/starting-well/children-family-centre-profiles-2016/",
+        "excerpt": "The West Sussex Children’s Workforce Public Health data profile (2016) is an interactive dashboard that summarises a wide range of...",
         "teaser":
           
             null
