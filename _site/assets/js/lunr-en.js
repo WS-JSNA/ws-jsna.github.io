@@ -617,20 +617,11 @@ var idx = lunr(function () {
     
   
     idx.add({
-      title: "Child Health Profiles (formerly Children and Family Centre Profiles)",
-      excerpt: "The West Sussex Public Health and Social Research Unit have been working on the production of a new Child Health...",
-      categories: [],
-      tags: ["child health","early years","under 5's"],
-      id: 66
-    });
-    
-  
-    idx.add({
       title: "Maternity and Fertility",
-      excerpt: "This section contains information about women in West Sussex before, during and after childbirth. General fertility rates total fertility rates...",
+      excerpt: "This section contains information about women in West Sussex before, during and after childbirth. Downloads: General fertility rates (GFR) total...",
       categories: [],
       tags: [],
-      id: 67
+      id: 66
     });
     
   
@@ -639,7 +630,7 @@ var idx = lunr(function () {
       excerpt: "This page contains information about births and newborn babies in West Sussex. Please note: we are currently updating the West...",
       categories: [],
       tags: [],
-      id: 68
+      id: 67
     });
     
   
@@ -648,7 +639,7 @@ var idx = lunr(function () {
       excerpt: "This page contains documents about the early years of the lives of children living in West Sussex. Please note: we are...",
       categories: [],
       tags: [],
-      id: 69
+      id: 68
     });
     
   
@@ -657,7 +648,7 @@ var idx = lunr(function () {
       excerpt: "This section contains data sets and information about school aged children and education services in West Sussex. Special Educational Needs...",
       categories: [],
       tags: [],
-      id: 70
+      id: 69
     });
     
   
@@ -666,6 +657,15 @@ var idx = lunr(function () {
       excerpt: "This section contains information and data sets about the young people living in West Sussex. The What About YOUth? survey...",
       categories: [],
       tags: [],
+      id: 70
+    });
+    
+  
+    idx.add({
+      title: "Child Health Profiles (formerly Children and Family Centre Profiles)",
+      excerpt: "The West Sussex Public Health and Social Research Unit have been working on the production of a new Child Health...",
+      categories: [],
+      tags: ["child health","early years","under 5's"],
       id: 71
     });
     
@@ -1453,20 +1453,9 @@ var store = [
     
       
       {
-        "title": "Child Health Profiles (formerly Children and Family Centre Profiles)",
-        "url": "http://localhost:4000/starting-well/child-health-profiles/",
-        "excerpt": "The West Sussex Public Health and Social Research Unit have been working on the production of a new Child Health...",
-        "teaser":
-          
-            null
-          
-      },
-    
-      
-      {
         "title": "Maternity and Fertility",
         "url": "http://localhost:4000/starting-well/maternity-and-fertility/",
-        "excerpt": "This section contains information about women in West Sussex before, during and after childbirth. General fertility rates total fertility rates...",
+        "excerpt": "This section contains information about women in West Sussex before, during and after childbirth. Downloads: General fertility rates (GFR) total...",
         "teaser":
           
             null
@@ -1511,6 +1500,17 @@ var store = [
         "title": "Young People",
         "url": "http://localhost:4000/starting-well/young-people/",
         "excerpt": "This section contains information and data sets about the young people living in West Sussex. The What About YOUth? survey...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Child Health Profiles (formerly Children and Family Centre Profiles)",
+        "url": "http://localhost:4000/starting-well/child-health-profiles/",
+        "excerpt": "The West Sussex Public Health and Social Research Unit have been working on the production of a new Child Health...",
         "teaser":
           
             null

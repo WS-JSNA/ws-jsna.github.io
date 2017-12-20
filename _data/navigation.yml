@@ -10,3 +10,23 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+starting:
+  - title: Starting and Developing Well
+    children:
+      - title: "Index"
+        url: /starting-well/
+      - title: "Maternity and Fertility"
+        url: /starting-well/maternity-and-fertility/
+      - title: "Birth and the newborn"
+        url: /starting-well/birth-newborn/
+      - title: "0-4 years of age"
+        url: /starting-well/early-years/
+      - title: "School-age children and education"
+        url: /starting-well/education-children/
+      - title: "Young People"
+        url: /starting-well/young-people/
+      - title: "Children and Family Centre Profiles"
+        url: /starting-well/child-health-profiles/
+      - title: "Children and Family Centre Profiles (Previous version)"
+        url: /starting-well/child-health-profiles-2016/

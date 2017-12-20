@@ -1,6 +1,8 @@
 ---
 layout: single
-author_profile: true
+author_profile: false
+sidebar:
+  nav: "starting"
 title: "School age children and education"
 header:
   overlay_color: "lightpink"

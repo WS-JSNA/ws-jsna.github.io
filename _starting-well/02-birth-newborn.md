@@ -1,6 +1,8 @@
 ---
 layout: single
-author_profile: true
+author_profile: false
+sidebar:
+  nav: "starting"
 title: "Birth and the newborn"
 header:
   overlay_color: "lightpink"

@@ -1,10 +1,13 @@
 ---
 layout: single
-author_profile: true
+author_profile: false
+sidebar:
+  nav: "starting"
 title: "Young People"
 header:
   overlay_colour: "lightpink"
 permalink: "/starting-well/young-people/"
+excerpt: "This section contains information and data sets about the young people living in West Sussex."
 ---
 This section contains information and data sets about the young people living in West Sussex.
 

@@ -1,3 +1,4 @@
+<h2>Downloads:</h2>
 {% for file in page.attachments %}
   {% capture icon_name %}
   	"fa fa-file-{{file.format}}-o"
@@ -19,5 +20,7 @@
     Other document
   {% endcapture %}
   {% endif %}
-  [<i class={{icon_name}} aria-hidden="true"></i> {{file.title}}, {{file_desc | rstrip}}.]({{file.path}} "{{file.title}}")
+  <h3>{{file.title}}</h3>
+  <p>{{file.about}}</p>
+  <i class={{icon_name}} aria-hidden="true"></i> [{{file.title}}, {{file_desc | rstrip}}.]({{file.path}} "{{file.title}}")
 {% endfor %}
