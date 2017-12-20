@@ -13,11 +13,11 @@ From 1 October 2015, the responsibility for commissioning some public health ser
 This section of the website provides key data and analyses relating to these young populations as well as school age children and young people in West Sussex to enable planning and support to ensure West Sussex populations are starting and developing well.
 
 Data in this section are provided under five headings:
-* [Maternity and fertility](/maternity-and-fertility/)
-* [Birth and the newborn](/birth-and-the-newborn/)
-* [Early years](/early-years/)
-* [School age children and education](/education-children/)
-* [Young people](/young-people/)
+* [Maternity and fertility](/starting-well/maternity-and-fertility/)
+* [Birth and the newborn](/starting-well/birth-and-the-newborn/)
+* [Early years](/starting-well/early-years/)
+* [School age children and education](/starting-well/education-children/)
+* [Young people](/starting-well/young-people/)
 
 <embed src="http://jsna.westsussex.gov.uk/wp-content/uploads/2017/02/CYP-Outcomes-revised-August-2016.pdf" width="650" height="525">
 
