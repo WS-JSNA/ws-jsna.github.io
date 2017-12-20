@@ -12,7 +12,7 @@ tags:
 - under 5's
 header:
   overlay_color: "lightpink"
-permalink: "/starting-well/children-family-centre-profiles-2016/"
+permalink: "/starting-well/child-health-profiles-2016/"
 excerpt: "Archived versions of the Child Health Profiles prior to 2016."
 ---
 The [West Sussex Children's Workforce Public Health data profile (2016)](http://jsna.westsussex.gov.uk/wp-content/uploads/2017/01/West-Sussex-Childrens-Workforce-JSNA-Data-Profiles-2016-Supporting-the-Health4Families-Programme-1.xlsx) is an interactive dashboard that summarises a wide range of data relating to the early years (e.g. demographic, socioeconomic, health and early years) and is published at Children and Family Centre (CFC) level. The profile aims to help the Children’s Workforce monitor changes in the health and wellbeing of the under 5 population within their centre area and supports the [West Sussex Health4Families Programme.](http://www.sussexcommunity.nhs.uk/services/servicedetails.htm?directoryID=22580)
