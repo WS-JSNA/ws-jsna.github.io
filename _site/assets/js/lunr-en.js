@@ -627,7 +627,7 @@ var idx = lunr(function () {
   
     idx.add({
       title: "Maternity and Fertility",
-      excerpt: "This section contains information about women in West Sussex before, during and after childbirth. Please note: we are currently updating...",
+      excerpt: "This section contains information about women in West Sussex before, during and after childbirth. General fertility rates total fertility rates...",
       categories: [],
       tags: [],
       id: 67
@@ -1466,7 +1466,7 @@ var store = [
       {
         "title": "Maternity and Fertility",
         "url": "http://localhost:4000/starting-well/maternity-and-fertility/",
-        "excerpt": "This section contains information about women in West Sussex before, during and after childbirth. Please note: we are currently updating...",
+        "excerpt": "This section contains information about women in West Sussex before, during and after childbirth. General fertility rates total fertility rates...",
         "teaser":
           
             null
