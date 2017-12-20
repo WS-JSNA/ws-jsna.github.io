@@ -21,7 +21,7 @@ This updated the data published in the [2015 profile.](http://jsna.westsussex.go
 
 At the time of publishing (Nov 2016), there were 43 Children and Family Centres in West Sussex. These were arranged into 12 Children and Family Centre Groups, and 6 Integrated Prevention and Earliest Help (IPEH) hub areas. The map below shows the main CFC sites (not including secondary sites). In addition, some CFCs are mobile sites and so may not be displayed in their primary location. Click on a centre or area to find out more. Use the toggle buttons (bottom left) to switch the view between IPEH boundaries and CFC groups.
 
-<iframe src="http://jsna.westsussex.gov.uk/wp-content/uploads/2017/08/cfc.grp_.ipeh_.map_-1.html" width = "100%" height = "400">
+{% include htmlwidget html_path="/assets/htmlwidgets/cfc_grp_ipeh_map_1.html" %}
 
 Further information about the profile is included in the following slides:
 
