@@ -671,11 +671,20 @@ var idx = lunr(function () {
     
   
     idx.add({
+      title: "Child Health Profiles (formerly Children and Family Centre Profiles)",
+      excerpt: "The West Sussex Public Health and Social Research Unit have been working on the production of a new Child Health...",
+      categories: [],
+      tags: ["child health","early years","under 5's"],
+      id: 72
+    });
+    
+  
+    idx.add({
       title: "Children and Family Centre profiles (up to 2016)",
       excerpt: "The West Sussex Children’s Workforce Public Health data profile (2016) is an interactive dashboard that summarises a wide range of...",
       categories: [],
       tags: ["births","child health","early years","mother and child","under 5's"],
-      id: 72
+      id: 73
     });
     
   
@@ -687,7 +696,7 @@ var idx = lunr(function () {
       excerpt: "The county’s population age structure is older than the South East region and England as a whole. This presents challenges...",
       categories: [],
       tags: [],
-      id: 73
+      id: 74
     });
     
   
@@ -696,7 +705,7 @@ var idx = lunr(function () {
       excerpt: "This section includes data and information about the physical and mental health of older people in West Sussex. Will use...",
       categories: [],
       tags: [],
-      id: 74
+      id: 75
     });
     
   
@@ -1509,7 +1518,18 @@ var store = [
       
       {
         "title": "Child Health Profiles (formerly Children and Family Centre Profiles)",
-        "url": "http://localhost:4000/starting-well/child-health-profiles/",
+        "url": "http://localhost:4000/starting-well/children-family-centre-profiles/",
+        "excerpt": "The West Sussex Public Health and Social Research Unit have been working on the production of a new Child Health...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Child Health Profiles (formerly Children and Family Centre Profiles)",
+        "url": "http://localhost:4000/starting-well/child-health-profiles-2017/",
         "excerpt": "The West Sussex Public Health and Social Research Unit have been working on the production of a new Child Health...",
         "teaser":
           

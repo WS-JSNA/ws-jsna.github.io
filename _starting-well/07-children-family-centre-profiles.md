@@ -10,7 +10,7 @@ tags:
 - under 5's
 header:
   overlay_color: "lightpink"
-permalink: "/starting-well/child-health-profiles/"
+permalink: "/starting-well/child-health-profiles-2017/"
 excerpt: "The new version of the Child Health Profiles"
 ---
 The West Sussex Public Health and Social Research Unit have been working on the production of a new Child Health Profile.  The new profile aims to extend the former Children and Family Centre Profiles, and will include data on children aged 0-19, rather than focussing on the early years only.

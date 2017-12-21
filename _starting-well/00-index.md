@@ -7,6 +7,7 @@ title: "Starting & developing well"
 header: 
   overlay_color: "lightpink"
 permalink: "/starting-well/"
+embedded_pdf: "/assets/uploads/starting-well/CYP-Outcomes-revised-August-2016.pdf"
 ---
 The health and wellbeing of children from conception to the age of two is a priority of the West Sussex Health and Wellbeing Board and the future West Sussex Plan.
 
@@ -21,7 +22,7 @@ Data in this section are provided under five headings:
 * [School age children and education](/starting-well/education-children/)
 * [Young people](/starting-well/young-people/)
 
-<embed src="http://jsna.westsussex.gov.uk/wp-content/uploads/2017/02/CYP-Outcomes-revised-August-2016.pdf" width="650" height="525">
+{% include embedpdf file_path="/assets/uploads/starting-well/CYP-Outcomes-revised-August-2016.pdf" %}
 
 **Please note:** we are currently updating the West Sussex JSNA site so please check back soon for updates.
 {: .notice--danger}

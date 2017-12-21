@@ -13,9 +13,8 @@ main:
 
 starting:
   - title: Starting and Developing Well
+    url: /starting-well/
     children:
-      - title: "Index"
-        url: /starting-well/
       - title: "Maternity and Fertility"
         url: /starting-well/maternity-and-fertility/
       - title: "Birth and the newborn"
@@ -26,10 +25,13 @@ starting:
         url: /starting-well/education-children/
       - title: "Young People"
         url: /starting-well/young-people/
-      - title: "Children and Family Centre Profiles"
-        url: /starting-well/child-health-profiles/
-      - title: "Children and Family Centre Profiles (Previous version)"
-        url: /starting-well/child-health-profiles-2016/
+      - title: "Child Health Profiles (formerly Children and Family Centre Profiles)"
+        url: /starting-well/children-family-centre-profiles/
+        children:
+        - title: "Children and Family Centre Profiles"
+          url: /starting-well/child-health-profiles-2017/
+        - title: "Children and Family Centre Profiles (Previous version)"
+          url: /starting-well/child-health-profiles-2016/
 
 # living:
 
