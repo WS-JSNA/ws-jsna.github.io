@@ -27,13 +27,35 @@ starting:
         url: /starting-well/young-people/
       - title: "Child Health Profiles (formerly Children and Family Centre Profiles)"
         url: /starting-well/children-family-centre-profiles/
-        children:
-        - title: "Children and Family Centre Profiles"
-          url: /starting-well/child-health-profiles-2017/
-        - title: "Children and Family Centre Profiles (Previous version)"
-          url: /starting-well/child-health-profiles-2016/
+      - title: "Children and Family Centre Profiles"
+        url: /starting-well/child-health-profiles-2017/
+      - title: "Children and Family Centre Profiles (Previous version)"
+        url: /starting-well/child-health-profiles-2016/
 
-# living:
+living:
+  - title: Living and Working Well
+    url: /living-well/
+    children:
+      - title: "Workforce Health and Disability"
+        url: /living-well/workforce-health/
+      - title: "Wider Determinants of Health"
+        url: /living-well/wider-determinants/
+      - title: "Environment"
+        url: /living-well/environment/
+      - title: "Housing"
+        url: /living-well/housing/
+      - title: "Neighbourhoods"
+        url: /living-well/neighbourhoods/
+      - title: "Health Behaviours"
+        url: /living-well/health-behaviours/
+      - title: "Drugs and Alcohol"
+        url: /living-well/drugs-and-alcohol/
+      - title: "Physical activity and weight management"
+        url: /living-well/weight-management/
+      - title: "Sexual Health"
+        url: /living-well/sexual-health/
+      - title: "Smoking and Tobacco Use"
+        url: /living-well/smoking-and-tobacco/
 
 # ageing:
 

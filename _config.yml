@@ -246,7 +246,7 @@ collections:
   starting-well:
     output: true
     permalink: /:collection/:path/
-  working-well:
+  living-well:
     output: true
     permalink: /:collection/:path/
   ageing-well:

@@ -71,11 +71,113 @@ var idx = lunr(function () {
   
   
     idx.add({
+      title: "Living & working well",
+      excerpt: "This section contains key data and analyses on the working age population (usually classified as those aged 16-64) of West...",
+      categories: [],
+      tags: [],
+      id: 6
+    });
+    
+  
+    idx.add({
+      title: "Workforce Health and Disability",
+      excerpt: "This section includes available data on the health and disability related demographics of the workforce in West Sussex. Please note:...",
+      categories: [],
+      tags: [],
+      id: 7
+    });
+    
+  
+    idx.add({
+      title: "Wider Determinants of Health",
+      excerpt: "This section contains data sets, needs assessments and other documents which provide information on the wider determinants of health in...",
+      categories: [],
+      tags: [],
+      id: 8
+    });
+    
+  
+    idx.add({
+      title: "Environment",
+      excerpt: "This section includes information about the environment including air quality and household waste.\n\n",
+      categories: [],
+      tags: [],
+      id: 9
+    });
+    
+  
+    idx.add({
+      title: "Housing",
+      excerpt: "This section contains information about housing, including, household composition, tenure, housing condition and homelessness.\n",
+      categories: [],
+      tags: [],
+      id: 10
+    });
+    
+  
+    idx.add({
+      title: "Neighbourhoods",
+      excerpt: "This section contains information about infrastructure, community assets  and behavioural data such as crime and deprivation.\n\n",
+      categories: [],
+      tags: [],
+      id: 11
+    });
+    
+  
+    idx.add({
+      title: "Health Behaviours",
+      excerpt: "This section contains information about drugs and alcohol prevalence in West Sussex and the services supporting people to reduce their...",
+      categories: [],
+      tags: [],
+      id: 12
+    });
+    
+  
+    idx.add({
+      title: "Drugs and Alcohol",
+      excerpt: "The following documents comprise data sets, needs assessments and maps providing an overview of specific health and wellbeing issues related...",
+      categories: [],
+      tags: [],
+      id: 13
+    });
+    
+  
+    idx.add({
+      title: "Physical activity and weight management",
+      excerpt: "This section includes documents about physical activity, participation in sport, diet and nutrition and levels of obesity in the West...",
+      categories: [],
+      tags: [],
+      id: 14
+    });
+    
+  
+    idx.add({
+      title: "Sexual Health",
+      excerpt: "This section contains documents about the sexual health of people living in West Sussex. In February 2014, West Sussex County...",
+      categories: [],
+      tags: [],
+      id: 15
+    });
+    
+  
+    idx.add({
+      title: "Smoking and Tobacco Use",
+      excerpt: "This section contains data sets, needs assessments, briefings and other documents on the use of tobacco in West Sussex.\n",
+      categories: [],
+      tags: [],
+      id: 16
+    });
+    
+  
+
+  
+  
+    idx.add({
       title: "Edge Case: Nested and Mixed Lists",
       excerpt: "Nested and mixed lists are an interesting beast. It’s a corner case to make sure that Lists within lists do...",
       categories: ["Edge Case"],
       tags: ["content","css","edge case","lists","markup"],
-      id: 6
+      id: 17
     });
     
   
@@ -84,7 +186,7 @@ var idx = lunr(function () {
       excerpt: "This post has many tags.\n",
       categories: ["Edge Case"],
       tags: ["8BIT","alignment","Articles","captions","categories","chat","comments","content","css","dowork","edge case","embeds","excerpt","Fail","featured image","FTW","Fun","gallery","html","image","Jekyll","layout","link","Love","markup","Mothership","Must Read","Nailed It","Pictures","Post Formats","quote","standard","Success","Swagger","Tags","template","title","twitter","Unseen","video","YouTube"],
-      id: 7
+      id: 18
     });
     
   
@@ -93,7 +195,7 @@ var idx = lunr(function () {
       excerpt: "This post has many categories.\n",
       categories: ["aciform","antiquarianism","arrangement","asmodeus","broder","buying","championship","chastening","disinclination","disinfection","dispatch","echappee","enphagy"],
       tags: ["categories","edge case"],
-      id: 8
+      id: 19
     });
     
   
@@ -102,7 +204,7 @@ var idx = lunr(function () {
       excerpt: "\n",
       categories: ["Edge Case"],
       tags: ["content","edge case","layout"],
-      id: 9
+      id: 20
     });
     
   
@@ -111,7 +213,7 @@ var idx = lunr(function () {
       excerpt: "This post has no title specified in the YAML Front Matter. Jekyll should auto-generate a title from the filename.\n",
       categories: ["Edge Case"],
       tags: ["edge case","layout","title"],
-      id: 10
+      id: 21
     });
     
   
@@ -120,7 +222,7 @@ var idx = lunr(function () {
       excerpt: "Title should not overflow the content area A few things to check for: Non-breaking text in the title, content, and...",
       categories: ["Edge Case"],
       tags: ["content","css","edge case","html","layout","title"],
-      id: 11
+      id: 22
     });
     
   
@@ -129,7 +231,7 @@ var idx = lunr(function () {
       excerpt: "Check for long titles and how they might break a template.\n",
       categories: ["Edge Case"],
       tags: ["content","css","edge case","html","layout","title"],
-      id: 12
+      id: 23
     });
     
   
@@ -138,7 +240,7 @@ var idx = lunr(function () {
       excerpt: "This post has been updated and should show a modified date if used in a layout. All children, except one,...",
       categories: ["Post Formats"],
       tags: ["Post Formats","readability","standard"],
-      id: 13
+      id: 24
     });
     
   
@@ -147,7 +249,7 @@ var idx = lunr(function () {
       excerpt: "All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was...",
       categories: ["Post Formats"],
       tags: ["Post Formats","readability","standard"],
-      id: 14
+      id: 25
     });
     
   
@@ -156,7 +258,7 @@ var idx = lunr(function () {
       excerpt: "Abbott: Strange as it may seem, they give ball players nowadays very peculiar names. Costello: Funny names? Abbott: Nicknames, nicknames....",
       categories: ["Post Formats"],
       tags: ["chat","Post Formats"],
-      id: 15
+      id: 26
     });
     
   
@@ -165,7 +267,7 @@ var idx = lunr(function () {
       excerpt: "A notice displays information that explains nearby content. Often used to call attention to a particular detail. When using Kramdown...",
       categories: ["Post Formats"],
       tags: ["Post Formats","notice"],
-      id: 16
+      id: 27
     });
     
   
@@ -174,7 +276,7 @@ var idx = lunr(function () {
       excerpt: "Only one thing is impossible for God: To find any sense in any copyright law on the planet. Mark Twain...",
       categories: ["Post Formats"],
       tags: ["Post Formats","quote"],
-      id: 17
+      id: 28
     });
     
   
@@ -183,7 +285,7 @@ var idx = lunr(function () {
       excerpt: "This theme supports link posts, made famous by John Gruber. To use, just add link: http://url-you-want-linked to the post’s YAML...",
       categories: ["Post Formats"],
       tags: ["link","Post Formats"],
-      id: 18
+      id: 29
     });
     
   
@@ -192,7 +294,7 @@ var idx = lunr(function () {
       excerpt: "YouTube video embed below.\n\n\n",
       categories: ["Post Formats"],
       tags: ["Post Formats"],
-      id: 19
+      id: 30
     });
     
   
@@ -201,7 +303,7 @@ var idx = lunr(function () {
       excerpt: "This post has a header image with an OpenGraph override.\n\nheader:\n  image: /assets/images/page-header-image.png\n  og_image: /assets/images/page-header-og-image.png\n\n",
       categories: ["Layout","Uncategorized"],
       tags: ["edge case","image","layout"],
-      id: 20
+      id: 31
     });
     
   
@@ -210,7 +312,7 @@ var idx = lunr(function () {
       excerpt: "This post has a header image with an OpenGraph override. header: overlay_image: /assets/images/unsplash-image-1.jpg og_image: /assets/images/page-header-og-image.png caption: \"Photo credit: [**Unsplash**](https://unsplash.com)\" cta_url:...",
       categories: ["Layout","Uncategorized"],
       tags: ["edge case","image","layout"],
-      id: 21
+      id: 32
     });
     
   
@@ -219,7 +321,7 @@ var idx = lunr(function () {
       excerpt: "\n",
       categories: ["Post Formats"],
       tags: ["image","Post Formats"],
-      id: 22
+      id: 33
     });
     
   
@@ -228,7 +330,7 @@ var idx = lunr(function () {
       excerpt: "The preferred way of using images is placing them in the /assets/images/ directory and referencing them with an absolute path....",
       categories: ["Post Formats"],
       tags: ["image","Post Formats"],
-      id: 23
+      id: 34
     });
     
   
@@ -237,7 +339,7 @@ var idx = lunr(function () {
       excerpt: "This post has a teaser image with an OpenGraph override.\n\nheader:\n  teaser: /assets/images/page-header-teaser.png\n  og_image: /assets/images/page-header-og-image.png\n\n",
       categories: ["Layout","Uncategorized"],
       tags: ["edge case","image","layout"],
-      id: 24
+      id: 35
     });
     
   
@@ -246,7 +348,7 @@ var idx = lunr(function () {
       excerpt: "\n\n  \n\n\n  \nStairs? Were we’re going we don’t need no stairs.\n\n\n",
       categories: ["Post Formats"],
       tags: ["image","Post Formats"],
-      id: 25
+      id: 36
     });
     
   
@@ -255,7 +357,7 @@ var idx = lunr(function () {
       excerpt: "\n\n  \n\n\n  Photo from Unsplash.\n\n",
       categories: ["Post Formats"],
       tags: ["image","Post Formats"],
-      id: 26
+      id: 37
     });
     
   
@@ -264,7 +366,7 @@ var idx = lunr(function () {
       excerpt: "These are gallery tests for image wrapped in &lt;figure&gt; elements. To place a gallery add the necessary YAML Front Matter:...",
       categories: ["Post Formats"],
       tags: ["gallery","Post Formats","tiled"],
-      id: 27
+      id: 38
     });
     
   
@@ -273,7 +375,7 @@ var idx = lunr(function () {
       excerpt: "🎨 Finally got around to adding all my @procreateapp creations with time lapse videos https://t.co/1nNbkefC3L pic.twitter.com/gcNLJoJ0Gn&mdash; Michael Rose (@mmistakes) November...",
       categories: ["Media"],
       tags: ["content","embeds","media","twitter"],
-      id: 28
+      id: 39
     });
     
   
@@ -282,7 +384,7 @@ var idx = lunr(function () {
       excerpt: "This post has its comments disabled.\n\nThere should be no comment form.\n",
       categories: ["Layout","Uncategorized"],
       tags: ["comments","layout"],
-      id: 29
+      id: 40
     });
     
   
@@ -291,7 +393,7 @@ var idx = lunr(function () {
       excerpt: "This post should display comments.\n",
       categories: ["Layout","Uncategorized"],
       tags: ["comments","layout"],
-      id: 30
+      id: 41
     });
     
   
@@ -300,7 +402,7 @@ var idx = lunr(function () {
       excerpt: "This post has reading time disabled. The estimated time that it takes to read this post should not be showing...",
       categories: [],
       tags: ["read time"],
-      id: 31
+      id: 42
     });
     
   
@@ -309,7 +411,7 @@ var idx = lunr(function () {
       excerpt: "This post has reading time enabled. The estimated time that it takes to read this post should show if also...",
       categories: [],
       tags: ["read time"],
-      id: 32
+      id: 43
     });
     
   
@@ -318,7 +420,7 @@ var idx = lunr(function () {
       excerpt: "This post has related posts disabled.\n\nRelated post links should not appear.\n",
       categories: ["Layout","Uncategorized"],
       tags: ["related posts","layout"],
-      id: 33
+      id: 44
     });
     
   
@@ -327,7 +429,7 @@ var idx = lunr(function () {
       excerpt: "This post has related posts enabled.\n",
       categories: ["Layout","Uncategorized"],
       tags: ["related posts","layout"],
-      id: 34
+      id: 45
     });
     
   
@@ -336,7 +438,7 @@ var idx = lunr(function () {
       excerpt: "This post has social sharing disabled.\n\nSocial sharing links should not appear.\n",
       categories: ["Layout","Uncategorized"],
       tags: ["social","layout"],
-      id: 35
+      id: 46
     });
     
   
@@ -345,7 +447,7 @@ var idx = lunr(function () {
       excerpt: "This post should display social sharing links.\n",
       categories: ["Layout","Uncategorized"],
       tags: ["social","layout"],
-      id: 36
+      id: 47
     });
     
   
@@ -354,7 +456,7 @@ var idx = lunr(function () {
       excerpt: "This post has reading time, comments, social sharing links, and related posts disabled. Reading time, comments, social sharing and related...",
       categories: ["Layout","Uncategorized"],
       tags: ["related posts","social","comments","layout"],
-      id: 37
+      id: 48
     });
     
   
@@ -363,7 +465,7 @@ var idx = lunr(function () {
       excerpt: "Enable table of contents on post or page by adding toc: true to its YAML Front Matter. The title and...",
       categories: [],
       tags: ["table of contents"],
-      id: 38
+      id: 49
     });
     
   
@@ -372,7 +474,7 @@ var idx = lunr(function () {
       excerpt: "This is the post content with inline code, (e.g. &lt;span style=\"color: red;\"&gt;red&lt;/span&gt;. It should be displayed in place of the...",
       categories: ["Layout","Uncategorized"],
       tags: ["content","excerpt","layout"],
-      id: 39
+      id: 50
     });
     
   
@@ -381,7 +483,7 @@ var idx = lunr(function () {
       excerpt: "This is the post content. It should be displayed in place of the user-defined excerpt in archive-index pages. This paragraph...",
       categories: ["Layout","Uncategorized"],
       tags: ["content","excerpt","layout"],
-      id: 40
+      id: 51
     });
     
   
@@ -390,7 +492,7 @@ var idx = lunr(function () {
       excerpt: "This is the post content. Archive-index pages should display an auto-generated excerpt of this content. Be sure to test the...",
       categories: ["Layout","Uncategorized"],
       tags: ["content","excerpt","layout"],
-      id: 41
+      id: 52
     });
     
   
@@ -399,7 +501,7 @@ var idx = lunr(function () {
       excerpt: "Sites that may have content authored from various individuals can be accommodated by using data files. To attribute an author...",
       categories: [],
       tags: [],
-      id: 42
+      id: 53
     });
     
   
@@ -408,7 +510,7 @@ var idx = lunr(function () {
       excerpt: "This post has the author sidebar disabled.\n\nTo disable add author_profile: false to YAML Front Matter.\n",
       categories: [],
       tags: [],
-      id: 43
+      id: 54
     });
     
   
@@ -417,7 +519,7 @@ var idx = lunr(function () {
       excerpt: "This post should display a header image, if the theme supports it. Featured image is an external asset and should...",
       categories: ["Layout","Uncategorized"],
       tags: ["edge case","featured image","image","layout"],
-      id: 44
+      id: 55
     });
     
   
@@ -426,7 +528,7 @@ var idx = lunr(function () {
       excerpt: "This post should display a header image, if the theme supports it. Non-square images can provide some unique styling issues....",
       categories: ["Layout","Uncategorized"],
       tags: ["edge case","featured image","image","layout"],
-      id: 45
+      id: 56
     });
     
   
@@ -435,7 +537,7 @@ var idx = lunr(function () {
       excerpt: "This is a sample post with a large feature image1 up top and tons of text. Odio ad blue bottle...",
       categories: [],
       tags: ["sample post","readability","test"],
-      id: 46
+      id: 57
     });
     
   
@@ -444,7 +546,7 @@ var idx = lunr(function () {
       excerpt: "This post should display a header image, if the theme supports it. Non-square images can provide some unique styling issues. This...",
       categories: ["Layout","Uncategorized"],
       tags: ["edge case","featured image","image","layout"],
-      id: 47
+      id: 58
     });
     
   
@@ -453,7 +555,7 @@ var idx = lunr(function () {
       excerpt: "This post should display a header with a solid background color, if the theme supports it. Non-square images can provide...",
       categories: ["Layout","Uncategorized"],
       tags: ["edge case","image","layout"],
-      id: 48
+      id: 59
     });
     
   
@@ -462,7 +564,7 @@ var idx = lunr(function () {
       excerpt: "This post should display a header with an overlay image, if the theme supports it. Non-square images can provide some...",
       categories: ["Layout","Uncategorized"],
       tags: ["edge case","image","layout"],
-      id: 49
+      id: 60
     });
     
   
@@ -471,7 +573,7 @@ var idx = lunr(function () {
       excerpt: "This content is before the excerpt separator tag. Right after this sentence there should be a continue reading link of...",
       categories: ["Layout","Uncategorized"],
       tags: ["content","read more","layout"],
-      id: 50
+      id: 61
     });
     
   
@@ -480,7 +582,7 @@ var idx = lunr(function () {
       excerpt: "This post has a custom sidebar set in the post’s YAML Front Matter. An example of how that YAML could...",
       categories: [],
       tags: [],
-      id: 51
+      id: 62
     });
     
   
@@ -489,7 +591,7 @@ var idx = lunr(function () {
       excerpt: "This post has a custom navigation list set in the post’s YAML Front Matter. sidebar: title: \"Sample Title\" nav: sidebar-sample...",
       categories: [],
       tags: [],
-      id: 52
+      id: 63
     });
     
   
@@ -498,7 +600,7 @@ var idx = lunr(function () {
       excerpt: "Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage. Odio ad blue bottle...",
       categories: [],
       tags: ["sample post","readability","test"],
-      id: 53
+      id: 64
     });
     
   
@@ -507,7 +609,7 @@ var idx = lunr(function () {
       excerpt: "Verify that: The post title renders the word “with” in italics and the word “Markdown” in bold. The post title...",
       categories: ["Markdown"],
       tags: ["css","html","title"],
-      id: 54
+      id: 65
     });
     
   
@@ -516,7 +618,7 @@ var idx = lunr(function () {
       excerpt: "Putting special characters in the title should have no adverse effect on the layout or functionality. Special characters in the...",
       categories: ["Markup"],
       tags: ["html","markup","post","title"],
-      id: 55
+      id: 66
     });
     
   
@@ -525,7 +627,7 @@ var idx = lunr(function () {
       excerpt: "Default This is a paragraph. It should not have any alignment of any kind. It should just flow like you...",
       categories: ["Markup"],
       tags: ["alignment","content","css","markup"],
-      id: 56
+      id: 67
     });
     
   
@@ -534,7 +636,7 @@ var idx = lunr(function () {
       excerpt: "Welcome to image alignment! The best way to demonstrate the ebb and flow of the various image positioning options is...",
       categories: ["Markup"],
       tags: ["alignment","captions","content","css","image","markup"],
-      id: 57
+      id: 68
     });
     
   
@@ -543,7 +645,7 @@ var idx = lunr(function () {
       excerpt: "A variety of common markup showing how the theme styles them. Header two Header three Header four Header five Header...",
       categories: ["Markup"],
       tags: ["content","css","formatting","html","markup"],
-      id: 58
+      id: 69
     });
     
   
@@ -552,7 +654,7 @@ var idx = lunr(function () {
       excerpt: "Here are some examples of what a post with images might look like. If you want to display two or...",
       categories: [],
       tags: ["sample post","images","test"],
-      id: 59
+      id: 70
     });
     
   
@@ -561,7 +663,7 @@ var idx = lunr(function () {
       excerpt: "Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms....",
       categories: [],
       tags: ["code","syntax highlighting"],
-      id: 60
+      id: 71
     });
     
   
@@ -570,7 +672,7 @@ var idx = lunr(function () {
       excerpt: "You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your...",
       categories: ["Jekyll"],
       tags: ["update"],
-      id: 61
+      id: 72
     });
     
   
@@ -579,111 +681,6 @@ var idx = lunr(function () {
       excerpt: "This post should display a header with a responsive video, if the theme supports it. Settings Parameter Required Description id...",
       categories: ["Layout","Uncategorized"],
       tags: ["video","layout"],
-      id: 62
-    });
-    
-  
-
-  
-  
-    idx.add({
-      title: "Ageing well.",
-      excerpt: "The county’s population age structure is older than the South East region and England as a whole. This presents challenges...",
-      categories: [],
-      tags: [],
-      id: 63
-    });
-    
-  
-    idx.add({
-      title: "Physical and mental health and wellbeing in later life",
-      excerpt: "This section includes data and information about the physical and mental health of older people in West Sussex. Will use...",
-      categories: [],
-      tags: [],
-      id: 64
-    });
-    
-  
-
-  
-  
-    idx.add({
-      title: "Starting & developing well",
-      excerpt: "The health and wellbeing of children from conception to the age of two is a priority of the West Sussex...",
-      categories: [],
-      tags: [],
-      id: 65
-    });
-    
-  
-    idx.add({
-      title: "Maternity and Fertility",
-      excerpt: "This section contains information about women in West Sussex before, during and after childbirth. Downloads: General fertility rates (GFR) total...",
-      categories: [],
-      tags: [],
-      id: 66
-    });
-    
-  
-    idx.add({
-      title: "Birth and the newborn",
-      excerpt: "This page contains information about births and newborn babies in West Sussex. Please note: we are currently updating the West...",
-      categories: [],
-      tags: [],
-      id: 67
-    });
-    
-  
-    idx.add({
-      title: "0-4 years of age",
-      excerpt: "This page contains documents about the early years of the lives of children living in West Sussex. Please note: we are...",
-      categories: [],
-      tags: [],
-      id: 68
-    });
-    
-  
-    idx.add({
-      title: "School age children and education",
-      excerpt: "This section contains data sets and information about school aged children and education services in West Sussex. Special Educational Needs...",
-      categories: [],
-      tags: [],
-      id: 69
-    });
-    
-  
-    idx.add({
-      title: "Young People",
-      excerpt: "This section contains information and data sets about the young people living in West Sussex. The What About YOUth? survey...",
-      categories: [],
-      tags: [],
-      id: 70
-    });
-    
-  
-    idx.add({
-      title: "Child Health Profiles (formerly Children and Family Centre Profiles)",
-      excerpt: "The West Sussex Public Health and Social Research Unit have been working on the production of a new Child Health...",
-      categories: [],
-      tags: ["child health","early years","under 5's"],
-      id: 71
-    });
-    
-  
-    idx.add({
-      title: "Child Health Profiles (formerly Children and Family Centre Profiles)",
-      excerpt: "The West Sussex Public Health and Social Research Unit have been working on the production of a new Child Health...",
-      categories: [],
-      tags: ["child health","early years","under 5's"],
-      id: 72
-    });
-    
-  
-    idx.add({
-      title: "Children and Family Centre profiles (up to 2016)",
-      excerpt: "The West Sussex Children’s Workforce Public Health data profile (2016) is an interactive dashboard that summarises a wide range of...",
-      categories: [],
-      tags: ["births","child health","early years","mother and child","under 5's"],
       id: 73
     });
     
@@ -706,6 +703,90 @@ var idx = lunr(function () {
       categories: [],
       tags: [],
       id: 75
+    });
+    
+  
+
+  
+  
+    idx.add({
+      title: "Starting & developing well",
+      excerpt: "The health and wellbeing of children from conception to the age of two is a priority of the West Sussex...",
+      categories: [],
+      tags: [],
+      id: 76
+    });
+    
+  
+    idx.add({
+      title: "Maternity and Fertility",
+      excerpt: "This section contains information about women in West Sussex before, during and after childbirth. Downloads: General fertility rates (GFR) total...",
+      categories: [],
+      tags: [],
+      id: 77
+    });
+    
+  
+    idx.add({
+      title: "Birth and the newborn",
+      excerpt: "This page contains information about births and newborn babies in West Sussex. Please note: we are currently updating the West...",
+      categories: [],
+      tags: [],
+      id: 78
+    });
+    
+  
+    idx.add({
+      title: "0-4 years of age",
+      excerpt: "This page contains documents about the early years of the lives of children living in West Sussex. Please note: we are...",
+      categories: [],
+      tags: [],
+      id: 79
+    });
+    
+  
+    idx.add({
+      title: "School age children and education",
+      excerpt: "This section contains data sets and information about school aged children and education services in West Sussex. Special Educational Needs...",
+      categories: [],
+      tags: [],
+      id: 80
+    });
+    
+  
+    idx.add({
+      title: "Young People",
+      excerpt: "This section contains information and data sets about the young people living in West Sussex. The What About YOUth? survey...",
+      categories: [],
+      tags: [],
+      id: 81
+    });
+    
+  
+    idx.add({
+      title: "Child Health Profiles (formerly Children and Family Centre Profiles)",
+      excerpt: "The West Sussex Public Health and Social Research Unit have been working on the production of a new Child Health...",
+      categories: [],
+      tags: ["child health","early years","under 5's"],
+      id: 82
+    });
+    
+  
+    idx.add({
+      title: "Child Health Profiles (formerly Children and Family Centre Profiles)",
+      excerpt: "The West Sussex Public Health and Social Research Unit have been working on the production of a new Child Health...",
+      categories: [],
+      tags: ["child health","early years","under 5's"],
+      id: 83
+    });
+    
+  
+    idx.add({
+      title: "Children and Family Centre profiles (up to 2016)",
+      excerpt: "The West Sussex Children’s Workforce Public Health data profile (2016) is an interactive dashboard that summarises a wide range of...",
+      categories: [],
+      tags: ["births","child health","early years","mother and child","under 5's"],
+      id: 84
     });
     
   
@@ -782,6 +863,131 @@ var store = [
         "title": "Life expectancy",
         "url": "http://localhost:4000/core-datasets/life-expectancy/",
         "excerpt": "Life Expectancy Period expectation of life at a given age for an area, in a given time period, is an...",
+        "teaser":
+          
+            null
+          
+      },
+    
+  
+    
+    
+    
+      
+      {
+        "title": "Living & working well",
+        "url": "http://localhost:4000/living-well/",
+        "excerpt": "This section contains key data and analyses on the working age population (usually classified as those aged 16-64) of West...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Workforce Health and Disability",
+        "url": "http://localhost:4000/living-well/workforce-health/",
+        "excerpt": "This section includes available data on the health and disability related demographics of the workforce in West Sussex. Please note:...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Wider Determinants of Health",
+        "url": "http://localhost:4000/living-well/wider-determinants/",
+        "excerpt": "This section contains data sets, needs assessments and other documents which provide information on the wider determinants of health in...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Environment",
+        "url": "http://localhost:4000/living-well/environment/",
+        "excerpt": "This section includes information about the environment including air quality and household waste.\n\n",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Housing",
+        "url": "http://localhost:4000/living-well/housing/",
+        "excerpt": "This section contains information about housing, including, household composition, tenure, housing condition and homelessness.\n",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Neighbourhoods",
+        "url": "http://localhost:4000/living-well/neighbourhoods/",
+        "excerpt": "This section contains information about infrastructure, community assets  and behavioural data such as crime and deprivation.\n\n",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Health Behaviours",
+        "url": "http://localhost:4000/living-well/health-behaviours/",
+        "excerpt": "This section contains information about drugs and alcohol prevalence in West Sussex and the services supporting people to reduce their...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Drugs and Alcohol",
+        "url": "http://localhost:4000/living-well/drugs-and-alcohol/",
+        "excerpt": "The following documents comprise data sets, needs assessments and maps providing an overview of specific health and wellbeing issues related...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Physical activity and weight management",
+        "url": "http://localhost:4000/living-well/weight-management/",
+        "excerpt": "This section includes documents about physical activity, participation in sport, diet and nutrition and levels of obesity in the West...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Sexual Health",
+        "url": "http://localhost:4000/living-well/sexual-health/",
+        "excerpt": "This section contains documents about the sexual health of people living in West Sussex. In February 2014, West Sussex County...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Smoking and Tobacco Use",
+        "url": "http://localhost:4000/living-well/smoking-and-tobacco/",
+        "excerpt": "This section contains data sets, needs assessments, briefings and other documents on the use of tobacco in West Sussex.\n",
         "teaser":
           
             null
@@ -1542,32 +1748,6 @@ var store = [
         "title": "Children and Family Centre profiles (up to 2016)",
         "url": "http://localhost:4000/starting-well/child-health-profiles-2016/",
         "excerpt": "The West Sussex Children’s Workforce Public Health data profile (2016) is an interactive dashboard that summarises a wide range of...",
-        "teaser":
-          
-            null
-          
-      },
-    
-  
-    
-    
-    
-      
-      {
-        "title": "Ageing well.",
-        "url": "http://localhost:4000/ageing-well/",
-        "excerpt": "The county’s population age structure is older than the South East region and England as a whole. This presents challenges...",
-        "teaser":
-          
-            null
-          
-      },
-    
-      
-      {
-        "title": "Physical and mental health and wellbeing in later life",
-        "url": "http://localhost:4000/ageing-well/population-data/",
-        "excerpt": "This section includes data and information about the physical and mental health of older people in West Sussex. Will use...",
         "teaser":
           
             null
