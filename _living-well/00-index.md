@@ -5,7 +5,7 @@ sidebar:
   nav: "living"
 title: "Living & working well"
 header: 
-  overlay_color: "lightgreen"
+  overlay_color: "#00a776"
 permalink: "/living-well/"
 excerpt: ""
 ---

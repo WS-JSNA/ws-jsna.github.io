@@ -6,7 +6,7 @@ sidebar:
 title: "Environment"
 permalink: /living-well/environment/
 header:
-  overlay_color: "lightgreen"
+  overlay_color: "#00a776"
 ---
 This section includes information about the environment including air quality and household waste.
 

@@ -21,6 +21,6 @@
   {% endcapture %}
   {% endif %}
   <h3>{{file.title}}</h3>
-  <p>{{file.about}}</p>
+  {{file.about | markdownify}}
   <i class={{icon_name}} aria-hidden="true"></i> [{{file.title}}, {{file_desc | rstrip}}.]({{file.path}} "{{file.title}}")
 {% endfor %}

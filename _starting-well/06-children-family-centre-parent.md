@@ -9,7 +9,7 @@ tags:
 - early years
 - under 5's
 header:
-  overlay_color: "lightpink"
+  overlay_color: "#ca4993"
 permalink: "/starting-well/children-family-centre-profiles/"
 excerpt: "Introducing the new Child Health Profiles"
 ---

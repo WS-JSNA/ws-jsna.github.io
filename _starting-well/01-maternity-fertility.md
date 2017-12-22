@@ -3,7 +3,7 @@ layout: single
 author_profile: false
 title: "Maternity and Fertility"
 header:
-  overlay_color: "lightpink"
+  overlay_color: "#ca4993"
 permalink: "/starting-well/maternity-and-fertility/"
 excerpt: "This section contains information about women in West Sussex before, during and after childbirth."
 toc: true

@@ -5,7 +5,7 @@ sidebar:
   nav: "starting"
 title: "School age children and education"
 header:
-  overlay_color: "lightpink"
+  overlay_color: "#ca4993"
 permalink: "/starting-well/education-children/"
 ---
 This section contains data sets and information about school aged children and education services in West Sussex.

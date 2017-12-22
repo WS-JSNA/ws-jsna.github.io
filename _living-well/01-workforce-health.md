@@ -5,7 +5,7 @@ sidebar:
   nav: "living"
 title: "Workforce Health and Disability"
 header: 
-  overlay_color: "lightgreen"
+  overlay_color: "#00a776"
 permalink: "/living-well/workforce-health/"
 ---
 This section includes available data on the health and disability related demographics of the workforce in West Sussex.

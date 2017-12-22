@@ -5,7 +5,7 @@ sidebar:
   nav: "starting"
 title: "Starting & developing well"
 header: 
-  overlay_color: "lightpink"
+  overlay_color: "#ca4993"
 permalink: "/starting-well/"
 embedded_pdf: "/assets/uploads/starting-well/CYP-Outcomes-revised-August-2016.pdf"
 ---

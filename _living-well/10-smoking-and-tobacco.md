@@ -4,7 +4,7 @@ author_profile: false
 sidebar:
   nav: "living"
 header:
-  overlay_color: "lightgreen"
+  overlay_color: "#00a776"
 title: "Smoking and Tobacco Use"
 permalink: /living-well/smoking-and-tobacco/
 ---
