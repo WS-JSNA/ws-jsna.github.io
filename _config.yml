@@ -242,7 +242,7 @@ compress_html:
     envs: development
 
 # Collections
-collections_dir: jsna_themes
+# collections_dir: jsna_themes # Not allowed on GH pages
 collections:
   starting-well:
     output: true
