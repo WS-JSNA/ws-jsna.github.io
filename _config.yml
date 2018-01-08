@@ -242,6 +242,7 @@ compress_html:
     envs: development
 
 # Collections
+collections_dir: jsna_themes
 collections:
   starting-well:
     output: true

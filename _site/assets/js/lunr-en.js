@@ -108,7 +108,7 @@ var idx = lunr(function () {
   
     idx.add({
       title: "Housing",
-      excerpt: "This section contains information about housing, including, household composition, tenure, housing condition and homelessness.\n",
+      excerpt: "This section contains information about housing, including, household composition, tenure, housing condition and homelessness. Let’s try to attach three files...",
       categories: [],
       tags: [],
       id: 10
@@ -207,7 +207,7 @@ var idx = lunr(function () {
   
     idx.add({
       title: "Maternity and Fertility",
-      excerpt: "This section contains information about women in West Sussex before, during and after childbirth. Downloads: General fertility rates (GFR) total...",
+      excerpt: "Downloads General fertility rates (GFR) total fertility rates (TFR) births 2001 - 2012 Date added: 30/07/2013 This file includes births...",
       categories: [],
       tags: [],
       id: 20
@@ -216,7 +216,7 @@ var idx = lunr(function () {
   
     idx.add({
       title: "Birth and the newborn",
-      excerpt: "This page contains information about births and newborn babies in West Sussex. Downloads: Live births in hospital 2003-2007 Percentage of...",
+      excerpt: "Downloads Live births in hospital 2003 - 2007 Date added: 16/02/2012 Percentage of live births in hospital by local authority...",
       categories: [],
       tags: [],
       id: 21
@@ -225,7 +225,7 @@ var idx = lunr(function () {
   
     idx.add({
       title: "0-4 years of age",
-      excerpt: "This page contains documents about the early years of the lives of children living in West Sussex. Downloads: Briefing – Child...",
+      excerpt: "Downloads Briefing - Child Disability Estimates Date added: 30/01/2017 This briefing incorporates work undertaken by the Institute of Public Care...",
       categories: [],
       tags: [],
       id: 22
@@ -408,7 +408,7 @@ var store = [
       {
         "title": "Housing",
         "url": "http://localhost:4000/living-well/housing/",
-        "excerpt": "This section contains information about housing, including, household composition, tenure, housing condition and homelessness.\n",
+        "excerpt": "This section contains information about housing, including, household composition, tenure, housing condition and homelessness. Let’s try to attach three files...",
         "teaser":
           
             null
@@ -530,7 +530,7 @@ var store = [
       {
         "title": "Maternity and Fertility",
         "url": "http://localhost:4000/starting-well/maternity-and-fertility/",
-        "excerpt": "This section contains information about women in West Sussex before, during and after childbirth. Downloads: General fertility rates (GFR) total...",
+        "excerpt": "Downloads General fertility rates (GFR) total fertility rates (TFR) births 2001 - 2012 Date added: 30/07/2013 This file includes births...",
         "teaser":
           
             null
@@ -541,7 +541,7 @@ var store = [
       {
         "title": "Birth and the newborn",
         "url": "http://localhost:4000/starting-well/birth-newborn/",
-        "excerpt": "This page contains information about births and newborn babies in West Sussex. Downloads: Live births in hospital 2003-2007 Percentage of...",
+        "excerpt": "Downloads Live births in hospital 2003 - 2007 Date added: 16/02/2012 Percentage of live births in hospital by local authority...",
         "teaser":
           
             null
@@ -552,7 +552,7 @@ var store = [
       {
         "title": "0-4 years of age",
         "url": "http://localhost:4000/starting-well/early-years/",
-        "excerpt": "This page contains documents about the early years of the lives of children living in West Sussex. Downloads: Briefing – Child...",
+        "excerpt": "Downloads Briefing - Child Disability Estimates Date added: 30/01/2017 This briefing incorporates work undertaken by the Institute of Public Care...",
         "teaser":
           
             null
