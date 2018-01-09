@@ -99,7 +99,7 @@ var idx = lunr(function () {
   
     idx.add({
       title: "Environment",
-      excerpt: "This section includes information about the environment including air quality and household waste.\n\n",
+      excerpt: "This section includes information about the environment including air quality and household waste. Downloads Local carbon dioxide (CO2) emissions estimates...",
       categories: [],
       tags: [],
       id: 9
@@ -108,7 +108,7 @@ var idx = lunr(function () {
   
     idx.add({
       title: "Housing",
-      excerpt: "This section contains information about housing, including, household composition, tenure, housing condition and homelessness. Let’s try to attach three files...",
+      excerpt: "This section contains information about housing, including, household composition, tenure, housing condition and homelessness. Downloads Housing Data Workbook December 2016...",
       categories: [],
       tags: [],
       id: 10
@@ -117,7 +117,7 @@ var idx = lunr(function () {
   
     idx.add({
       title: "Neighbourhoods",
-      excerpt: "This section contains information about infrastructure, community assets  and behavioural data such as crime and deprivation.\n\n",
+      excerpt: "This section contains information about infrastructure, community assets and behavioural data such as crime and deprivation. Downloads Crime rates Date...",
       categories: [],
       tags: [],
       id: 11
@@ -153,7 +153,7 @@ var idx = lunr(function () {
   
     idx.add({
       title: "Sexual Health",
-      excerpt: "This section contains documents about the sexual health of people living in West Sussex. In February 2014, West Sussex County...",
+      excerpt: "This section contains documents about the sexual health of people living in West Sussex. Downloads West Sussex Sexual Health Needs...",
       categories: [],
       tags: [],
       id: 15
@@ -162,7 +162,7 @@ var idx = lunr(function () {
   
     idx.add({
       title: "Smoking and Tobacco Use",
-      excerpt: "This section contains data sets, needs assessments, briefings and other documents on the use of tobacco in West Sussex.\n",
+      excerpt: "This section contains data sets, needs assessments, briefings and other documents on the use of tobacco in West Sussex. Downloads...",
       categories: [],
       tags: [],
       id: 16
@@ -397,7 +397,7 @@ var store = [
       {
         "title": "Environment",
         "url": "http://localhost:4000/living-well/environment/",
-        "excerpt": "This section includes information about the environment including air quality and household waste.\n\n",
+        "excerpt": "This section includes information about the environment including air quality and household waste. Downloads Local carbon dioxide (CO2) emissions estimates...",
         "teaser":
           
             null
@@ -408,7 +408,7 @@ var store = [
       {
         "title": "Housing",
         "url": "http://localhost:4000/living-well/housing/",
-        "excerpt": "This section contains information about housing, including, household composition, tenure, housing condition and homelessness. Let’s try to attach three files...",
+        "excerpt": "This section contains information about housing, including, household composition, tenure, housing condition and homelessness. Downloads Housing Data Workbook December 2016...",
         "teaser":
           
             null
@@ -419,7 +419,7 @@ var store = [
       {
         "title": "Neighbourhoods",
         "url": "http://localhost:4000/living-well/neighbourhoods/",
-        "excerpt": "This section contains information about infrastructure, community assets  and behavioural data such as crime and deprivation.\n\n",
+        "excerpt": "This section contains information about infrastructure, community assets and behavioural data such as crime and deprivation. Downloads Crime rates Date...",
         "teaser":
           
             null
@@ -463,7 +463,7 @@ var store = [
       {
         "title": "Sexual Health",
         "url": "http://localhost:4000/living-well/sexual-health/",
-        "excerpt": "This section contains documents about the sexual health of people living in West Sussex. In February 2014, West Sussex County...",
+        "excerpt": "This section contains documents about the sexual health of people living in West Sussex. Downloads West Sussex Sexual Health Needs...",
         "teaser":
           
             null
@@ -474,7 +474,7 @@ var store = [
       {
         "title": "Smoking and Tobacco Use",
         "url": "http://localhost:4000/living-well/smoking-and-tobacco/",
-        "excerpt": "This section contains data sets, needs assessments, briefings and other documents on the use of tobacco in West Sussex.\n",
+        "excerpt": "This section contains data sets, needs assessments, briefings and other documents on the use of tobacco in West Sussex. Downloads...",
         "teaser":
           
             null

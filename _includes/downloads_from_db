@@ -16,7 +16,7 @@
         {% capture att_desc %}Other document{% endcapture %}
       {% endif %}
       {% capture dl_link %}/assets/uploads/{{att.theme}}/{{att.filename}}{% endcapture %}
-<h3>{{att.title}}</h3>
+<h3 id="{{att.id}}">{{att.title}}</h3>
 <p class="page__meta">Date added: {{att.date}}</p>
 {{att.description | markdownify }}
 <i class={{icon-name}} aria-hidden="true"></i> [{{att.title}}, {{att_desc | rstrip}}.]({{dl_link}} "{{att.title}}")

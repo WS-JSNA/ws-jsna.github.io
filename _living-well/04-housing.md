@@ -2,19 +2,18 @@
 layout: single
 author_profile: false
 sidebar:
-  nav: "living"
+  nav: "topics"
 header:
   overlay_color: "#00a776"
 title: "Housing"
-permalink: /living-well/housing/
-dl_ids:
- - A1
- - A2
- - B3
+permalink: "/living-well/housing/"
+downloads: ["HOME01", "HOME02"]
+excerpt: "This section contains information about housing, including, household composition, tenure, housing condition and homelessness."
+toc: true
 ---
 
 This section contains information about housing, including, household composition, tenure, housing condition and homelessness.
 
-Let's try to attach three files to this page by using a CSV database file.
+{% include downloads_from_db ids=page.downloads %}
 
-{% include downloads_from_db files=page.dl_ids %}
+{% include wip_notice %}

@@ -2,7 +2,7 @@
 layout: single
 author_profile: false
 sidebar:
-  nav: "living"
+  nav: "topics"
 title: "Workforce Health and Disability"
 header: 
   overlay_color: "#00a776"

@@ -2,15 +2,18 @@
 layout: single
 author_profile: false
 sidebar:
-  nav: "living"
+  nav: "topics"
 header:
   overlay_color: "#00a776"
 title: "Sexual Health"
-permalink: /living-well/sexual-health/
+permalink: "/living-well/sexual-health/"
+toc: true
+excerpt: "This section contains documents about the sexual health of people living in West Sussex."
+downloads: ["SH01", "SH02", "SH03", "SH04", "SH05", "SH06"]
 ---
 
 This section contains documents about the sexual health of people living in West Sussex.
 
-In February 2014, West Sussex County Council commissioned Nudge Associates Limited to undertake a population focused sexual health needs assessment incorporating a stakeholder engagement process with key informants and service users.
+{% include downloads_from_db ids=page.downloads %}
 
-The aim was to gather a comprehensive picture of the sexual health needs of the population of West Sussex, to examine the local epidemiological evidence and to elicit opinions on whether the current services and delivery models meet the diverse population needs of West Sussex, in order to determine the most appropriate way forward for sexual health services throughout West Sussex.
+{% include wip_notice %}
