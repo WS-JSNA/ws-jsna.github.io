@@ -15,7 +15,7 @@
       {% else %}
         {% capture att_desc %}Other document{% endcapture %}
       {% endif %}
-      {% capture dl_link %}/assets/uploads/{{att.theme}}/{{att.filename}}{% endcapture %}
+      {% capture dl_link %}/assets/{{att.theme}}/{{att.filename}}{% endcapture %}
 <h3 id="{{att.id}}">{{att.title}}</h3>
 <p class="page__meta">Date added: {{att.date}}</p>
 {{att.description | markdownify }}

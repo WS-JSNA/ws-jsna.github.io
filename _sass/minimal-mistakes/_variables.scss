@@ -105,6 +105,12 @@ $masthead-link-color          : $primary-color !default;
 $masthead-link-color-hover    : mix(#000, $primary-color, 25%) !default;
 $navicon-link-color-hover     : mix(#fff, $primary-color, 75%) !default;
 
+/* topics */
+$starting-well-color          : #ca4993 !default;
+$living-well-color            : #00a776 !default;
+$ageing-well-color            : #9464b3 !default;
+$report-color                 : #038cd0 !default;
+
 /*
    Breakpoints
    ========================================================================== */

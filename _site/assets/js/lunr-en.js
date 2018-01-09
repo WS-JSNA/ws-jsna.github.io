@@ -11,7 +11,7 @@ var idx = lunr(function () {
   
   
     idx.add({
-      title: "Ageing well.",
+      title: "Ageing well",
       excerpt: "The county’s population age structure is older than the South East region and England as a whole. This presents challenges...",
       categories: [],
       tags: [],
@@ -20,11 +20,20 @@ var idx = lunr(function () {
     
   
     idx.add({
-      title: "Physical and mental health and wellbeing in later life",
-      excerpt: "This section includes data and information about the physical and mental health of older people in West Sussex. Will use...",
+      title: "Population Data",
+      excerpt: "This page contains information about the older population in West Sussex as well as health and social care service use....",
       categories: [],
       tags: [],
       id: 1
+    });
+    
+  
+    idx.add({
+      title: "Physical and mental health and wellbeing in later life",
+      excerpt: "This section includes data and information about the physical and mental health of older people in West Sussex. Downloads Falls...",
+      categories: [],
+      tags: [],
+      id: 2
     });
     
   
@@ -36,7 +45,7 @@ var idx = lunr(function () {
       excerpt: "This section includes the core datasets around population, illness and disability, for West Sussex. The population data section comprises annual...",
       categories: [],
       tags: [],
-      id: 2
+      id: 3
     });
     
   
@@ -45,7 +54,7 @@ var idx = lunr(function () {
       excerpt: "Population estimates Annual estimates of the population living in West Sussex are provided for a range of geographies (e.g. output...",
       categories: [],
       tags: [],
-      id: 3
+      id: 4
     });
     
   
@@ -54,7 +63,7 @@ var idx = lunr(function () {
       excerpt: "Population projections The Office for National Statistics (ONS) produce population projections as an indication of the future size and age...",
       categories: [],
       tags: [],
-      id: 4
+      id: 5
     });
     
   
@@ -63,7 +72,7 @@ var idx = lunr(function () {
       excerpt: "Life Expectancy Period expectation of life at a given age for an area, in a given time period, is an...",
       categories: [],
       tags: [],
-      id: 5
+      id: 6
     });
     
   
@@ -75,7 +84,7 @@ var idx = lunr(function () {
       excerpt: "This section contains key data and analyses on the working age population (usually classified as those aged 16-64) of West...",
       categories: [],
       tags: [],
-      id: 6
+      id: 7
     });
     
   
@@ -84,7 +93,7 @@ var idx = lunr(function () {
       excerpt: "This section includes available data on the health and disability related demographics of the workforce in West Sussex. Please note:...",
       categories: [],
       tags: [],
-      id: 7
+      id: 8
     });
     
   
@@ -93,7 +102,7 @@ var idx = lunr(function () {
       excerpt: "This section contains data sets, needs assessments and other documents which provide information on the wider determinants of health in...",
       categories: [],
       tags: [],
-      id: 8
+      id: 9
     });
     
   
@@ -102,7 +111,7 @@ var idx = lunr(function () {
       excerpt: "This section includes information about the environment including air quality and household waste. Downloads Local carbon dioxide (CO2) emissions estimates...",
       categories: [],
       tags: [],
-      id: 9
+      id: 10
     });
     
   
@@ -111,7 +120,7 @@ var idx = lunr(function () {
       excerpt: "This section contains information about housing, including, household composition, tenure, housing condition and homelessness. Downloads Housing Data Workbook December 2016...",
       categories: [],
       tags: [],
-      id: 10
+      id: 11
     });
     
   
@@ -120,7 +129,7 @@ var idx = lunr(function () {
       excerpt: "This section contains information about infrastructure, community assets and behavioural data such as crime and deprivation. Downloads Crime rates Date...",
       categories: [],
       tags: [],
-      id: 11
+      id: 12
     });
     
   
@@ -129,7 +138,7 @@ var idx = lunr(function () {
       excerpt: "This section contains information about drugs and alcohol prevalence in West Sussex and the services supporting people to reduce their...",
       categories: [],
       tags: [],
-      id: 12
+      id: 13
     });
     
   
@@ -138,7 +147,7 @@ var idx = lunr(function () {
       excerpt: "The following documents comprise data sets, needs assessments and maps providing an overview of specific health and wellbeing issues related...",
       categories: [],
       tags: [],
-      id: 13
+      id: 14
     });
     
   
@@ -147,7 +156,7 @@ var idx = lunr(function () {
       excerpt: "This section includes documents about physical activity, participation in sport, diet and nutrition and levels of obesity in the West...",
       categories: [],
       tags: [],
-      id: 14
+      id: 15
     });
     
   
@@ -156,7 +165,7 @@ var idx = lunr(function () {
       excerpt: "This section contains documents about the sexual health of people living in West Sussex. Downloads West Sussex Sexual Health Needs...",
       categories: [],
       tags: [],
-      id: 15
+      id: 16
     });
     
   
@@ -165,33 +174,15 @@ var idx = lunr(function () {
       excerpt: "This section contains data sets, needs assessments, briefings and other documents on the use of tobacco in West Sussex. Downloads...",
       categories: [],
       tags: [],
-      id: 16
-    });
-    
-  
-
-  
-  
-
-  
-  
-    idx.add({
-      title: "Ageing well.",
-      excerpt: "The county’s population age structure is older than the South East region and England as a whole. This presents challenges...",
-      categories: [],
-      tags: [],
       id: 17
     });
     
   
-    idx.add({
-      title: "Physical and mental health and wellbeing in later life",
-      excerpt: "This section includes data and information about the physical and mental health of older people in West Sussex. Will use...",
-      categories: [],
-      tags: [],
-      id: 18
-    });
-    
+
+  
+  
+
+  
   
 
   
@@ -201,7 +192,7 @@ var idx = lunr(function () {
       excerpt: "The health and wellbeing of children from conception to the age of two is a priority of the West Sussex...",
       categories: [],
       tags: [],
-      id: 19
+      id: 18
     });
     
   
@@ -210,7 +201,7 @@ var idx = lunr(function () {
       excerpt: "Downloads General fertility rates (GFR) total fertility rates (TFR) births 2001 - 2012 Date added: 30/07/2013 This file includes births...",
       categories: [],
       tags: [],
-      id: 20
+      id: 19
     });
     
   
@@ -219,7 +210,7 @@ var idx = lunr(function () {
       excerpt: "Downloads Live births in hospital 2003 - 2007 Date added: 16/02/2012 Percentage of live births in hospital by local authority...",
       categories: [],
       tags: [],
-      id: 21
+      id: 20
     });
     
   
@@ -228,7 +219,7 @@ var idx = lunr(function () {
       excerpt: "Downloads Briefing - Child Disability Estimates Date added: 30/01/2017 This briefing incorporates work undertaken by the Institute of Public Care...",
       categories: [],
       tags: [],
-      id: 22
+      id: 21
     });
     
   
@@ -237,7 +228,7 @@ var idx = lunr(function () {
       excerpt: "This section contains data sets and information about school aged children and education services in West Sussex. Special Educational Needs...",
       categories: [],
       tags: [],
-      id: 23
+      id: 22
     });
     
   
@@ -246,6 +237,15 @@ var idx = lunr(function () {
       excerpt: "This section contains information and data sets about the young people living in West Sussex. The What About YOUth? survey...",
       categories: [],
       tags: [],
+      id: 23
+    });
+    
+  
+    idx.add({
+      title: "Child Health Profiles (formerly Children and Family Centre Profiles)",
+      excerpt: "The West Sussex Public Health and Social Research Unit have been working on the production of a new Child Health...",
+      categories: [],
+      tags: ["child health","early years","under 5's"],
       id: 24
     });
     
@@ -260,20 +260,11 @@ var idx = lunr(function () {
     
   
     idx.add({
-      title: "Child Health Profiles (formerly Children and Family Centre Profiles)",
-      excerpt: "The West Sussex Public Health and Social Research Unit have been working on the production of a new Child Health...",
-      categories: [],
-      tags: ["child health","early years","under 5's"],
-      id: 26
-    });
-    
-  
-    idx.add({
       title: "Children and Family Centre profiles (up to 2016)",
       excerpt: "The West Sussex Children’s Workforce Public Health data profile (2016) is an interactive dashboard that summarises a wide range of...",
       categories: [],
       tags: ["births","child health","early years","mother and child","under 5's"],
-      id: 27
+      id: 26
     });
     
   
@@ -288,7 +279,7 @@ var store = [
     
       
       {
-        "title": "Ageing well.",
+        "title": "Ageing well",
         "url": "http://localhost:4000/ageing-well/",
         "excerpt": "The county’s population age structure is older than the South East region and England as a whole. This presents challenges...",
         "teaser":
@@ -299,9 +290,20 @@ var store = [
     
       
       {
-        "title": "Physical and mental health and wellbeing in later life",
+        "title": "Population Data",
         "url": "http://localhost:4000/ageing-well/population-data/",
-        "excerpt": "This section includes data and information about the physical and mental health of older people in West Sussex. Will use...",
+        "excerpt": "This page contains information about the older population in West Sussex as well as health and social care service use....",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Physical and mental health and wellbeing in later life",
+        "url": "http://localhost:4000/ageing-well/physical-mental-health-later-life/",
+        "excerpt": "This section includes data and information about the physical and mental health of older people in West Sussex. Downloads Falls...",
         "teaser":
           
             null
@@ -488,28 +490,6 @@ var store = [
   
     
     
-    
-      
-      {
-        "title": "Ageing well.",
-        "url": "http://localhost:4000/ageing-well/",
-        "excerpt": "The county’s population age structure is older than the South East region and England as a whole. This presents challenges...",
-        "teaser":
-          
-            null
-          
-      },
-    
-      
-      {
-        "title": "Physical and mental health and wellbeing in later life",
-        "url": "http://localhost:4000/ageing-well/population-data/",
-        "excerpt": "This section includes data and information about the physical and mental health of older people in West Sussex. Will use...",
-        "teaser":
-          
-            null
-          
-      },
     
   
     
