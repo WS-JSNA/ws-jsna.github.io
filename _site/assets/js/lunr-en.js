@@ -184,6 +184,42 @@ var idx = lunr(function () {
 
   
   
+    idx.add({
+      title: "Reports",
+      excerpt: "This section contains our published reports, including short reports and briefing nots as well as formal comprehensive needs assessments and...",
+      categories: [],
+      tags: [],
+      id: 18
+    });
+    
+  
+    idx.add({
+      title: "Director of Public Health Reports",
+      excerpt: "NB: Change attachments… Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix Date added: 27/10/2014 This is a data...",
+      categories: [],
+      tags: [],
+      id: 19
+    });
+    
+  
+    idx.add({
+      title: "JSNA Reports",
+      excerpt: "Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix Date added: 27/10/2014 This is a data appendix incorporating a...",
+      categories: [],
+      tags: [],
+      id: 20
+    });
+    
+  
+    idx.add({
+      title: "Subject Specific Needs Assessments",
+      excerpt: "NB: Change attachments… Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix Date added: 27/10/2014 This is a data...",
+      categories: [],
+      tags: [],
+      id: 21
+    });
+    
+  
 
   
   
@@ -192,7 +228,7 @@ var idx = lunr(function () {
       excerpt: "The health and wellbeing of children from conception to the age of two is a priority of the West Sussex...",
       categories: [],
       tags: [],
-      id: 18
+      id: 22
     });
     
   
@@ -201,7 +237,7 @@ var idx = lunr(function () {
       excerpt: "Downloads General fertility rates (GFR) total fertility rates (TFR) births 2001 - 2012 Date added: 30/07/2013 This file includes births...",
       categories: [],
       tags: [],
-      id: 19
+      id: 23
     });
     
   
@@ -210,7 +246,7 @@ var idx = lunr(function () {
       excerpt: "Downloads Live births in hospital 2003 - 2007 Date added: 16/02/2012 Percentage of live births in hospital by local authority...",
       categories: [],
       tags: [],
-      id: 20
+      id: 24
     });
     
   
@@ -219,7 +255,7 @@ var idx = lunr(function () {
       excerpt: "Downloads Briefing - Child Disability Estimates Date added: 30/01/2017 This briefing incorporates work undertaken by the Institute of Public Care...",
       categories: [],
       tags: [],
-      id: 21
+      id: 25
     });
     
   
@@ -228,7 +264,7 @@ var idx = lunr(function () {
       excerpt: "This section contains data sets and information about school aged children and education services in West Sussex. Special Educational Needs...",
       categories: [],
       tags: [],
-      id: 22
+      id: 26
     });
     
   
@@ -237,7 +273,7 @@ var idx = lunr(function () {
       excerpt: "This section contains information and data sets about the young people living in West Sussex. The What About YOUth? survey...",
       categories: [],
       tags: [],
-      id: 23
+      id: 27
     });
     
   
@@ -246,7 +282,7 @@ var idx = lunr(function () {
       excerpt: "The West Sussex Public Health and Social Research Unit have been working on the production of a new Child Health...",
       categories: [],
       tags: ["child health","early years","under 5's"],
-      id: 24
+      id: 28
     });
     
   
@@ -255,7 +291,7 @@ var idx = lunr(function () {
       excerpt: "The West Sussex Public Health and Social Research Unit have been working on the production of a new Child Health...",
       categories: [],
       tags: ["child health","early years","under 5's"],
-      id: 25
+      id: 29
     });
     
   
@@ -264,7 +300,7 @@ var idx = lunr(function () {
       excerpt: "The West Sussex Children’s Workforce Public Health data profile (2016) is an interactive dashboard that summarises a wide range of...",
       categories: [],
       tags: ["births","child health","early years","mother and child","under 5's"],
-      id: 26
+      id: 30
     });
     
   
@@ -490,6 +526,50 @@ var store = [
   
     
     
+    
+      
+      {
+        "title": "Reports",
+        "url": "http://localhost:4000/reports/",
+        "excerpt": "This section contains our published reports, including short reports and briefing nots as well as formal comprehensive needs assessments and...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Director of Public Health Reports",
+        "url": "http://localhost:4000/reports/director-public-health-annual-report/",
+        "excerpt": "NB: Change attachments… Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix Date added: 27/10/2014 This is a data...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "JSNA Reports",
+        "url": "http://localhost:4000/reports/jsna-reports/",
+        "excerpt": "Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix Date added: 27/10/2014 This is a data appendix incorporating a...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Subject Specific Needs Assessments",
+        "url": "http://localhost:4000/reports/subject-specific-needs-assessments/",
+        "excerpt": "NB: Change attachments… Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix Date added: 27/10/2014 This is a data...",
+        "teaser":
+          
+            null
+          
+      },
     
   
     
