@@ -3,9 +3,11 @@ layout: single
 title: "Life expectancy"
 header:
   overlay_color: "#1976d2"
-permalink: "/core-datasets/life-expectancy/"
+permalink: "/core/population-data/life-expectancy/"
 excerpt: "Calculated based on latest projections from the Office of National Statistics"
 toc: true
+sidebar:
+  nav: "core"
 ---
 
 ## Life Expectancy
@@ -106,3 +108,5 @@ Download: [Disability free life expectancy by ward, 2001 (XLS).](http://jsna.wes
 ### Healthy life expectancy by ward 2001
 
 Download: [Healthy life expectancy by ward 2001 (XLS).](http://jsna.westsussex.gov.uk/wp-content/uploads/2015/11/Healthy-life-expectancy-by-ward-2001.xls)
+
+{% include wip_notice %}

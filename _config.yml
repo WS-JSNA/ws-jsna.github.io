@@ -256,7 +256,7 @@ collections:
   reports:
     output: true
     permalink: /:collection/:path/
-  data-sets:
+  core:
     output: true
     permalink: /:collection/:path/
 

@@ -4,7 +4,9 @@ author_profile: false
 title: "Core Data Sets"
 header:
   overlay_color: "#1976d2"
-permalink: "/core-datasets/"
+permalink: "/core/"
+sidebar:
+  nav: "core"
 ---
 
 This section includes the core datasets around population, illness and disability, for West Sussex.
@@ -17,5 +19,4 @@ A set of [tools](/tools/) developed by the Research Unit are also provided in th
 
 Finally, an index of key illness and disability data is available [here](/illness-and-disability).
 
-**Please note:** we are currently updating the West Sussex JSNA site so please check back soon for updates.
-{: .notice--warning}
+{% include wip_notice %}

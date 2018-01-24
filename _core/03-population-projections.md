@@ -3,9 +3,11 @@ layout: single
 title: "Population projections"
 header:
   overlay_color: "#1976d2"
-permalink: "/core-datasets/population-projections/"
+permalink: "/core/population-data/projections/"
 excerpt: "Calculated based on latest projections from the Office of National Statistics"
 toc: true
+sidebar:
+  nav: "core"
 ---
 
 ## Population projections
@@ -23,7 +25,5 @@ ONS population projections for West Sussex districts year on year from 2011 to 2
 Thile file also includes graphical tools that show year on year increases in certain sections of the population.
 
 Download: [Population projections year on year 2011-2021.](http://jsna.westsussex.gov.uk/wp-content/uploads/2015/10/population_projections_year_on_year_2011_2021.xlsx)
-{: .notice--success}
 
-Note that download comes from old JSNA website, will need to update this.
-{: .notice--warning}
+{% include wip_notice %}

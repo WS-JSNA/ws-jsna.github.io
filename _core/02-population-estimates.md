@@ -3,9 +3,11 @@ layout: single
 title: "Population estimates"
 header:
   overlay_color: "#1976d2"
-permalink: "/core-datasets/population-estimates/"
+permalink: "/core/population-data/estimates/"
 excerpt: "Calculated based on latest projections from the Office of National Statistics"
 toc: true
+sidebar:
+  nav: "core"
 ---
 
 ## Population estimates
@@ -71,8 +73,4 @@ Further analyses and data tables will be made available soon.
 <li><a href="http://jsna.westsussex.gov.uk/wp-content/uploads/2017/02/West-Sussex-CCG-Population-Profile.xlsx" target="_blank">Population tables for West Sussex Clinical Commissioning Groups</a></li>
 </ul>
 
-Will use liquid to generate a list of information about all the data sets.
-{: .notice--danger}
-
-Will also be creating bespoke sidebars for each section.
-{: .notice--info}
+{% include wip_notice %}

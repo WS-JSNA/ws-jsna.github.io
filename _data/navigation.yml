@@ -181,7 +181,43 @@ reports:
       - title: "Physical and Mental Health in Later Life"
         url: "/ageing-well/physical-mental-health-later-life/"
 
-# core:
+core:
+  - title: "Core Datasets"
+    url: "/core/"
+  - title: "Population Data"
+    url: "/core/population-data/"
+    children:
+      - title: "Population Estimates"
+        url: "/core/population-data/estimates/"
+      - title: "Population Projections"
+        url: "/core/population-data/projections/"
+      - title: "Life Expectancy"
+        url: "/core/population-data/life-expectancy/"
+      - title: "Mortality"
+        url: "/core/population-data/mortality/"
+      - title: "Deprivation"
+        url: "/core/population-data/deprivation/"
+      - title: "Fuel Poverty"
+        url: "/core/population-data/fuel-poverty/"
+      - title: "Census Demographics"
+        url: "/core/population-data/census-demographics/"
+      - title: "Protected Characteristics"
+        url: "/core/population-data/protected-characteristics/"
+  - title: "Maps"
+    url: "/core/maps/"
+  - title: "Tools"
+    url: "/core/tools/"
+    children:
+      - title: "Postcode Lookup Tool"
+        url: "/core/tools/postcode-lookup-tool/"
+      - title: "Children's Workforce Public Health Dashboard"
+        url: "/core/tools/childrens-workforce-public-health-dashboard"
+      - title: "Adult Health, Disabilities and Mental Health Projections"
+        url: "/core/tools/adult-health-disabilities-and-mental-health-projections/"
+      - title: "Adult Health, Disabilities and Mental Health Projections for Older People"
+        url: "/core/tools/adult-health-disabilities-and-mental-health-projections-older-people/"
+  - title: "Illness and Disability Data"
+    url: "/core/illness-and-disability-data/"
 
 # area:
 
