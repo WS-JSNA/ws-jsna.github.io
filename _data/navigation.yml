@@ -221,8 +221,41 @@ core:
 
 # area:
 
-# coastal-ccg:
+ccg-coastal:
+  - title: "Coastal West Sussex CCG"
+    url: "/ccgs/coastal/"
+    children:
+      - title: "Population"
+        url: "/ccgs/coastal/population/"
+      - title: "Wider Determinants of Health"
+        url: "/ccgs/coastal/wider-determinants/"
+      - title: "Long-term Conditions"
+        url: "/ccgs/coastal/long-term-conditions/"
+      - title: "GP Patient Survey"
+        url: "/ccgs/coastal/gp-patient-survey/"
 
-# crawley-ccg:
+ccg-crawley:
+  - title: "Crawley CCG"
+    url: "/ccgs/crawley/"
+    children:
+      - title: "Population"
+        url: "/ccgs/crawley/population/"
+      - title: "Wider Determinants of Health"
+        url: "/ccgs/crawley/wider-determinants/"
+      - title: "Long-term Conditions"
+        url: "/ccgs/crawley/long-term-conditions/"
+      - title: "GP Patient Survey"
+        url: "/ccgs/crawley/gp-patient-survey/"
 
-# horsham-ccg:
+ccg-horsham:
+  - title: "Horsham and Mid Sussex CCG"
+    url: "/ccgs/horsham/"
+    children:
+      - title: "Population"
+        url: "/ccgs/horsham/population/"
+      - title: "Wider Determinants of Health"
+        url: "/ccgs/horsham/wider-determinants/"
+      - title: "Long-term Conditions"
+        url: "/ccgs/horsham/long-term-conditions/"
+      - title: "GP Patient Survey"
+        url: "/ccgs/horsham/gp-patient-survey/"

@@ -10,7 +10,7 @@ Click on the links below to access the West Sussex CCG pages.
 
 * [NHS Coastal West Sussex CCG](/ccgs/coastal/)
 * [NHS Crawley CCG](/ccgs/crawley/)
-* [NHS Horsham and Mid Sussex CCG](/ccgs/horsham-mid-sussex/)
+* [NHS Horsham and Mid Sussex CCG](/ccgs/horsham/)
 
 These profiles contain information about the size of the local population, population demographics (age and sex, ethnicity, religion, sexual orientation etc.), births, life expectancy, causes of death, deprivation, smoking, physical activity, childhood obesity, mental health, alcohol, conditions managed in primary care, emergency admissions and results from the GP patient surveys.
 
