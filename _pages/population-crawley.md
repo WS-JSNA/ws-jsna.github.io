@@ -11,11 +11,6 @@ This section includes maps of the CCG area, localities, and the locations of GP 
 
 [Read more on Area Covered](/ccgs/crawley/population/area-covered/)
 
-## Population Estimates and Projections
-This section provides estimates of the size of the resident, and GP registered population within the CCG, as well as projected change.
-
-[Read More on Population Estimates and Projections](/ccgs/crawley/population/estimates-and-projections/)
-
 ## Births and Maternity
 This section provides data such as the number of births, total fertility rate and under-18 conceptions within the CCG.
 
