@@ -21,6 +21,9 @@ This section summarises different sources of information about deprivation inclu
 
 [Read more on Deprivation](/ccgs/crawley/population/deprivation/)
 
+## Additional Deprivation information
+Some blah blah
+
 ## Protected Characteristics
 Protected characteristics are covered by the Equality Act 2010. These are age, disability, gender reassignment, marriage and civil partnership, pregnancy and maternity, race, religion or belief, sex, and sexual orientation. This section summarises the protected characteristics of the population in the CCG.
 
