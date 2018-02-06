@@ -4,7 +4,7 @@ title: Population
 permalink: /ccgs/crawley/population/
 ---
 
-This section describes the characteristics of the local population of the NHS Coastal West Sussex CCG area.
+This section describes the characteristics of the local population of the NHS Crawley CCG area.
 
 ## Area Covered
 This section includes maps of the CCG area, localities, and the locations of GP practices.
