@@ -4,7 +4,7 @@ title: Population
 permalink: /ccgs/horsham/population/
 ---
 
-This section describes the characteristics of the local population of the NHS Horsham CCG area.
+This section describes the characteristics of the local population of the NHS Horsham and Mid Sussex CCG area.
 
 ## Area Covered
 This section includes maps of the CCG area, localities, and the locations of GP practices.
