@@ -43,4 +43,6 @@ Note. GP surgeries are often subject to changes in operation/management structur
 
 <iframe src="/assets/htmlwidgets/HMS_GPs_Oct16.html" width="100%" height="800"></iframe>
 
+<iframe src="/assets/htmlwidgets/HMS_GPs_Oct16.html" class="full"></iframe>
+
 If you cannot see the map, [please click on this link](http://jsna.westsussex.gov.uk/wp-content/uploads/2016/10/HMS_GPs_Oct16.html) and use the back button of your browser to return to this page.
