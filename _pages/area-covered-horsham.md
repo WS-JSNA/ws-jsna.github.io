@@ -12,9 +12,9 @@ Horsham district is covered jointly by the Coastal West Sussex CCG and Horsham a
 Key | Practice | Practice Code 
 :-- | :------- | ------------:
 Burgess Hill | | 
- | BROW MEDICAL CENTRE | H82084
- | MEADOWS SURGERY | H82003
- | MID SUSSEX HEALTH CARE | H82057
+| | BROW MEDICAL CENTRE | H82084
+| | MEADOWS SURGERY | H82003
+| | MID SUSSEX HEALTH CARE | H82057
  | PARK VIEW HEALTH PARTNERSHIP | H82621
  | SILVERDALE PRACTICE | H82072
 East Grinstead | | 
