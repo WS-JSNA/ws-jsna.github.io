@@ -41,6 +41,6 @@ Horsham |  |  |
 
 Note. GP surgeries are often subject to changes in operation/management structure. Whilst these pages are reviewed regularly, recent changes in structure may not be reflected immediately in the maps and tables.
 
-<iframe src="/assets/htmlwidgets/HMS_GPs_Oct16.html" width="100%" height="100%" />
+<iframe src="/assets/htmlwidgets/HMS_GPs_Oct16.html" width="100%" height="50%"></iframe>
 
 If you cannot see the map, [please click on this link](http://jsna.westsussex.gov.uk/wp-content/uploads/2016/10/HMS_GPs_Oct16.html) and use the back button of your browser to return to this page.
