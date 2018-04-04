@@ -17,7 +17,7 @@ This section of the website provides key data and analyses relating to these you
 
 Data in this section are provided under five headings:
 * [Maternity and fertility](/starting-well/maternity-and-fertility/)
-* [Birth and the newborn](/starting-well/birth-and-the-newborn/)
+* [Birth and the newborn](/starting-well/birth-newborn/)
 * [Early years](/starting-well/early-years/)
 * [School age children and education](/starting-well/education-children/)
 * [Young people](/starting-well/young-people/)

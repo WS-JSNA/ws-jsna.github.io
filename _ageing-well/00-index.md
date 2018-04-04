@@ -19,7 +19,7 @@ Over the next 25 years, the number of adults aged 65+ admitted to hospital due t
 
 The information for ageing well is presented under two headings: Population and service data – later life and Physical and mental health and wellbeing in later life.
 
-* [Population and service data – later life](/ageing-well/later-life-population-data/)
+* [Population and service data – later life](/ageing-well/population-data/)
 * [Physical and mental health and wellbeing in later life](/ageing-well/physical-mental-health-later-life/)
 
 {% include wip_notice %}

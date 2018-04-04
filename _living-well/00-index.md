@@ -19,7 +19,7 @@ Many of the risk factors associated with poor health among the working age popul
 
 This section is presented under three headings, reflecting the available [demographics of the workforce in West Sussex]({{"/living-well/workforce-health/" | absolute_url}}), data on [housing]({{"/living-well/housing/" | absolute_url}}), [environment]({{"/living-well/environment/" | absolute_url}}) and [wider determinants of health]({{"/living-well/wider-determinants/" | absolute_url}}) and data on [the health behaviours of the working age population]({{"/living-well/health-behaviours/" | absolute_url}}):
 
-* [Workforce health and disability]({{"/living-well/workforce/" | absolute_url}})
+* [Workforce health and disability]({{"/living-well/workforce-health/" | absolute_url}})
 * [Housing, environment and wider determinants of health]({{"/living-well/wider-determinants/" | absolute_url}})
 * [Health behaviours]({{"/living-well/health-behaviours/" | absolute_url}})
 
