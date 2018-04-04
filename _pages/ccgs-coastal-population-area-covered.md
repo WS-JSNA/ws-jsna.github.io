@@ -13,12 +13,12 @@ Note that Horsham district is covered jointly by the Coastal West Sussex CCG and
 Click the locality names in the table below to see the location of GP surgeries within each area. Note that GP surgeries are often subject to changes in operation/management structure. Whilst these pages are reviewed regularly, recent changes may not be reflected immediately in the maps and tables.
 
 
-- [Adur](/ccg/coastal/population/area-covered/adur/)
-- [Arun](/ccg/coastal/population/area-covered/arun/)
-- [Chanctonbury](/ccg/coastal/population/area-covered/chanctonbury/)
-- [Chichester](/ccg/coastal/population/area-covered/chichester/)
-- [Regis](/ccg/coastal/population/area-covered/regis/)
-- [Cissbury (Worthing)](/ccg/coastal/population/area-covered/cissbury-worthing/)
+- [Adur](/ccgs/coastal/population/area-covered/adur/)
+- [Arun](/ccgs/coastal/population/area-covered/arun/)
+- [Chanctonbury](/ccgs/coastal/population/area-covered/chanctonbury/)
+- [Chichester](/ccgs/coastal/population/area-covered/chichester/)
+- [Regis](/ccgs/coastal/population/area-covered/regis/)
+- [Cissbury (Worthing)](/ccgs/coastal/population/area-covered/cissbury-worthing/)
 
 <iframe src="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/10/WSx_GPs_CCG_Localities-1.html" width="100%" height="400"></iframe>
 
