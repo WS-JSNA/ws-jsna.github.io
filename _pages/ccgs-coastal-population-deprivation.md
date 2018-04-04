@@ -27,10 +27,7 @@ Domains contributing[^1] to the overall Index of multiple deprivation:
 
 The map shows the relative deprivation deciles (using national rankings) for LSOAs in NHS Coastal West Sussex CCG. The most deprived areas (those in the most deprived 10% of LSOAs in England) are shaded dark blue. As can be seen from the map, NHS Coastal West Sussex CCG contains some of the most deprived neighbourhoods in the country (these fall within the River, Courtwick with Toddington and Bersted wards).
 
-<figure>
-<iframe src="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/10/IMDmap_09G.html" width="100%" height="400"></iframe>
-<figcaption>Use your mouse wheel or the (+) button in the top left of the map to zoom in to the map.<br />If you cannot see the map, <a href="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/10/IMDmap_09G.html">please click on this link</a> and use the back button of your browser to return to this page.</figcaption>
-</figure>
+{% include htmlwidget_w_cap html_path="/assets/htmlwidgets/IMDmap_09G.html" caption="Use your mouse wheel or the (+) button in the top left of the map to zoom in to the map. If you cannot see the map, [please click on this link](/assets/htmlwidgets/IMDmap_09G.html) and use the back button of your browser to return to this page." %}
 
 ### Indices of multiple deprivation at GP practice level
 

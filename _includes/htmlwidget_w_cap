@@ -1,0 +1,10 @@
+{% capture html_path %}{{ include.html_path }}{% endcapture %}
+{% capture the_caption %}{{ include.caption | markdownify }}{% endcapture %}
+
+<figure>
+<!-- Courtesy of embedresponsively.com //-->
+<div class="responsive-video-container">
+  <iframe src="{{html_path}}" frameborder="0"></iframe>
+</div>
+<figcaption>{{the_caption}}</figcaption>
+</figure>
