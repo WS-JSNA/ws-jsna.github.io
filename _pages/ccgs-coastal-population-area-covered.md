@@ -13,13 +13,13 @@ Note that Horsham district is covered jointly by the Coastal West Sussex CCG and
 Click the locality names in the table below to see the location of GP surgeries within each area. Note that GP surgeries are often subject to changes in operation/management structure. Whilst these pages are reviewed regularly, recent changes may not be reflected immediately in the maps and tables.
 
 
-- [Adur](http://jsna.westsussex.gov.uk/area-profiles/ccg/coastal/population/area-covered/adur-locality/)
-- [Arun](http://jsna.westsussex.gov.uk/area-profiles/ccg/coastal/population/area-covered/arun-locality/)
-- [Chanctonbury](http://jsna.westsussex.gov.uk/area-profiles/ccg/coastal/population/area-covered/chanctonbury-locality/)
-- [Chichester](http://jsna.westsussex.gov.uk/area-profiles/ccg/coastal/population/area-covered/chichester-locality/)
-- [Regis](http://jsna.westsussex.gov.uk/area-profiles/ccg/coastal/population/area-covered/regis-locality/)
-- [Cissbury (Worthing)](http://jsna.westsussex.gov.uk/area-profiles/ccg/coastal/population/area-covered/cissbury-worthing-locality/)
+- [Adur](/ccg/coastal/population/area-covered/adur/)
+- [Arun](/ccg/coastal/population/area-covered/arun/)
+- [Chanctonbury](/ccg/coastal/population/area-covered/chanctonbury/)
+- [Chichester](/ccg/coastal/population/area-covered/chichester/)
+- [Regis](/ccg/coastal/population/area-covered/regis/)
+- [Cissbury (Worthing)](/ccg/coastal/population/area-covered/cissbury-worthing/)
 
 <iframe src="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/10/WSx_GPs_CCG_Localities-1.html" width="100%" height="400"></iframe>
 
-<p>If you cannot see the map, <a href="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/10/WSx_GPs_CCG_Localities-1.html">please click on this link</a> and use the back button of your browser to return to this page.</p>
+If you cannot see the map, [please click on this link](http://jsna.westsussex.gov.uk/wp-content/uploads/2016/10/WSx_GPs_CCG_Localities-1.html) and use the back button of your browser to return to this page.
