@@ -25,9 +25,11 @@ Chichester Locality covers the entirety of Chichester local authority and a smal
 | THE PETWORTH SURGERY | H82006 |
 | WITTERINGS MEDICAL CENTRE | H82095 |
 
-<iframe src="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/10/Chichester_GPs_Oct16.html" width="100%" height="400"></iframe>
+{% include htmlwidget html_path="/assets/htmlwidgets/Chichester_GPs_Oct16.html" %}
 
-If you cannot see the map, [please click on this link](http://jsna.westsussex.gov.uk/wp-content/uploads/2016/10/Chichester_GPs_Oct16.html) and use the back button of your browser to return to this page.
+<!-- <iframe src="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/10/Chichester_GPs_Oct16.html" width="100%" height="400"></iframe> -->
+
+If you cannot see the map, [please click on this link](/assets/htmlwidgets/Chichester_GPs_Oct16.html) and use the back button of your browser to return to this page.
 
 ### Other localities
 

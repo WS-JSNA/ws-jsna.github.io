@@ -22,9 +22,11 @@ Regis Locality covers the western side of Arun local authority. It covers an urb
 | THE CROFT SURGERY | H82077 |
 | WEST MEADS SURGERY | H82099 |
 
-<iframe src="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/10/Regis_GPs_Oct16.html" width="100%" height="400"></iframe>
+{% include htmlwidget html_path="/assets/htmlwidgets/Regis_GPs_Oct16.html" %}
 
-If you cannot see the map, [please click on this link](http://jsna.westsussex.gov.uk/wp-content/uploads/2016/10/Regis_GPs_Oct16.html) and use the back button of your browser to return to this page.
+<!-- <iframe src="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/10/Regis_GPs_Oct16.html" width="100%" height="400"></iframe> -->
+
+If you cannot see the map, [please click on this link](/assets/htmlwidgets/Regis_GPs_Oct16.html) and use the back button of your browser to return to this page.
 
 ### Other localities
 
