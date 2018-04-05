@@ -307,7 +307,7 @@ This report includes sections on smoking and alcohol, carers, contact with healt
 DAA09,Dual diagnosis needs assessment,23/12/2014,PDF,living-well,dual_diagnosis_needs_assessment.pdf,"This is the dual diagnosis needs assessment - dual refers to people who have a mental health problem and also a substance misuse problem."
 DAA10,Lives of older people in West Sussex survey; summary report 2013,16/12/2013,PDF,living-well,lives_of_older_people_in_west_sussex_survey_summary_report_2013_final_.pdf,"West Sussex County Council conducted a telephone survey of 2803 residents aged 65+ and selected at random.
 
-The aims of the survey were to understand levels of loneliness, social isolation and participation in older people in the county and to obtain data on health, wellbeing and lifestyle."" "
+The aims of the survey were to understand levels of loneliness, social isolation and participation in older people in the county and to obtain data on health, wellbeing and lifestyle."
 DAA11,Lifestyles of 16 to 24 year olds in West Sussex 2007,03/04/2014,PDF,living-well,lifestyles_of_16_to_24_year_olds_in_west_sussex_2008.pdf,"This survey provides West Sussex with an important and timely insight into the health and educational determinants of young adults in further and higher education.
 
 This report provides information on demographics, lifestyles, high-risk and sexual behaviour of young adults aged between 16 and 24 years old.
@@ -368,7 +368,7 @@ SMOK06,Lifestyles of 14-15 year olds in West Sussex 2015,17/11/2015,PDF,living-w
 SMOK07,West Sussex smoking cessation health equity audit 2013 - 2014,16/05/2015,PDF,living-well,smoking_cessation_health_equity_audit_2013_14.pdf,"This report is to provide local stop smoking services, commissioners and decision makers with information about how equitable the distributions of resources for stop smoking services were delivered relative to the health needs of the population."
 SMOK08,Lives of older people in West Sussex survey; summary report 2013,16/12/2013,PDF,living-well,lives_of_older_people_in_west_sussex_survey_summary_report_2013_final_.pdf,"West Sussex County Council conducted a telephone survey of 2803 residents aged 65+ and selected at random.
 
-The aims of the survey were to understand levels of loneliness, social isolation and participation in older people in the county and to obtain data on health, wellbeing and lifestyle."" "
+The aims of the survey were to understand levels of loneliness, social isolation and participation in older people in the county and to obtain data on health, wellbeing and lifestyle."
 LL01,West Sussex JSNA Older People Profiling,01/02/2017,PDF,ageing-well,West-Sussex-JSNA-Older-People-Profiling.pdf,"This profile collates data relating to the health and wellbeing of older people in West Sussex. Data are presented, in the main, at county level. District and CCG level information, where available, is on the JSNA website."
 LL02,Estimation of Need and Social Care Demand Management - West Sussex PH,01/02/2017,PDF,ageing-well,Estimation-of-Need-and-Social-Care-Demand-Management-West-Sussex-PH.pdf,"This briefing aims to:
 
@@ -642,3 +642,38 @@ JSNA1,West Sussex Joint Strategic Needs Assessment 2014 Data Appendix,27/10/2014
 JSNA2,West Sussex Joint Strategic Needs Assessment Summary Version 2014,27/10/2014,Word,reports,west_sussex_joint_strategic_needs_assessment__summary_version_2014.docx,"This is a high level summary of the health and wellbeing needs of the West Sussex population.
 
 This was presented to the West Sussex Health and Wellbeing Board on 8th September 2014."
+POP01,Census 2011 headline population statistics,16/07/2012,Word,core,census_2011_headline_population_stats1.doc,"Single page document showing the overall population of West Sussex as of the March 2011 Census. Breaks population down into household residents, residents of communal establishments and short term migrants. Figures are inflated to take into account non-respondent rates."
+POP02,Census 2011 population estimates ward level,23/11/2012,Word,core,census_2011_population_estimates_ward_level.doc,"Census 2011 output on population estimates at ward level. Tables are presented for each Local Authority by broad age band."
+POP03,Census 2001 – 2011 population West Sussex Local Authorities,05/09/2013,Excel,core,census_2001_2011_population_west_sussex_LAs.xls,"The table and graphs in this document display the population counts (adjusted for non-respondents) from the 2001 and 2011 censuses by age and sex at local authority level and for West Sussex as a whole. Other statistics such as percentage falling into certain categories and dependency ratios are also calculated. The West Sussex population increased by over 53,000 usually resident people between 2001 and 2011."
+POP04,2011 Census - Usual resident population at Lower Super Output Area level,05/09/2013,Excel,core,2011_census_usual_resident_population_by_resident_type_sex_and_5_year_age_groups_at_lsoa_level.xls,"These spreadsheets provide population estimates at LSOA level by resident type, sex and 5 year age groups. Estimates are based on usual resident population."
+POP05,2011 Census - Ethnic group at local authority and ward level,05/09/2013,Excel,core,2011_census_ethnic_group_LA_ward.xls,"This file provides the ethnic composition of residents at Local Authority and ward level. A new addition to the census is detailed ethnic group, which has been included in this file at local authority level."
+POP06,Carers data – Census 2011,16/08/2013,Excel,core,general_health_census_2011.xlsx,"Census data of unpaid carers within West Sussex at district level; categorised by hours work and by self assessed general health."
+POP07,General health - Census 2011,16/08/2013,Excel,core,general_health_census_2011.xlsx,"2011 Census data on self assessed quality of health by age and sex."
+POP08,Access to cars or vans,12/08/2013,Excel,core,access_vans_cars.xlsx,"Census data from 2001 and 2011 on a households access to a van or a car, alongside dynamic comparison pie charts."
+POP09,Central heating,07/08/2012,Excel,core,central_heating.xlsx,"Central heating data from the 2011 census at ward level for West Sussex. Presented with a two drop down boxes linked to pie charts for easy comparison."
+POP10,Economic activity,07/08/2013,Excel,core,economic_activity.xlsx,"Economic activity by lower super output area (LSOA) for West Sussex. All data collected from the 2001-2011 census."
+POP11,Employment and disability,05/08/2013,Excel,core,employment_disability.xls,"Economic activity by Long term limiting disability or illness. A comparison between 2001-2011 census data."
+POP12,Ethnic composition 2001 and 2011: Arun and Chichester,17/12/2012,Word,core,local_authority_ethnic_composition_2001_and_2011_arun_and_chichester.doc,"Document outlining detailed ethnic composition for Adur and Chichester, taken from the 2011 Census. Ethnic composition is also compared with the 2001 census, highlighting the changes over the last 10 years. For both areas, there has been an increase in ethnic minority groups, particular in the other White group."
+POP13,Household structure by ward (2001 – 2011),31/01/2011,Excel,core,household_structure_ward_2001_2011.xls,"Numbers and percentages of households by census structure category (e.g. One Person: Pensioner, Married couple households: with dependent children etc.)"
+POP14,ONS census output 2012,05/04/2012,Word,core,ons_census_output_2012.doc,"Census 2011 data will be released in 4 stages between July 2012 and October 2013.
+
+Please see the link below for further information on census output release dates.
+
+The prospectus table and schedule on the bottom right hand corner of the link has further details on the data that will be released."
+POP15,Population in care homes by local authority census 2011,08/01/2014,Excel,core,population_in_care_homes_by_local_authority_census_2011.xls,"This document shows West Sussex having the 4th highest proportion of population aged 75+ of all counties in England and the 2nd highest proportion of people living in care homes."
+POP16,Housing tenure,07/08/2012,Excel,core,housing_tenure.xlsx,"Tenure data for West Sussex at ward level for all households and those over 65.
+
+Presented with visual breakdown of each type of tenure. All data collected from the 2011 Census."
+POP17,Industry of occupation by ward and district 2001 – 2011,24/07/2013,Excel,core,industry_occupation_by_ward_district_2001_2011.xlsx,"Self reported industry of occupation, numbers and percentages by ward and district from the 2001 and 2011 census."
+POP18,Long term limiting illness and good health by ward,31/01/2011,Excel,core,long_term_limiting_illness_and_good_health_by_ward_2001.xls,"Answers to the health and long term limiting illness questions on the 2001 census by age group by ward, percentages applied to mid year population estimates 2007."
+POP19,Method of travel to work (2001 – 2011),13/11/2011,Excel,core,method_travel_work_2001_2011.xlsx,"Comparison of the 2001 and 2011 Census data on method of travel to work at ward and local authority level."
+POP20,Method of travel to school 2010,07/02/2011,Excel,core,method_travel_school_2010.xls,"Numbers of students by each method of travel to school from the School Census 2010.
+
+Data is broken down for each statutory nursery, primary and secondary school within the county."
+POP21,Overcrowding,14/08/2013,Excel,core,overcrowding.xlsx,"Comparison for 2001-2011 census data on household overcrowding at ward level."
+POP22,Registered school pupils by ethnic group 2012,21/06/2012,Excel,core,registered_school_pupils_ethnic_group_2012.xls,"Data collected from the school census on the ethnic group of pupils at different academic stages."
+POP23,Religion at ward and local authority level 2001 – 2011,24/07/2013,Excel,core,religion_at_ward_LA_2001_2011.xlsx,"Dataset showing religion status from 2001 and 2011 census. Responses are self reported."
+POP24,Unpaid carers (2001 – 2011),10/09/2013,Excel,core,unpaid_carers_2001_2011.xlsx,"Census data regarding unpaid care, this spreadsheet includes ward level counts for unpaid care by hours given, it also includes confidence intervals, to be used to show statistical significance."
+PC01,Equality Act update 2013,07/02/2014,Word,core,equality_act_update_2013.docx,"The Equality Act 2010 identified nine protected characteristics; age, sex, disability, race, religion and belief, gender re-assignment, marriage and civil partnership, sexual orientation and pregnancy and maternity.
+
+The attached report is an update on population level data sources relating to these characteristics."

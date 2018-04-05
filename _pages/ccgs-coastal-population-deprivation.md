@@ -27,7 +27,7 @@ Domains contributing[^1] to the overall Index of multiple deprivation:
 
 The map shows the relative deprivation deciles (using national rankings) for LSOAs in NHS Coastal West Sussex CCG. The most deprived areas (those in the most deprived 10% of LSOAs in England) are shaded dark blue. As can be seen from the map, NHS Coastal West Sussex CCG contains some of the most deprived neighbourhoods in the country (these fall within the River, Courtwick with Toddington and Bersted wards).
 
-{% include htmlwidget_w_cap html_path="/assets/htmlwidgets/IMDmap_09G.html" caption="Use your mouse wheel or the (+) button in the top left of the map to zoom in to the map. If you cannot see the map, [please click on this link](/assets/htmlwidgets/IMDmap_09G.html) and use the back button of your browser to return to this page." %}
+{% include htmlwidget_map html_path="/assets/htmlwidgets/IMDmap_09G.html" %}
 
 ### Indices of multiple deprivation at GP practice level
 
@@ -63,10 +63,7 @@ The Income Deprivation Domain measures the proportion of the population experien
 
 The map below shows the relative income deprivation deciles (using national rankings) for LSOAs in NHS Coastal West Sussex CCG. The most deprived areas (those in the most deprived 10% of LSOAs in England) are shaded dark blue. You can also change the view to show the relative deprivation deciles within the CCG itself (to identify most and least deprived small areas in the CCG) by clicking on the right hand side of the map.
 
-<figure>
-<iframe src="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/10/Incomemap_09G.html" width="100%" height="400"></iframe>
-<figcaption>Use your mouse wheel or the (+) button in the top left of the map to zoom in to the map.<br />If you cannot see the map, <a href="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/10/Incomemap_09G.html">please click on this link</a> and use the back button of your browser to return to this page.</figcaption>
-</figure>
+{% include htmlwidget_map html_path="/assets/htmlwidgets/Incomemap_09G.html" %}
 
 In addition to the overall income deprivation score, two supplementary indices are available; the income deprivation affecting children index and the income deprivation affecting older people index.
 
@@ -76,10 +73,7 @@ The Income Deprivation Affecting Children Index is the proportion of all childre
 
 The map below shows the relative income deprivation affecting children deciles (using national rankings) for LSOAs in NHS Coastal West Sussex CCG.
 
-<figure>
-<iframe src="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/10/IDACImap_09G.html" width="100%" height="400"></iframe>
-<figcaption>Use your mouse wheel or the (+) button in the top left of the map to zoom in to the map.<br />If you cannot see the map, <a href="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/10/IDACImap_09G.html">please click on this link</a> and use the back button of your browser to return to this page.</figcaption>
-</figure>
+{% include htmlwidget_map html_path="/assets/htmlwidgets/IDACImap_09G.html" %}
 
 ### Income Deprivation Affecting Older People
 
@@ -87,10 +81,7 @@ The Income Deprivation Affecting Older People Index is the proportion of all tho
 
 The map below shows the relative income deprivation affecting older people deciles (using national rankings) for LSOAs in NHS Coastal West Sussex CCG.
 
-<figure>
-<iframe src="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/10/IDAOPImap_09G.html" width="100%" height="400"></iframe>
-<figcaption>Use your mouse wheel or the (+) button in the top left of the map to zoom in to the map.<br />If you cannot see the map, <a href="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/10/IDAOPImap_09G.html">please click on this link</a> and use the back button of your browser to return to this page.</figcaption>
-</figure>
+{% include htmlwidget_map html_path="/assets/htmlwidgets/IDAOPImap_09G.html" %}
 
 [Back to list of domains](#indices-of-deprivation-2015)
 
@@ -102,10 +93,7 @@ The Employment Deprivation Domain numerator was expressed as a proportion of the
 
 The map below shows the relative employment deprivation deciles (using national rankings) for LSOAs in NHS Coastal West Sussex CCG. The most deprived areas (those in the most deprived 10% of LSOAs in England) are shaded dark blue. You can also change the view to show the relative deprivation deciles within the CCG itself (to identify most and least deprived small areas in the CCG) by clicking on the right hand side of the map.
 
-<figure>
-<iframe src="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/10/Empmap_09G.html" width="100%" height="400"></iframe>
-<figcaption>Use your mouse wheel or the (+) button in the top left of the map to zoom in to the map. If you cannot see the map, <a href="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/10/Empmap_09G.html">please click on this link</a> and use the back button of your browser to return to this page.</figcaption>
-</figure>
+{% include htmlwidget_map html_path="/assets/htmlwidgets/Empmap_09G.html" %}
 
 [Back to list of domains](#indices-of-deprivation-2015)
 
@@ -115,10 +103,7 @@ The Education, Skills and Training Domain measures the lack of attainment and sk
 
 The map below shows the relative education deprivation deciles (using national rankings) for LSOAs in NHS Coastal West Sussex CCG. The most deprived areas (those in the most deprived 10% of LSOAs in England) are shaded dark blue. You can also change the view to show the relative deprivation deciles within the CCG itself (to identify most and least deprived small areas in the CCG) by clicking on the right hand side of the map.
 
-<figure>
-	<iframe src="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/10/Edumap_09G.html" width="100%" height="400"></iframe>
-	<figcaption>Use your mouse wheel or the (+) button in the top left of the map to zoom in to the map. If you cannot see the map, <a href="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/10/Edumap_09G.html">please click on this link</a> and use the back button of your browser to return to this page.</figcaption>
-</figure>
+{% include htmlwidget_map html_path="/assets/htmlwidgets/Edumap_09G.html" %}
 
 [Back to list of domains](#indices-of-deprivation-2015)
 
@@ -128,10 +113,7 @@ The Health Deprivation and Disability Domain measures the risk of premature deat
 
 The map below shows the relative health deprivation deciles (using national rankings) for LSOAs in NHS Coastal West Sussex CCG. The most deprived areas (those in the most deprived 10% of LSOAs in England) are shaded dark blue. You can also change the view to show the relative deprivation deciles within the CCG itself (to identify most and least deprived small areas in the CCG) by clicking on the right hand side of the map.
 
-<figure>
-	<iframe src="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/10/Healthmap_09G.html" width="100%" height="400"></iframe>
-	<figcaption>Use your mouse wheel or the (+) button in the top left of the map to zoom in to the map. If you cannot see the map, <a href="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/10/Healthmap_09G.html">please click on this link</a> and use the back button of your browser to return to this page.</figcaption>
-</figure>
+{% include htmlwidget_map html_path="/assets/htmlwidgets/Healthmap_09G.html" %}
 
 [Back to list of domains](#indices-of-deprivation-2015)
 
@@ -141,10 +123,7 @@ The Crime Domain measures the risk of personal and material victimisation at loc
 
 The map below shows the relative crime deprivation deciles (using national rankings) for LSOAs in NHS Coastal West Sussex CCG. The most deprived areas (those in the most deprived 10% of LSOAs in England) are shaded dark blue. You can also change the view to show the relative deprivation deciles within the CCG itself (to identify most and least deprived small areas in the CCG) by clicking on the right hand side of the map.
 
-<figure>
-	<iframe src="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/10/Crimemap_09G.html" width="100%" height="400"></iframe>
-	<figcaption>Use your mouse wheel or the (+) button in the top left of the map to zoom in to the map. If you cannot see the map, <a href="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/10/Crimemap_09G.html">please click on this link</a> and use the back button of your browser to return to this page.</figcaption>
-</figure>
+{% include htmlwidget_map html_path="/assets/htmlwidgets/Crimemap_09G.html" %}
 
 [Back to list of domains](#indices-of-deprivation-2015)
 
@@ -153,10 +132,8 @@ The map below shows the relative crime deprivation deciles (using national ranki
 The Barriers to Housing and Services Domain measures the physical and financial accessibility of housing and local services. The indicators fall into two subdomains: ‘geographical barriers’, which relate to the physical proximity of local services, and ‘wider barriers’ which includes issues relating to access to housing such as affordability. Indicators include road distance to schools, shops and primary care as well as household overcrowding, affordability of housing and homelessness.
 
 The map below shows the relative barriers to housing and services deprivation deciles (using national rankings) for LSOAs in NHS Coastal West Sussex CCG. The most deprived areas (those in the most deprived 10% of LSOAs in England) are shaded dark blue. You can also change the view to show the relative deprivation deciles within the CCG itself (to identify most and least deprived small areas in the CCG) by clicking on the right hand side of the map.
-<figure>
-	<iframe src="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/10/Barriersmap_09G.html" width="100%" height="400"></iframe>
-	<figcaption>Use your mouse wheel or the (+) button in the top left of the map to zoom in to the map. If you cannot see the map, <a href="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/10/Barriersmap_09G.html">please click on this link</a> and use the back button of your browser to return to this page.</figcaption>
-</figure>
+
+{% include htmlwidget_map html_path="/assets/htmlwidgets/Barriersmap_09G.html" %}
 
 [Back to list of domains](#indices-of-deprivation-2015)
 
@@ -166,10 +143,7 @@ The Living Environment Deprivation Domain measures the quality of the local envi
 
 The map below shows the relative living environment deprivation deciles (using national rankings) for LSOAs in NHS Coastal West Sussex CCG. The most deprived areas (those in the most deprived 10% of LSOAs in England) are shaded dark blue.
 
-<figure>
-	<iframe src="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/10/Livmap_09G.html" width="100%" height="400"></iframe>
-	<figcaption>Use your mouse wheel or the (+) button in the top left of the map to zoom in to the map. If you cannot see the map, <a href="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/10/Livmap_09G.html">please click on this link</a> and use the back button of your browser to return to this page.</figcaption>
-</figure>
+{% include htmlwidget_map html_path="/assets/htmlwidgets/Livmap_09G.html" %}
 
 [Back to list of domains](#indices-of-deprivation-2015)
 
@@ -220,7 +194,8 @@ In 2013, **12.1%** of children under the age of 16 years in West Sussex were liv
 
 The table below shows the number and proportion of children under 16 years of age living in low income households in local authority districts of NHS Coastal West Sussex CCG between 2008 and 2013. It should be noted that the data for Horsham reflects the whole district of Horsham and not just the part of Horsham that is designated as NHS Coastal West Sussex CCG.
 					
-| Area | 2008 |	2009 |	2010 |	2011 |	2012 | 2013 |
+| Area | 2008 |	2009 | 2010 | 2011 | 2012 | 2013 |
+|:-----|:----:|:----:|:----:|:----:|:----:|:----:|
 | Adur | 1,820 (17.5%) | 1,960 (18.7%) | 1,795 (17.2%) | 1,785 (17.0%) | 1,720 (16.1%) | 1,650 (15.3%) |
 | Arun | 3,835 (16.3%)  | 4,050 (17.1%) | 3,845 (16.2%) | 3,880 (16.3%) | 3,625 (15.0%) | 3,555 (14.6%) |
 | Chichester | 2,330 (12.7%) | 2,425 (13.1%) | 2,340 (12.6%) | 2,230 (12.0%) | 2,100 (11.3%) | 2,050 (11.2%) |

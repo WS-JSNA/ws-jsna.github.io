@@ -41,9 +41,9 @@ The table below shows the estimated household fuel poverty for West Sussex distr
 
 The maps below show the percentage and estimated number of Fuel Poor households in 2014, for each LSOA in West Sussex. These maps indicate wide variation across the county and that areas in the west of the county appear to have a higher proportion of households which are fuel poor according to the Low Income High Cost indicator compared to areas along the coast and Crawley. For example, in Chichester 007B (in the Funtington ward), one in four households was estimated to be in fuel poverty.
 
-<iframe src="http://jsna.westsussex.gov.uk/wp-content/uploads/2017/04/Fuel_poverty_LSOA_2014.html" width="100%" height="400"></iframe>{: .full}
+{% include htmlwidget_map html_path="/assets/htmlwidgets/Fuel_poverty_LSOA_2014.html" %}
 
-<iframe src="http://jsna.westsussex.gov.uk/wp-content/uploads/2017/04/Fuel_poverty_LSOA_2014_estimated_numbers.html" width="100%" height="400"></iframe>{: .full}
+{% include htmlwidget_map html_path="/assets/htmlwidgets/Fuel_poverty_LSOA_2014_estimated_numbers.html" %}
 			  
                 
 

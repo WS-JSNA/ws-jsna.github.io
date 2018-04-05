@@ -20,8 +20,4 @@ Click the locality names in the table below to see the location of GP surgeries 
 - [Regis](/ccgs/coastal/population/area-covered/regis/)
 - [Cissbury (Worthing)](/ccgs/coastal/population/area-covered/cissbury-worthing/)
 
-{% include htmlwidget html_path="/assets/htmlwidgets/WSx_GPs_CCG_Localities-1.html" %}
-
-<!-- <iframe src="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/10/WSx_GPs_CCG_Localities-1.html" width="100%" height="400"></iframe> -->
-
-If you cannot see the map, [please click on this link](/assets/htmlwidgets/WSx_GPs_CCG_Localities-1.html) and use the back button of your browser to return to this page.
+{% include htmlwidget_map html_path="/assets/htmlwidgets/WSx_GPs_CCG_Localities-1.html" %}

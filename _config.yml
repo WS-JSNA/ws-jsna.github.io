@@ -17,7 +17,7 @@ url                      : https://ws-jsna.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : ws-jsna/ws-jsna.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
@@ -52,6 +52,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true #,false (default)
+search_full_content      : true
 
 # SEO Related
 google_site_verification :

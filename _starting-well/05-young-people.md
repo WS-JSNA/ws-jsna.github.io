@@ -20,5 +20,4 @@ The What About YOUth? survey is a national survey of 15 year olds in England ask
 
 {% include downloads_from_db ids=page.downloads %}
 
-**Please note:** we are currently updating the West Sussex JSNA site so please check back soon for updates.
-{: .notice--danger}
+{% include wip_notice %}

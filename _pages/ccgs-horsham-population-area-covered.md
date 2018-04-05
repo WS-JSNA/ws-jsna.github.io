@@ -43,6 +43,4 @@ Horsham |  |  |
 
 Note. GP surgeries are often subject to changes in operation/management structure. Whilst these pages are reviewed regularly, recent changes in structure may not be reflected immediately in the maps and tables.
 
-<iframe src="/assets/htmlwidgets/HMS_GPs_Oct16.html" width="100%" height="600"></iframe>
-
-If you cannot see the map, [please click on this link](/assets/htmlwidgets/HMS_GPs_Oct16.html) and use the back button of your browser to return to this page.
+{% include htmlwidget_map html_path="/assets/htmlwidgets/HMS_GPs_Oct16.html" %}
