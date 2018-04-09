@@ -1,3 +1,12 @@
-{% capture pdf_path %}{{ include.file_path }}{% endcapture %}
-
-<embed src="{{pdf_path}}" width="650" height="525">
+<figure class="{{ include.class }}">
+  <img src=
+    {% if include.file_path contains "://" %}
+      "{{ include.file_path }}"
+    {% else %}
+      "{{ include.file_path | absolute_url }}"
+    {% endif %}
+    alt="{% if include.alt %}{{ include.alt }}{% endif %}">
+  {% if include.caption %}
+    <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
+  {% endif %}
+</figure>
