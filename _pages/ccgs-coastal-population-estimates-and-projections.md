@@ -7,7 +7,7 @@ sidebar:
 toc: true
 ---
 
-## Population Estimates
+### Population Estimates
 
 Population information is available in different formats depending on the definition used. The **registered population** is defined as the number of people registered with a GP *regardless of where they live* and the **resident population** is defined as the number of people *residing in a particular geographical area* (e.g. a district).
 
@@ -46,15 +46,19 @@ The table below shows the ONS mid-2014 resident population estimates at local au
 
 NHS Coastal West Sussex CCG has below average percentage of young people aged 0-19 years compared to the whole of West Sussex and England. It also has above average percentages of people aged 65 and over, and 75 and over when compared to the West Sussex county and England overall.
 
-## Population Projections
+### Population Projections
 
 Projections of future population changes are based primarily on trends observed in levels of births, deaths and migrations in local authorities over the 5 years leading to 2014, and these are used to predict population change until 2039.
 
 Current population projections for NHS Coastal West Sussex CCG are estimating an overall population increase of 8.3% over the next ten years and a 16.2% increase over the next two decades. Higher percentage increases are expected in older age groups, specifically persons aged 65-84 years (+20.0% by 2026, and +41.4% by 2036) and aged 85 years or above (+31.0% by 2026, and +108.4% by 2036). The population of those aged 85 or above is expected to more than double by 2036 in NHS Coastal West Sussex.
 
-*Note. The projections included in this report show projected change to 2036. These are subnational population projections (SNPP) that were produced by the ONS in 2016, and are based on the 2014 mid-year population estimates. As a result, these estimates are based on the old CCG boundary where four lower-layer super output areas (LSOAs) were formerly assigned to Guildford and Waverley CCG. This is reflected in the difference between the total population size presented in the projection table below, and the mid-year estimates <a href="#population-estimates">table</a>, and equates to a deficit of around 7,000 residents. As such, the projections for Coastal West Sussex (particularly for later years) are likely to underestimate the projected population size of the CCG area when the new boundary is taken into account.*
+{% capture note-1 %}
+**Note:** The projections included in this report show projected change to 2036. These are subnational population projections (SNPP) that were produced by the ONS in 2016, and are based on the 2014 mid-year population estimates. As a result, these estimates are based on the old CCG boundary where four lower-layer super output areas (LSOAs) were formerly assigned to Guildford and Waverley CCG. This is reflected in the difference between the total population size presented in the projection table below, and the [mid-year estimates table](#population-estimates), and equates to a deficit of around 7,000 residents. As such, the projections for Coastal West Sussex (particularly for later years) are likely to underestimate the projected population size of the CCG area when the new boundary is taken into account.
+{% endcapture %}
 
-| Age Group | 2016 (projection from 2014 MYE) | 2026 Projection | % Change from 2016 projection to 2026 | 2036 Projection	% Change from 2016 projection to 2036 |
+<div class="notice--info">{{ note-1 | markdownify }}</div>
+
+| Age Group | 2016 (projection from 2014 MYE) | 2026 Projection | % Change from 2016 projection to 2026 | 2036 Projection | % Change from 2016 projection to 2036 |
 | :--- | -----: | -----: | ---: | -----: | ---: |
 | 0-14 | 77,100 | 81,500 | 5.7% | 82,400 | 6.9% |
 | 15-64 | 286,000 | 297,000 | 3.8% | 297,100 | 3.9% |
@@ -66,4 +70,4 @@ Current population projections for NHS Coastal West Sussex CCG are estimating an
 
 
 
-{% include figure image_path="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/06/2014-Population-Projections.jpg" alt="Source: ONS Mid-Year Population Estimate (2014); ONS Sub-National Population Projections (2014) Note. The figure represents the change from the 2016 population projection to the 2026 and 2036 population projection" caption="Source: ONS Mid-Year Population Estimate (2014); ONS Sub-National Population Projections (2014). Note: the figure represents the change from the 2016 population projection to the 2026 and 2036 population projection" %}
+{% include figure image_path="/assets/images/ccg-profiles/coastal/2014-Population-Projections.jpg" alt="Source: ONS Mid-Year Population Estimate (2014); ONS Sub-National Population Projections (2014) Note. The figure represents the change from the 2016 population projection to the 2026 and 2036 population projection" caption="Source: ONS Mid-Year Population Estimate (2014); ONS Sub-National Population Projections (2014). Note: the figure represents the change from the 2016 population projection to the 2026 and 2036 population projection" class="full" %}

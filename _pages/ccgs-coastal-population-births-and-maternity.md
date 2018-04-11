@@ -7,8 +7,6 @@ sidebar:
 toc: true
 ---
 
-## Births
-
 ### Live Births
            		
 In 2013, there were approximately 4,610 live births to mothers whose usual residence is within NHS Coastal West Sussex CCG.
@@ -25,7 +23,7 @@ In 2013, there were approximately 4,610 live births to mothers whose usual resid
 | Regis | 875 | 940 | 880 | 2,695 |
 | CCG | 4,930 | 4,930 | 4,610 | 14,470 |
 
-Source: Birth Notification. Note: values are rounded to nearest 5. Totals may not sum due to rounding.
+<figcaption>Source: Birth Notification. Note: values are rounded to nearest 5. Totals may not sum due to rounding.</figcaption>
 
 ### Mothers Under the Age of 20
 
@@ -47,7 +45,7 @@ Young mothers (first time mothers under the age of 20) are a target group for th
 
 In 2013, approximately 310 live births in NHS Coastal West Sussex CCG were recorded to be of low birth weight (less than 2.5kg); this accounts for 6.7% of all live births in the CCG.
 
-#### The proportion of live births that are of low birth weight (<2.5kgs) in NHS Coastal West Sussex CCG (2011-13)
+#### Table 3: The proportion of live births that are of low birth weight (<2.5kgs) in NHS Coastal West Sussex CCG (2011-13)
 
 | Localities | 2011 | 2012 | 2013 |
 | :--------- | ---: | ---: | ---: |
@@ -59,7 +57,7 @@ In 2013, approximately 310 live births in NHS Coastal West Sussex CCG were recor
 | Regis | 5.8% | 7.0% | 6.2% |
 | CCG | 5.8% | 6.6% | 6.7% |
 
-## Fertility
+### Fertility
 
 The total fertility rate (TFR) is the average number of children that a group of women would each bear if they experience the age-specific fertility rates of the calendar year in question throughout their childbearing lifespan. It provides a snapshot of the level of fertility in a particular year and does not necessarily represent the average number of children that a group of women will have over their lifetime.
 
@@ -67,9 +65,9 @@ Birth statistics for England and Wales are based on the details collected when b
 
 The information in the chart below relates to data at local authority district level. Horsham local authority spans both NHS Horsham and Mid Sussex CCG and NHS Coastal West Sussex CCG. As such, the data presented here represents the whole of the Horsham local authority, not just that covered by NHS Coastal West Sussex CCG. It is based on the **resident population**  and not on GP registered population.
 
-{% include figure image_path="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/09/Total-Fertility-Rate-Coastal-2008-15-1024x370.jpg" alt="Source: ONS Birth Summary Statistics (released July 2016)" caption="Source: ONS Birth Summary Statistics (released July 2016)." %}
+{% include figure image_path="/assets/images/ccg-profiles/coastal/Total-Fertility-Rate-Coastal-2008-15.jpg" alt="Source: ONS Birth Summary Statistics (released July 2016)" caption="Source: ONS Birth Summary Statistics (released July 2016)." class="full" %}
 
-## Under-18 Conceptions
+### Under-18 Conceptions
 
 Conception data combine information from registrations of births and notifications of legal abortions occurring in England and Wales for women who are usually resident there. Conception statistics include pregnancies that result in:
 
@@ -82,4 +80,4 @@ The date of conception is estimated using recorded gestation for abortions and s
 
 This information is only available at local authority district level. Note that Horsham local authority spans both NHS Horsham and Mid Sussex CCG and NHS Coastal West Sussex CCG.
 
-{% include figure image_path="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/03/CWS-Under-18-conceptions-e1457971784587-1024x434.gif" alt="Source: ONS - Conception Statistics - England and Wales 2014" caption="Source: ONS &#8211; Conception Statistics &#8211; England and Wales 2014" %}
+{% include figure image_path="/assets/images/ccg-profiles/coastal/CWS-Under-18-conceptions.gif" alt="Source: ONS - Conception Statistics - England and Wales 2014" caption="Source: ONS &#8211; Conception Statistics &#8211; England and Wales 2014" class="full" %}
