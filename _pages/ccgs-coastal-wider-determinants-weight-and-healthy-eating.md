@@ -31,7 +31,8 @@ Source: National Obesity Observatory, PHE.
 
 <div class="notice--primary">{{ note-1 | markdownify }}</div>
 
-Childhood Obesity – Reception
+#### Childhood Obesity – Reception
+
 The figure below shows the prevalence of obesity in reception age children in the local authorities of Coastal West Sussex CCG. The figures for each local authority have wide confidence intervals reflecting the relatively small number of students that are measured in each area. In West Sussex, the prevalence of obesity for children in reception has been significantly below that of England for a number of years, however considerable variation exists at a local level. For example, Arun has a significantly higher proportion of 4-5 year old children who were measured as obese than in Chichester or Horsham (2014/15).
 
 {% capture note-2 %}
@@ -99,7 +100,7 @@ The table demonstrates that in local authorities in Coastal West Sussex CCG, the
 #### Percentage of adults estimated to eat at least 5 portions of fruit and vegetables per day
 
 | Locality | Percent eating 5 or more portions | LCI | UCI |
-|:--------:|----------------------------------:|----:|----:|
+|:---------|----------------------------------:|----:|----:|
 | Adur | 26.0% | 21.1% | 31.5% |
 | Arun | 28.5% | 25.0% | 32.3% |
 | Chichester | 33.5% | 29.1% | 38.2% |
