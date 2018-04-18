@@ -37,7 +37,7 @@ The GP Practice deprivation score is the registered population (as at 31st Decem
 
 The figure below shows GP practices within each CCG in West Sussex by their national decile group (practices in dark blue are estimated to have the most deprived populations in England whereas those in orange are the least deprived).
 
-{% include figure image_path="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/04/Population-weighted-using-Jan-2016-HSCIC-release-ID2015-deprivation-score.gif" alt="Population weighted (using Jan 2016 HSCIC release) ID2015 deprivation score" caption="Population weighted (using Jan 2016 HSCIC release) ID2015 deprivation score" %}
+{% include figure image_path="/assets/images/ccg-profiles/coastal/Population-weighted-using-Jan-2016-HSCIC-release-ID2015-deprivation-score.gif" alt="Population weighted (using Jan 2016 HSCIC release) ID2015 deprivation score" caption="Population weighted (using Jan 2016 HSCIC release) ID2015 deprivation score" class="full" %}
 
 In NHS Coastal West Sussex CCG, one practice (Bognor Medical Centre) is estimated to have a population in the ID2015 3rd most deprived decile. In addition, one practice falls within the 4th most deprived decile (Fitzalan practice). Conversely four practices within NHS Coastal West Sussex CCG are amongst the 10% least deprived in England (Barn Surgery, Steyning Health Centre, Southbourne Surgery and Loxwood Surgery).
 
@@ -170,11 +170,11 @@ The output for this measure of deprivation is the proportion of households which
 
 The map below shows the proportion of households at Lower-layer super output area level in NHS Coastal West Sussex that were identified as deprived on **at least one** measure of deprivation from the 2011 Census. Darker areas indicate a higher proportion of deprived households.
 
-{% include figure image_path="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/04/HH_CWS_atleast1_Dep_Census.jpg" alt="HH_CWS_atleast1_Dep_Census" caption="Proportion of households at LSOA in Coastal West Sussex CCG deprived on at least one measure of deprivation - 2011 census" %}
+{% include figure image_path="/assets/images/ccg-profiles/coastal/HH_CWS_atleast1_Dep_Census.jpg" alt="HH_CWS_atleast1_Dep_Census" caption="Proportion of households at LSOA in Coastal West Sussex CCG deprived on at least one measure of deprivation - 2011 census" %}
 
 The map below shows the proportion of households at Lower-layer super output area level in NHS Coastal West Sussex that were identified as deprived on **three or four** measures of deprivation from the 2011 Census. Darker areas indicate a higher proportion of deprived households. Using the census 2011 groupings these represent the most deprived areas in the Coastal West Sussex CCG region.
 
-{% include figure image_path="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/04/HH_CWS_3_4_Dep_Census.jpg" alt="HH_CWS_3_4_Dep_Census" caption="NHS Coastal West Sussex CCG - Proportion of Households identified as deprived on three or four census deprivation indicators." %}
+{% include figure image_path="/assets/images/ccg-profiles/coastal/HH_CWS_3_4_Dep_Census.jpg" alt="HH_CWS_3_4_Dep_Census" caption="NHS Coastal West Sussex CCG - Proportion of Households identified as deprived on three or four census deprivation indicators." %}
 
 ## Child Poverty
 This section contains data on the number and proportion of under 16 year olds living in low income households.
@@ -193,7 +193,8 @@ At a county level and below (e.g. local authority districts), only data on relat
 In 2013, **12.1%** of children under the age of 16 years in West Sussex were living in low income households. Within the CCG area, the proportion of children living in low income households ranges from **8.2% in Horsham** to **15.3% in Adur**.
 
 The table below shows the number and proportion of children under 16 years of age living in low income households in local authority districts of NHS Coastal West Sussex CCG between 2008 and 2013. It should be noted that the data for Horsham reflects the whole district of Horsham and not just the part of Horsham that is designated as NHS Coastal West Sussex CCG.
-					
+
+#### Percentage of children under 16 years living in low income households: local authorities covering Coastal West Sussex CCG (2008-13)			
 | Area | 2008 |	2009 | 2010 | 2011 | 2012 | 2013 |
 |:-----|:----:|:----:|:----:|:----:|:----:|:----:|
 | Adur | 1,820 (17.5%) | 1,960 (18.7%) | 1,795 (17.2%) | 1,785 (17.0%) | 1,720 (16.1%) | 1,650 (15.3%) |
@@ -207,6 +208,6 @@ The table below shows the number and proportion of children under 16 years of ag
 
 There are also considerable differences in child poverty within the local authority districts in Coastal West Sussex. Although count data (e.g. the exact number of children under the age of 16 living in low income households) are not available for small (LSOA) areas, it is possible to identify the proportion of children living in child poverty. The map below shows the proportion of children under the age of 16 years in each LSOA living in low income households according to child poverty figures for 2013. The map areas are shaded green if the 2020 national target for child poverty of 10% has been met, and grey, orange, and red if the level of child poverty is higher than 10%.
 
-{% include figure image_path="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/04/Percentage_child_poverty_CWS_2013-1024x725.gif" caption="Percentage of children under 16, in 2013, living in low income households, LSOAs within NHS Coastal West Sussex CCG" %}
+{% include figure image_path="/assets/images/ccg-profiles/coastal/Percentage_child_poverty_CWS_2013.gif" caption="Percentage of children under 16, in 2013, living in low income households, LSOAs within NHS Coastal West Sussex CCG" %}
 
 [^1]: The weights used to calculate how much each domain contributes to the overall score is included in brackets.

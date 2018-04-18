@@ -74,7 +74,7 @@ Conception data combine information from registrations of births and notificatio
 - One or more live, or stillbirths (a maternity)
 - A legal abortion under the Abortion Act 1967
 
-**They do not include miscarriages or illegal abortions.**
+They do not include miscarriages or illegal abortions.
 
 The date of conception is estimated using recorded gestation for abortions and stillbirths, and assuming 38 weeks gestation for live births. A woman's age at conception is calculated as the number of complete years between her date of birth and the date she conceived.
 
