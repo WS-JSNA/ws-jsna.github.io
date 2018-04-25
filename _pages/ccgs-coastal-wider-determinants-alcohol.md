@@ -25,6 +25,8 @@ Lower risk drinkers are defined as consumers of no more than 21 units per week f
 
 The tables below show the modelled estimates of drinking behaviour for Local Authority Districts in NHS Coastal West Sussex CCG. The first table is an estimate of the whole population (including abstainers) and the second table is for drinkers only. In both tables, confidence intervals are very large and overlap. As such, the percentage estimates should be treated with caution.
 
+#### Modelled drinking behaviours for Local Authority Districts in NHS Coastal West Sussex CCG; 2011. 
+
 | Area | Abstain | 95% CI | Lower Risk | 95% CI | Increasing Risk | 95% CI | Higher Risk | 95% CI |
 |:-----|:-------:|:------:|:----------:|:------:|:---------------:|:------:|:-----------:|:------:|
 | Adur | 12.9% | 7.5-20.0% | 66.7% | 40.5-81.7% | 16.1% | 5.0-40.6% | 4.3% | 1.4-13.9% |
@@ -34,7 +36,9 @@ The tables below show the modelled estimates of drinking behaviour for Local Aut
 | Worthing | 10.9% | 6.5-16.4% | 60.3% | 33.1-78.7% | 23.8% | 7.9-51.3% | 5.0% | 1.6-15.9% |
 | South East | 12.1% | 7.3-18.1% | 63.7% | 36.7-80.3% | 18.3% | 5.7-44.1% | 5.9% | 1.8-18.8% |
 
-<figcaption>Modelled drinking behaviours for Local Authority Districts in NHS Coastal West Sussex CCG; 2011. Source: Topography of Drinking Behaviours in England NWPHO/Liverpool JMU 2011</figcaption>
+<figcaption>Source: Topography of Drinking Behaviours in England NWPHO/Liverpool JMU 2011</figcaption>
+
+#### Modelled drinking behaviours - estimates for those who drink in Local Authority Districts of NHS Coastal West Sussex CCG; 2011. 
 
 | Area | Abstain | 95% CI | Lower Risk | 95% CI | Increasing Risk | 95% CI | Higher Risk | 95% CI |
 |:-----|:-------:|:------:|:----------:|:------:|:---------------:|:------:|:-----------:|:------:|
@@ -45,9 +49,11 @@ The tables below show the modelled estimates of drinking behaviour for Local Aut
 | Worthing | - | - | 67.6% | 37.2-86.% | 26.7% | 8.8-56.9% | 5.6% | 1.7-18.1% |
 | South East | - | - | 72.5% | 41.7-91.3% | 20.8% | 6.4-50.1% | 6.7% | 2.0-21.4% |
 
-<figcaption>Modelled drinking behaviours - estimates for those who drink in Local Authority Districts of NHS Coastal West Sussex CCG; 2011. Source: Topography of Drinking Behaviours in England NWPHO/Liverpool JMU 2011</figcaption>
+<figcaption>Source: Topography of Drinking Behaviours in England NWPHO/Liverpool JMU 2011</figcaption>
 
-Whilst the topography of drinking behaviours is currently only available at the Local Authority District level, other drinking behaviours are recorded for the CCGs, including alcohol related road accidents. An alcohol related road accident is defined as a reported incident on a public road in which someone is killed or injured, where at least one of the motor vehicle drivers or riders involved either refused to give a breath test specimen when requested by the police (other than when incapable of doing so for medical reasons) or failed a roadside breath test by registering above 35 micrograms of alcohol per 100ml of breath. The statistic only includes incidents on public roads known to the police within 30 days of occurrence and so this is expected to be an underestimate of drink drinking behaviours. Data are pooled over three year periods to increase the accuracy of estimates.
+Whilst the topography of drinking behaviours is currently only available at the Local Authority District level, other drinking behaviours are recorded for the CCGs, including alcohol related road accidents.
+
+An alcohol related road accident is defined as a reported incident on a public road in which someone is killed or injured, where at least one of the motor vehicle drivers or riders involved either refused to give a breath test specimen when requested by the police (other than when incapable of doing so for medical reasons) or failed a roadside breath test by registering above 35 micrograms of alcohol per 100ml of breath. The statistic only includes incidents on public roads known to the police within 30 days of occurrence and so this is expected to be an underestimate of drink drinking behaviours. Data are pooled over three year periods to increase the accuracy of estimates.
 
 In England, the rate per 1,000 for reported road accidents in which at least one driver failed a breath test has declined significantly between 2011-13 (27.6 accidents per 1,000 accidents, 95% CI: 27.1 – 28.2) and 2012-14 (26.4 accidents per 1,000 accidents, 25.8 – 26.9). In NHS Coastal West Sussex CCG, the crude rate of alcohol related road accidents in 2012-14 was 27 alcohol related road accidents per 1,000 accidents (95% CI: 21.8 – 33.1 accidents), which is not significantly different from 2011-13 (33.4 accidents per 1,000, 95% CI:27.5 – 40.3 accidents) or compared to the national rate.
 
@@ -79,9 +85,9 @@ In 2014/15, there were 3,001 admission episodes for alcohol-related conditions (
 
 {% include figure image_path="/assets/images/ccg-profiles/coastal/West-Sussex-CCGs-Alcohol-related-narrow-definition-admission-episodes-2010-to-2014-15.png" caption="Source: Office for National Statistics" %}
 
-#### Hospital admissions episodes for alcohol related conditions by age.
+#### Hospital admissions episodes for alcohol related conditions by age
 
-Admission episode statistics for alcohol-related conditions are also broken down by age group. In 2014/15, <b>just under one in five admission episodes in NHS Coastal West Sussex CCG due to alcohol related conditions (narrow definition) were for those aged under 40 years</b> (596 admission episodes, 19.9% of admission episodes, 95% CI: 18.5 &#8211; 21.3%). Two in five admission episodes in 2014/15 in the CCG were to those aged 40-64 years (1,267 admission episodes, 42.2% of alcohol related admission episodes, 95% CI: 40.4% &#8211; 44%) and around one third of admission episodes were to those aged 65 years and over (37.9%, 95% CI: 36.2 &#8211; 39.7%).
+Admission episode statistics for alcohol-related conditions are also broken down by age group. In 2014/15, **just under one in five admission episodes in NHS Coastal West Sussex CCG due to alcohol related conditions (narrow definition) were for those aged under 40 years** (596 admission episodes, 19.9% of admission episodes, 95% CI: 18.5 &#8211; 21.3%). Two in five admission episodes in 2014/15 in the CCG were to those aged 40-64 years (1,267 admission episodes, 42.2% of alcohol related admission episodes, 95% CI: 40.4% &#8211; 44%) and around one third of admission episodes were to those aged 65 years and over (37.9%, 95% CI: 36.2 &#8211; 39.7%).
 
 There is a significant difference in the rate of admission episodes related to alcohol in NHS Coastal West Sussex CCG in 2014/15 between the three age groups as shown in the chart below.
 
@@ -121,7 +127,9 @@ Data for alcohol-specific mortality are available at CCG level for men and women
 
 {% include figure image_path="/assets/images/ccg-profiles/coastal/Male-Female-CCG-Alcohol-Specific-Mortality-2012-14.png" caption="Source: Office for National Statistics" %}
 
-Months of life lost due to alcohol provide an estimate of the increase in life expectancy if all alcohol related deaths among those under 75 years were prevented. This data is available for lower and upper tier Local Authorities as well as CCGs and the latest data is available for the pooled period 2012-14. For men in England, in 2012-14, one year of life is lost on average due to alcohol-related conditions. **In NHS Coastal West Sussex CCG, 11.2 months of life are lost for men due to alcohol.** The table below shows the months of life lost due to alcohol for males in West Sussex CCGs between 2008-10 and 2012-14. Confidence intervals are not available for these estimates. With the exception of NHS Crawley CCG in 2009-11, the table shows that the months of life lost are consistently higher in NHS Coastal West Sussex CCG compared to other CCGs in West Sussex, as well as West Sussex county over the five years of data.
+Months of life lost due to alcohol provide an estimate of the increase in life expectancy if all alcohol related deaths among those under 75 years were prevented. This data is available for lower and upper tier Local Authorities as well as CCGs and the latest data is available for the pooled period 2012-14.
+
+For men in England, in 2012-14, one year of life is lost on average due to alcohol-related conditions. **In NHS Coastal West Sussex CCG, 11.2 months of life are lost for men due to alcohol.** The table below shows the months of life lost due to alcohol for males in West Sussex CCGs between 2008-10 and 2012-14. Confidence intervals are not available for these estimates. With the exception of NHS Crawley CCG in 2009-11, the table shows that the months of life lost are consistently higher in NHS Coastal West Sussex CCG compared to other CCGs in West Sussex, as well as West Sussex county over the five years of data.
 
 #### Months of Life Lost due to alcohol; Males in West Sussex CCGs; 2008-10 to 2012-14
 

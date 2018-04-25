@@ -51,7 +51,7 @@ Sport England also provide statistics on the prevalence of physical inactivity. 
 
 The chart illustrates the physically inactive adult prevalence rate across local authorities in Coastal West Sussex. Overlapping confidence levels suggests little difference across areas and years.
 
-{% include figure image_path="/assets/images/ccg-profiles/coastal/Physically-Inactive-CWS-2012-15.jpg" alt="Physically Inactive - CWS - 2012-15" class="full" caption="Source: Active People Survey" %}
+{% include figure image_path="/assets/images/ccg-profiles/coastal/Physically-Inactive-CWS-2012-15.jpg" alt="Physically Inactive - CWS - 2012-15" class="full" caption="Source: Active People Survey" class="full" %}
 
 The sample size of respondents to the Active People Survey is presented in the table below:
 
