@@ -4,6 +4,7 @@ title: "Accessing Your GP"
 permalink: "/ccgs/coastal/gp-patient-survey/accessing-your-gp/"
 sidebar:
   nav: "coastal-GPS-selected"
+toc: true
 ---
 
 The following questions concern ease of access to each GP surgery in Coastal West Sussex CCG.

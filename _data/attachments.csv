@@ -677,3 +677,10 @@ POP24,Unpaid carers (2001 – 2011),10/09/2013,Excel,core,unpaid_carers_2001_201
 PC01,Equality Act update 2013,07/02/2014,Word,core,equality_act_update_2013.docx,"The Equality Act 2010 identified nine protected characteristics; age, sex, disability, race, religion and belief, gender re-assignment, marriage and civil partnership, sexual orientation and pregnancy and maternity.
 
 The attached report is an update on population level data sources relating to these characteristics."
+MAP01,Maps of licenced (alcohol/tobacco) premises in West Sussex against school location,26/05/2010,PDF,core,mapping_licensed_premises_and_schools.pdf,"These maps show premises licenced for the sale of tobacco and alcohol in relation to school locations."
+MAP02,Map of Worthing Lower Super Output Areas (LSOAs) by index of multiple deprivation (IMD)2010,28/08/2012,PDF,core,worthing_lsoa_imd_2010.pdf,"A high resolution Ordnance Survey map of Worthing Borough with areas of multiple deprivation shown by West Sussex decile."
+MAP03,Map of Crawley Lower Super Output Areas (LSOAs) by index of multiple deprivation (IMD) 2010,04/10/2012,PDF,core,crawley_lsoa_imd_2010.pdf,""
+MAP04,Map of Adur Lower Super Output Areas (LSOAs) by index of multiple deprivation (IMD) 2010,04/10/2012,PDF,core,adur_lsoa_imd_2010.pdf,""
+Map of Burgess Hill and Haywards Heath Lower Super Output Areas (LSOAs) by index of multiple deprivation (IMD) 2010,04/10/2012,PDF,core,high_res_haywards_heath_and_burgess_hill_lsoas_imd_2010_2_.pdf,"High resolution map of Burgess Hill and Haywards Heath Lower Super Output Areas coloured by national deprivation decile (IMD 2010).
+
+The darker areas indicate higher levels of deprivation."

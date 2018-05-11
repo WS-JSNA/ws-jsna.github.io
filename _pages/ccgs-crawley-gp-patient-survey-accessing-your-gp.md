@@ -4,6 +4,7 @@ title: "Accessing Your GP"
 permalink: "/ccgs/crawley/gp-patient-survey/accessing-your-gp/"
 sidebar:
   nav: "crawley-GPS-selected"
+toc: true
 ---
 
 The following questions concern ease of access to each GP surgery in Crawley CCG.
