@@ -20,12 +20,12 @@ Note that the number of patients taking part in the survey varies by practice. W
 
 ## Ease of getting through to someone on the phone
 
-<img src="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/04/CWS-ease-of-phone-645x1024.gif" alt="GP Patient Survey (2015)" width="645" height="1024" />
+{% include figure image_path="/assets/images/ccg-profiles/coastal/CWS-ease-of-phone.gif" caption="GP Patient Survey (2015)" alt="GP Patient Survey (2015)" class="full" %}
 
 ## Helpfulness of receptionists
 
-<img src="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/04/CWS-receptionist-645x1024.gif" alt="GP Patient Survey (2015)" width="645" height="1024" />
+{% include figure image_path="/assets/images/ccg-profiles/coastal/CWS-receptionist.gif" caption="GP Patient Survey (2015)" alt="GP Patient Survey (2015)" class="full" %}
 
 ## How often do you see or speak to the GP you prefer?
 
-<img src="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/04/CWS-GP-preference-645x1024.gif" alt="GP Patient Survey (2015)" width="645" height="1024" />
+{% include figure image_path="/assets/images/ccg-profiles/coastal/CWS-GP-preference.gif" caption="GP Patient Survey (2015)" alt="GP Patient Survey (2015)" class="full" %}

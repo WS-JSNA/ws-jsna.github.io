@@ -14,7 +14,7 @@ Comparing the registered with the predicted prevalence provides an estimate of a
 
 The figure shows that the QOF prevalence of COPD for all of the GP surgeries in Coastal West Sussex CCG is smaller than the modelled prevalence.
 
-<img src="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/12/COPD_09GQOF_Mod_prev1516.png" alt="QOF prevalence of COPD as % of modelled prevalence" width="645" height="1024" />
+{% include figure image_path="/assets/images/ccg-profiles/coastal/COPD_09GQOF_Mod_prev1516.png" alt="QOF prevalence of COPD as % of modelled prevalence." caption="QOF prevalence of COPD as % of modelled prevalence." class="full" %}
 
 ### Data sources
 

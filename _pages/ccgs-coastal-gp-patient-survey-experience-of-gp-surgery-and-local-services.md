@@ -4,6 +4,7 @@ title: "Experience of GP Surgery and Local Services"
 permalink: "/ccgs/coastal/gp-patient-survey/experience-of-gp-surgery-and-local-services/"
 sidebar:
   nav: "coastal-GPS-selected"
+toc: true
 ---
 
 The following questions concern the overall experience patients have at their GP surgery in Coastal West Sussex CCG.
@@ -20,14 +21,13 @@ Note that the number of patients taking part in the survey varies by practice. W
 
 ## Recommendation of GP surgery to someone who has moved to the local area
 
-<img src="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/04/CWS-recommend-645x1024.gif" alt="GP Patient Survey (2015)" width="645" height="1024" />
-
+{% include figure image_path="/assets/images/ccg-profiles/coastal/CWS-recommend.gif" caption="GP Patient Survey (2015)." alt="GP Patient Survey (2015)." class="full" %}
 
 ## Overall experience of GP surgery
 
-<img src="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/04/CWS-overall-experience-645x1024.gif" alt="GP Patient Survey 2015" width="645" height="1024" />
+{% include figure image_path="/assets/images/ccg-profiles/coastal/CWS-overall-experience.gif" caption="GP Patient Survey (2015)." alt="GP Patient Survey (2015)." class="full" %}
 
 
 ## Support for long-term conditions
 
-<img src="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/04/CWS-long-term-condition-645x1024.gif" alt="GP Patient Survey (2015)" width="645" height="1024" />
+{% include figure image_path="/assets/images/ccg-profiles/coastal/CWS-long-term-condition.gif" caption="GP Patient Survey (2015)." alt="GP Patient Survey (2015)." class="full" %}

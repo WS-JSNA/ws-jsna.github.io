@@ -14,7 +14,7 @@ Comparing the registered with the predicted prevalence provides an estimate of a
 
 The figure below shows that for the majority of GP surgeries in Coastal West Sussex CCG, the QOF prevalence of stroke is below the modelled prevalence.
 
-<img src="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/12/Stroke_09GQOF_Mod_prev1516.png" alt="QOF prevalence of stroke as a % of modelled prevalence" width="645" height="1024" class="alignleft size-large wp-image-1759" />
+{% include figure image_path="/assets/images/ccg-profiles/coastal/Stroke_09GQOF_Mod_prev1516.png" caption="QOF prevalence of stroke as a % of modelled prevalence." alt="QOF prevalence of stroke as a % of modelled prevalence." class="full" %}
 
 ### Data Sources
 

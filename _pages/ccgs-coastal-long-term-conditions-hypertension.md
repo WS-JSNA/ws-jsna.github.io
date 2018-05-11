@@ -14,13 +14,10 @@ Comparing the registered with the predicted prevalence provides an estimate of a
 
 The figure shows that the QOF prevalence of hypertension for GP surgeries in Coastal West Sussex CCG is well below the modelled prevalence estimate. This suggests that almost half of the estimated population living with hypertension are undiagnosed and subsequently are not known to primary care as at risk of the serious conditions outlined above.
 
-<img src="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/12/Hypertension_09GQOF_Mod_prev1516.png" alt="QOF prevalence of hypertension as a % of modelled prevalence" width="645" height="1024" class="alignleft size-large wp-image-1756" />
+{% include figure image_path="/assets/images/ccg-profiles/coastal/Hypertension_09GQOF_Mod_prev1516.png" alt="QOF prevalence of hypertension as a % of modelled prevalence." caption="QOF prevalence of hypertension as a % of modelled prevalence." class="full" %}
 
 ### Data sources
 
 - QOF: 2015/16 (published in November 2016)
 - Practice Population: GP Practice Population (as at 31st March 2016)
 - Prevalence Model: Eastern Region Public Health Observatory
-
-			  
-

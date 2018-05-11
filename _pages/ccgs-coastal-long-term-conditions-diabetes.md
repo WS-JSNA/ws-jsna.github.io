@@ -14,15 +14,12 @@ Comparing the registered with the predicted prevalence provides an estimate of a
 
 The figure shows that the QOF prevalence of diabetes for most GP surgeries in Coastal West Sussex CCG exceeds the modelled prevalence. This suggests that GP practices in Coastal West Sussex CCG tend to have a higher prevalence of diabetes than modelled data suggests. It should be noted that modelled figures are based on nationally researched assumptions, and as such should be treated with a degree of caution. 
 
-**Furthermore**, the QOF register for diabetes is likely to be an underestimate of the true population with diabetes because it includes only those aged 17 years and over whilst the prevalence model includes Type 1 and Type 2 diabetes prevalence for all ages. 
+**Furthermore**, the QOF register for diabetes is likely to be an underestimate of the true population with diabetes because it includes only those aged 17 years and over whilst the prevalence model includes Type 1 and Type 2 diabetes prevalence for all ages.
 
-<img src="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/12/Diabetes09GQOF_Mod_prev1516.png" alt="QOF prevalence of diabetes as a % of modelled prevalence in Coastal West Sussex CCG 2014/15" width="645" height="1024" />
+{% include figure image_path="/assets/images/ccg-profiles/coastal/Diabetes09GQOF_Mod_prev1516.png" caption="QOF prevalence of Diabetes as a percentage of modelled prevalence." alt="QOF prevalence of Diabetes as a percentage of modelled prevalence." class="full" %}
 
 ### Data sources
 
 - QOF: 2015/16 (published in November 2016)
 - Practice Population: GP Practice Population (as at 31st March 2016)
 - Prevalence Model: Yorkshire and Humber Public Health Observatory &#8211; PBS model phase 3
-
-			  
-

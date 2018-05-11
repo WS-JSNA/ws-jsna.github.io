@@ -16,7 +16,7 @@ The figure shows that the QOF prevalence of epilepsy (as a % of modelled prevale
 
 It should be noted that the recorded prevalence of Epilepsy at GP level for the QOF is for those aged 18 years and over.
 
-<img src="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/12/Epilepsy_09GQOF_Mod_prev1516.png" alt="QOF prevalence of epilepsy as a % of modelled prevalence" width="645" height="1024" class="alignleft size-large wp-image-1755" />
+{% include figure image_path="/assets/images/ccg-profiles/coastal/Epilepsy_09GQOF_Mod_prev1516.png" alt="QOF prevalence of epilepsy as a % of modelled prevalence." caption="QOF prevalence of epilepsy as a % of modelled prevalence." class="full" %}
 
 ### Data sources
 

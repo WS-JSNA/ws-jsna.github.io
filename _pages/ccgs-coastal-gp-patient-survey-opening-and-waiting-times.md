@@ -4,6 +4,7 @@ title: "Opening and Waiting Times"
 permalink: "/ccgs/coastal/gp-patient-survey/opening-and-waiting-times/"
 sidebar:
   nav: "coastal-GPS-selected"
+toc: true
 ---
 
 The following questions concern opening and waiting times for each GP surgery in Coastal West Sussex CCG.
@@ -19,9 +20,8 @@ Note that the number of patients taking part in the survey varies by practice. W
 
 **Satisfaction with Opening Times**
 
-<img src="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/04/CWS-opening-times-645x1024.gif" alt="GP Patient Survey (2015)" width="645" height="1024" />
+{% include figure image_path="/assets/images/ccg-profiles/coastal/CWS-opening-times.gif" caption="Source: GP Patient Survey (2015)" alt="GP Patient Survey (2015)" class="full" %}
 
 **Opinions of waiting times**
 
-<img src="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/04/CWS-waiting-times-645x1024.gif" alt="GP Patient Survey 2015" width="645" height="1024" />
-
+{% include figure image_path="/assets/images/ccg-profiles/coastal/CWS-waiting-times.gif" caption="Source: GP Patient Survey (2015)" alt="GP Patient Survey (2015)" class="full" %}
