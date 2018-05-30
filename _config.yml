@@ -52,7 +52,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true #,false (default)
-search_full_content      : true
+search_full_content      : false
 
 # SEO Related
 google_site_verification :
