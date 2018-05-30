@@ -2,7 +2,6 @@
 layout: single
 title: "West Sussex Oral Health Needs Assessment 2018"
 permalink: "/oral-health-needs-assessment-2018/"
-toc: true
 header: 
   overlay_color: "#1976d2"
   overlay_filter: 0.5
