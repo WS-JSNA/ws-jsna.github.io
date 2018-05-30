@@ -1,0 +1,53 @@
+---
+layout: single
+title: CCG area profiles - Now Live!
+date: 2016-10-25 12:40:15.000000000 +01:00
+category: profiles
+---
+<p>The West Sussex Public Health and Social Research Unit have now completed the annual population profiles (formerly data packs) for the three Clinical Commissioning Groups in West Sussex:</p>
+<ol type="1">
+<li><a href="http://jsna.westsussex.gov.uk/area-profiles/ccg/coastal/">NHS Coastal West Sussex CCG</a></li>
+<li><a href="http://jsna.westsussex.gov.uk/area-profiles/ccg/crawley-ccg/">NHS Crawley CCG</a></li>
+<li><a href="http://jsna.westsussex.gov.uk/area-profiles/ccg/horsham-mid-sussex-ccg/">NHS Horsham and Mid Sussex CCG</a></li>
+</ol>
+<p>These profiles are a powerful tool to examine variations in the health and wellbeing of people across West Sussex, and can help commissioners identify potential priorities for change.</p>
+<p>The 2015/16 profiles have been redesigned to help users access information as quickly as possible on the web. To view the pages please click <a href="http://jsna.westsussex.gov.uk/area-profiles/ccg/">here</a> or use the links above.<br />
+<br />
+<img src="{{ site.baseurl }}/assets/CCG-boundaries-and-localities-mix-colours-1024x725.jpg" alt="West Sussex CCG boundaries and localities" width="700" height="525" class="fancybox" /></p>
+<p><head> </p>
+<link rel="stylesheet" type="text/css" media="screen" href="http://cdnjs.cloudflare.com/ajax/libs/fancybox/1.3.4/jquery.fancybox-1.3.4.css" />
+<style type="text/css">
+    a.fancybox img {<br />
+        border: none;<br />
+        box-shadow: 0 1px 7px rgba(0,0,0,0.6);<br />
+        -o-transform: scale(1,1); -ms-transform: scale(1,1); -moz-transform: scale(1,1); -webkit-transform: scale(1,1); transform: scale(1,1); -o-transition: all 0.2s ease-in-out; -ms-transition: all 0.2s ease-in-out; -moz-transition: all 0.2s ease-in-out; -webkit-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out;<br />
+    }<br />
+    a.fancybox:hover img {<br />
+        position: relative; z-index: 999; -o-transform: scale(1.03,1.03); -ms-transform: scale(1.03,1.03); -moz-transform: scale(1.03,1.03); -webkit-transform: scale(1.03,1.03); transform: scale(1.03,1.03);<br />
+    }<br />
+</style>
+<p> </head><br />
+<body><br />
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.11.0.min.js"></script><br />
+<script type="text/javascript" src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script><br />
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/fancybox/1.3.4/jquery.fancybox-1.3.4.pack.min.js"></script><br />
+<script type="text/javascript"><br />
+    $(function($){<br />
+        var addToAll = false;<br />
+        var gallery = true;<br />
+        var titlePosition = 'inside';<br />
+        $(addToAll ? 'img' : 'img.fancybox').each(function(){<br />
+            var $this = $(this);<br />
+            var title = $this.attr('title');<br />
+            var src = $this.attr('data-big') || $this.attr('src');<br />
+            var a = $('<a href="#" class="fancybox"></a>').attr('href', src).attr('title', title);<br />
+            $this.wrap(a);<br />
+        });<br />
+        if (gallery)<br />
+            $('a.fancybox').attr('rel', 'fancyboxgallery');<br />
+        $('a.fancybox').fancybox({<br />
+            titlePosition: titlePosition<br />
+        });<br />
+    });<br />
+    $.noConflict();<br />
+</script> </body></p>

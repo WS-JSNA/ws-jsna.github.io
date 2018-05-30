@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
+  - title: "Updates"
+    url: /updates/
   - title: "CCGs"
     url: /ccgs/
   - title: "Help"

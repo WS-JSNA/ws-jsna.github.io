@@ -1063,6 +1063,123 @@ var idx = lunr(function () {
 
   
   
+    idx.add({
+      title: "Domestic violence and abuse - how services can respond effectively",
+      excerpt: "Public Health guidance on the handling of domestic violence and abuse by a range of health and social care professionals. Recommendations...",
+      categories: ["guidance"],
+      tags: [],
+      id: 115
+    });
+    
+  
+    idx.add({
+      title: "Tasty Infographics: Food, income and education: who eats more of what?",
+      excerpt: "Using data from the National Diet and Nutrition Survey, the graphic illustrates how UK food consumption varies for population groups differing in...",
+      categories: ["infographic"],
+      tags: [],
+      id: 116
+    });
+    
+  
+    idx.add({
+      title: "Release: West Sussex Early Years Needs Assessment",
+      excerpt: "A good start in life is fundamental to lay the foundations for good health and wellbeing in later life. Investment...",
+      categories: ["needs-assessment"],
+      tags: [],
+      id: 117
+    });
+    
+  
+    idx.add({
+      title: "CCG area profiles - Now Live!",
+      excerpt: "The West Sussex Public Health and Social Research Unit have now completed the annual population profiles (formerly data packs) for...",
+      categories: ["profiles"],
+      tags: [],
+      id: 118
+    });
+    
+  
+    idx.add({
+      title: "Release: National Child Measurement Programme (NCMP) 2015/16",
+      excerpt: "NHS Digital have released the National Child Measurement Programme (NCMP) results for the 2015/16 school year. Children in reception class...",
+      categories: ["data"],
+      tags: [],
+      id: 119
+    });
+    
+  
+    idx.add({
+      title: "The West Sussex Tobacco Control Needs Assessment has now been published",
+      excerpt: "As a population we're living longer but spending more years in poor health and in need of health and social...",
+      categories: ["needs-assessment"],
+      tags: [],
+      id: 120
+    });
+    
+  
+    idx.add({
+      title: "West Sussex Children's Workforce Public Health Data Profile (2016)",
+      excerpt: "The West Sussex Children's Workforce Public Health data profile (2016) is now available to download. This profile is an interactive...",
+      categories: ["health-profile"],
+      tags: [],
+      id: 121
+    });
+    
+  
+    idx.add({
+      title: "Have Your Say in the Pharmaceutical Needs Assessment (PNA) survey",
+      excerpt: "Thank you for taking the time to visit the West Sussex Pharmaceutical Needs Assessment (PNA) survey page. The PNA looks...",
+      categories: ["needs-assessment"],
+      tags: [],
+      id: 122
+    });
+    
+  
+    idx.add({
+      title: "Suicide Prevention - draft strategy now available",
+      excerpt: "Suicide is the biggest killer of men aged 49 and under and the leading cause of death in people aged...",
+      categories: ["update"],
+      tags: [],
+      id: 123
+    });
+    
+  
+    idx.add({
+      title: "West Sussex Pharmaceutical Needs Assessment (PNA)",
+      excerpt: "What is a PNA? Since 1 April 2013, every Health and Wellbeing Board (HWB) in England has had a statutory...",
+      categories: ["needs-assessment"],
+      tags: [],
+      id: 124
+    });
+    
+  
+    idx.add({
+      title: "West Sussex Children Looked After Needs Assessment 2017",
+      excerpt: "In late 2015 OFSTED conducted an inspection of services for children in need of help and protection, children looked after...",
+      categories: ["needs-assessment"],
+      tags: [],
+      id: 125
+    });
+    
+  
+    idx.add({
+      title: "West Sussex Pharmaceutical Needs Assessment (PNA) 2018",
+      excerpt: "West Sussex’s Health and Wellbeing Board has now published its findings and recommendations on pharmaceutical service provision across the County....",
+      categories: ["needs-assessment"],
+      tags: [],
+      id: 126
+    });
+    
+  
+    idx.add({
+      title: "West Sussex Oral Health Needs Assessment 2018",
+      excerpt: "How would you like to contribute to improving the oral health of children in West Sussex? West Sussex County Council...",
+      categories: ["needs-assessment"],
+      tags: [],
+      id: 127
+    });
+    
+  
 
   
   
@@ -1071,7 +1188,7 @@ var idx = lunr(function () {
       excerpt: "This section contains our published reports, including short reports and briefing nots as well as formal comprehensive needs assessments and...",
       categories: [],
       tags: [],
-      id: 115
+      id: 128
     });
     
   
@@ -1080,7 +1197,7 @@ var idx = lunr(function () {
       excerpt: "NB: Change attachments… Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix Date added: 27/10/2014 This is a data...",
       categories: [],
       tags: [],
-      id: 116
+      id: 129
     });
     
   
@@ -1089,7 +1206,7 @@ var idx = lunr(function () {
       excerpt: "Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix Date added: 27/10/2014 This is a data appendix incorporating a...",
       categories: [],
       tags: [],
-      id: 117
+      id: 130
     });
     
   
@@ -1098,7 +1215,7 @@ var idx = lunr(function () {
       excerpt: "NB: Change attachments… Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix Date added: 27/10/2014 This is a data...",
       categories: [],
       tags: [],
-      id: 118
+      id: 131
     });
     
   
@@ -1110,7 +1227,7 @@ var idx = lunr(function () {
       excerpt: "The health and wellbeing of children from conception to the age of two is a priority of the West Sussex...",
       categories: [],
       tags: [],
-      id: 119
+      id: 132
     });
     
   
@@ -1119,7 +1236,7 @@ var idx = lunr(function () {
       excerpt: "Downloads General fertility rates (GFR) total fertility rates (TFR) births 2001 - 2012 Date added: 30/07/2013 This file includes births...",
       categories: [],
       tags: [],
-      id: 120
+      id: 133
     });
     
   
@@ -1128,7 +1245,7 @@ var idx = lunr(function () {
       excerpt: "Downloads Live births in hospital 2003 - 2007 Date added: 16/02/2012 Percentage of live births in hospital by local authority...",
       categories: [],
       tags: [],
-      id: 121
+      id: 134
     });
     
   
@@ -1137,7 +1254,7 @@ var idx = lunr(function () {
       excerpt: "Downloads Briefing - Child Disability Estimates Date added: 30/01/2017 This briefing incorporates work undertaken by the Institute of Public Care...",
       categories: [],
       tags: [],
-      id: 122
+      id: 135
     });
     
   
@@ -1146,7 +1263,7 @@ var idx = lunr(function () {
       excerpt: "This section contains data sets and information about school aged children and education services in West Sussex. Special Educational Needs...",
       categories: [],
       tags: [],
-      id: 123
+      id: 136
     });
     
   
@@ -1155,7 +1272,7 @@ var idx = lunr(function () {
       excerpt: "This section contains information and data sets about the young people living in West Sussex. The What About YOUth? survey...",
       categories: [],
       tags: [],
-      id: 124
+      id: 137
     });
     
   
@@ -1164,7 +1281,7 @@ var idx = lunr(function () {
       excerpt: "The West Sussex Public Health and Social Research Unit have been working on the production of a new Child Health...",
       categories: [],
       tags: ["child health","early years","under 5's"],
-      id: 125
+      id: 138
     });
     
   
@@ -1173,7 +1290,7 @@ var idx = lunr(function () {
       excerpt: "The West Sussex Public Health and Social Research Unit have been working on the production of a new Child Health...",
       categories: [],
       tags: ["child health","early years","under 5's"],
-      id: 126
+      id: 139
     });
     
   
@@ -1182,7 +1299,7 @@ var idx = lunr(function () {
       excerpt: "The West Sussex Children’s Workforce Public Health data profile (2016) is an interactive dashboard that summarises a wide range of...",
       categories: [],
       tags: ["births","child health","early years","mother and child","under 5's"],
-      id: 127
+      id: 140
     });
     
   
@@ -2483,6 +2600,149 @@ var store = [
   
     
     
+    
+      
+      {
+        "title": "Domestic violence and abuse - how services can respond effectively",
+        "url": "http://localhost:4000/guidance/domestic-violence-and-abuse-how-services-can-respond-effectively/",
+        "excerpt": "Public Health guidance on the handling of domestic violence and abuse by a range of health and social care professionals. Recommendations...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Tasty Infographics: Food, income and education: who eats more of what?",
+        "url": "http://localhost:4000/infographic/tasty-infographics-food-income-and-education-who-eats-more-of-what/",
+        "excerpt": "Using data from the National Diet and Nutrition Survey, the graphic illustrates how UK food consumption varies for population groups differing in...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Release: West Sussex Early Years Needs Assessment",
+        "url": "http://localhost:4000/needs-assessment/early-years-needs-assessment/",
+        "excerpt": "A good start in life is fundamental to lay the foundations for good health and wellbeing in later life. Investment...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "CCG area profiles - Now Live!",
+        "url": "http://localhost:4000/profiles/ccg-area-profiles-now-live/",
+        "excerpt": "The West Sussex Public Health and Social Research Unit have now completed the annual population profiles (formerly data packs) for...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Release: National Child Measurement Programme (NCMP) 2015/16",
+        "url": "http://localhost:4000/data/release-national-child-measurement-programme-ncmp-201516/",
+        "excerpt": "NHS Digital have released the National Child Measurement Programme (NCMP) results for the 2015/16 school year. Children in reception class...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "The West Sussex Tobacco Control Needs Assessment has now been published",
+        "url": "http://localhost:4000/needs-assessment/west-sussex-tobacco-control-needs-assessment-now-published/",
+        "excerpt": "As a population we're living longer but spending more years in poor health and in need of health and social...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "West Sussex Children's Workforce Public Health Data Profile (2016)",
+        "url": "http://localhost:4000/health-profile/west-sussex-childrens-workforce-public-health-data-profile-2016-now-available-download/",
+        "excerpt": "The West Sussex Children's Workforce Public Health data profile (2016) is now available to download. This profile is an interactive...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Have Your Say in the Pharmaceutical Needs Assessment (PNA) survey",
+        "url": "http://localhost:4000/needs-assessment/survey/",
+        "excerpt": "Thank you for taking the time to visit the West Sussex Pharmaceutical Needs Assessment (PNA) survey page. The PNA looks...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Suicide Prevention - draft strategy now available",
+        "url": "http://localhost:4000/update/suicide-prevention-draft-strategy-now-available/",
+        "excerpt": "Suicide is the biggest killer of men aged 49 and under and the leading cause of death in people aged...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "West Sussex Pharmaceutical Needs Assessment (PNA)",
+        "url": "http://localhost:4000/needs-assessment/2017/",
+        "excerpt": "What is a PNA? Since 1 April 2013, every Health and Wellbeing Board (HWB) in England has had a statutory...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "West Sussex Children Looked After Needs Assessment 2017",
+        "url": "http://localhost:4000/needs-assessment/west-sussex-children-looked-needs-assessment-2017/",
+        "excerpt": "In late 2015 OFSTED conducted an inspection of services for children in need of help and protection, children looked after...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "West Sussex Pharmaceutical Needs Assessment (PNA) 2018",
+        "url": "http://localhost:4000/needs-assessment/west-sussex-pharmaceutical-needs-assessment-pna-2018/",
+        "excerpt": "West Sussex’s Health and Wellbeing Board has now published its findings and recommendations on pharmaceutical service provision across the County....",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "West Sussex Oral Health Needs Assessment 2018",
+        "url": "http://localhost:4000/needs-assessment/oral-health-needs-assessment-2018/",
+        "excerpt": "How would you like to contribute to improving the oral health of children in West Sussex? West Sussex County Council...",
+        "teaser":
+          
+            null
+          
+      },
     
   
     
