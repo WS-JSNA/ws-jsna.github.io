@@ -5,6 +5,7 @@ permalink: "/ccgs/horsham/wider-determinants/physical-activity/"
 sidebar:
   nav: "horsham-WDH-selected"
 toc: true
+toc_sticky: true
 ---
 
 Physical inactivity is the 4th leading risk factor for global mortality, accounting for 6% of deaths globally. People who are physically active are less likely to suffer a stroke, heart disease, or cardiovascular disease and reduce their risk of  obesity, high blood pressure and diabetes (among others).

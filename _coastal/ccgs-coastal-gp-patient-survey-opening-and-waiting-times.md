@@ -5,6 +5,7 @@ permalink: "/ccgs/coastal/gp-patient-survey/opening-and-waiting-times/"
 sidebar:
   nav: "coastal-GPS-selected"
 toc: true
+toc_sticky: true
 ---
 
 The following questions concern opening and waiting times for each GP surgery in Coastal West Sussex CCG.

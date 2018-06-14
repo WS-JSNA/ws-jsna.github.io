@@ -3,6 +3,7 @@ layout: single
 title: "Partners"
 permalink: "/partners/"
 toc: true
+toc_sticky: true
 header: 
   overlay_color: "#1976d2"
   overlay_filter: 0.5

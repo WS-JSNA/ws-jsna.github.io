@@ -5,6 +5,7 @@ permalink: "/ccgs/horsham/wider-determinants/mental-health/"
 sidebar:
   nav: "horsham-WDH-selected"
 toc: true
+toc_sticky: true
 ---
 
 Ensuring good mental health within the population and throughout the life course is about more than the absence of a mental disorder.

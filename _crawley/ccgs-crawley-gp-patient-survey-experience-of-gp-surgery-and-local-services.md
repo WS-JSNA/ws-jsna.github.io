@@ -5,6 +5,7 @@ permalink: "/ccgs/crawley/gp-patient-survey/experience-of-gp-surgery-and-local-s
 sidebar:
   nav: "crawley-GPS-selected"
 toc: true
+toc_sticky: true
 ---
 
 The following questions concern the overall experience patients have at their GP surgery in Crawley CCG.

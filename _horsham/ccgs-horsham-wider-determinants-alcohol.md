@@ -5,6 +5,7 @@ permalink: "/ccgs/horsham/wider-determinants/alcohol/"
 sidebar:
   nav: "horsham-WDH-selected"
 toc: true
+toc_sticky: true
 ---
 
 On this page, statistics are given for alcohol related behaviours, hospital activity and mortality.

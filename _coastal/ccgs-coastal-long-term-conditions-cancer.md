@@ -5,6 +5,7 @@ permalink: "/ccgs/coastal/long-term-conditions/cancer/"
 sidebar:
   nav: "coastal-LTC-selected"
 toc: true
+toc_sticky: true
 ---
 
 The bubble chart below shows the number of tumours diagnosed by tumour site in 2014 for males and females in each of the West Sussex CCGs and England overall. The size of the bubbles represent the relative number of diagnoses of that tumour site. You can change the area of interest and look at number of tumours for females by changing the selections in the top right of the chart.

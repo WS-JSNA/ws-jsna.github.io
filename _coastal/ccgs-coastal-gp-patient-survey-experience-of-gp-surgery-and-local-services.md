@@ -5,6 +5,7 @@ permalink: "/ccgs/coastal/gp-patient-survey/experience-of-gp-surgery-and-local-s
 sidebar:
   nav: "coastal-GPS-selected"
 toc: true
+toc_sticky: true
 ---
 
 The following questions concern the overall experience patients have at their GP surgery in Coastal West Sussex CCG.

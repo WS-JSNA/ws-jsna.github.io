@@ -9,6 +9,7 @@ header:
   overlay_color: "#ca4993"
 permalink: "/starting-well/early-years/"
 toc: true
+toc_sticky: true
 downloads:
  - EY01
  - EY02

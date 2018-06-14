@@ -5,6 +5,7 @@ permalink: "/ccgs/horsham/population/births-and-maternity/"
 sidebar:
   nav: "horsham-POP-selected"
 toc: true
+toc_sticky: true
 ---
 
 ### Live Births

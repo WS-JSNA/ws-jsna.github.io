@@ -5,6 +5,7 @@ permalink: "/ccgs/coastal/population/births-and-maternity/"
 sidebar:
   nav: "coastal-POP-selected"
 toc: true
+toc_sticky: true
 ---
 
 ### Live Births

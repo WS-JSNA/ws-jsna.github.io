@@ -8,6 +8,7 @@ header:
 title: "Sexual Health"
 permalink: "/living-well/sexual-health/"
 toc: true
+toc_sticky: true
 excerpt: "This section contains documents about the sexual health of people living in West Sussex."
 downloads: ["SH01", "SH02", "SH03", "SH04", "SH05", "SH06"]
 ---

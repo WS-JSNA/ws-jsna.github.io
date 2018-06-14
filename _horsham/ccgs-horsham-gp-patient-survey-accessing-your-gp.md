@@ -5,6 +5,7 @@ permalink: "/ccgs/horsham/gp-patient-survey/accessing-your-gp/"
 sidebar:
   nav: "horsham-GPS-selected"
 toc: true
+toc_sticky: true
 ---
 
 The following questions concern ease of access to each GP surgery in Horsham and Mid Sussex CCG.

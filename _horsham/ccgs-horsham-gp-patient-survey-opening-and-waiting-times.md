@@ -5,6 +5,7 @@ permalink: "/ccgs/horsham/gp-patient-survey/opening-and-waiting-times/"
 sidebar:
   nav: "horsham-GPS-selected"
 toc: true
+toc_sticky: true
 ---
 
 The following questions concern opening and waiting times for each GP surgery in Horsham and Mid Sussex CCG.

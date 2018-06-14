@@ -10,6 +10,7 @@ permalink: "/living-well/smoking-and-tobacco/"
 downloads: ["SMOK01", "SMOK02", "SMOK03", "SMOK04", "SMOK05", "SMOK06", "SMOK07", "SMOK08"]
 excerpt: "This section contains data sets, needs assessments, briefings and other documents on the use of tobacco in West Sussex."
 toc: true
+toc_sticky: true
 ---
 This section contains data sets, needs assessments, briefings and other documents on the use of tobacco in West Sussex.
 

@@ -10,6 +10,7 @@ permalink: "/living-well/housing/"
 downloads: ["HOME01", "HOME02"]
 excerpt: "This section contains information about housing, including, household composition, tenure, housing condition and homelessness."
 toc: true
+toc_sticky: true
 ---
 
 This section contains information about housing, including, household composition, tenure, housing condition and homelessness.

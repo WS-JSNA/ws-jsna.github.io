@@ -5,6 +5,7 @@ permalink: "/ccgs/horsham/population/mortality/"
 sidebar:
   nav: "horsham-POP-selected"
 toc: true
+toc_sticky: true
 ---
 In 2014, there were 1,989 deaths among individuals living in NHS Horsham and Mid Sussex CCG (HSCIC, 2015).
 

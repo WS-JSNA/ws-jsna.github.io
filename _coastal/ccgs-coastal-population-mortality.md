@@ -5,6 +5,7 @@ permalink: "/ccgs/coastal/population/mortality/"
 sidebar:
   nav: "coastal-POP-selected"
 toc: true
+toc_sticky: true
 ---
 In 2014, there were 6,023 deaths among individuals living in NHS Coastal West Sussex CCG (HSCIC, 2015).
 

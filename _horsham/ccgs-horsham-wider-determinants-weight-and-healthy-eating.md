@@ -5,6 +5,7 @@ permalink: "/ccgs/horsham/wider-determinants/weight-and-healthy-eating/"
 sidebar:
   nav: "horsham-WDH-selected"
 toc: true
+toc_sticky: true
 ---
 
 ### Childhood Obesity

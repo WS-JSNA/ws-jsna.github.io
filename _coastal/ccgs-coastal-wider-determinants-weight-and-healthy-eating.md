@@ -5,6 +5,7 @@ permalink: "/ccgs/coastal/wider-determinants/weight-and-healthy-eating/"
 sidebar:
   nav: "coastal-WDH-selected"
 toc: true
+toc_sticky: true
 ---
 
 ### Childhood Obesity

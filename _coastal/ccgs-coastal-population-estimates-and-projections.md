@@ -5,6 +5,7 @@ permalink: "/ccgs/coastal/population/estimates-and-projections/"
 sidebar:
   nav: "coastal-POP-selected"
 toc: true
+toc_sticky: true
 ---
 
 ### Population Estimates

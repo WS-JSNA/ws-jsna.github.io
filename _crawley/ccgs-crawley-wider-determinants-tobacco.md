@@ -5,6 +5,7 @@ permalink: "/ccgs/crawley/wider-determinants/tobacco/"
 sidebar:
   nav: "crawley-WDH-selected"
 toc: true
+toc_sticky: true
 ---
 
 Smoking is the single greatest cause of preventable illness and premature death in the UK and is a major cause of health inequalities. The health impact of smoking extends beyond smokers, as there are many heath effects of second hand smoking (SHS). Further information about smoking can be found in the [Local Tobacco Control Profiles for England](http://www.tobaccoprofiles.info "Link to PHE tobacco control profiles") produced by Public Health England.

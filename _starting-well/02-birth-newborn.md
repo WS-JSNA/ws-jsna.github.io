@@ -5,6 +5,7 @@ sidebar:
   nav: "starting"
 title: "Birth and the newborn"
 toc: true
+toc_sticky: true
 header:
   overlay_color: "#ca4993"
 permalink: "/starting-well/birth-newborn/"

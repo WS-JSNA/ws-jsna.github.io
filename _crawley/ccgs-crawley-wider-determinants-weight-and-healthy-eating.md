@@ -5,6 +5,7 @@ permalink: "/ccgs/crawley/wider-determinants/weight-and-healthy-eating/"
 sidebar:
   nav: "crawley-WDH-selected"
 toc: true
+toc_sticky: true
 ---
 
 ### Childhood Obesity

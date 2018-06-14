@@ -5,6 +5,7 @@ sidebar:
   nav: "starting"
 title: "School age children and education"
 toc: true
+toc_sticky: true
 header:
   overlay_color: "#ca4993"
 permalink: "/starting-well/education-children/"

@@ -5,6 +5,7 @@ permalink: "/ccgs/coastal/wider-determinants/alcohol/"
 sidebar:
   nav: "coastal-WDH-selected"
 toc: true
+toc_sticky: true
 ---
 On this page, statistics are given for alcohol related behaviours, hospital activity and mortality.
 

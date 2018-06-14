@@ -5,6 +5,7 @@ permalink: "/ccgs/crawley/gp-patient-survey/opening-and-waiting-times/"
 sidebar:
   nav: "crawley-GPS-selected"
 toc: true
+toc_sticky: true
 ---
 
 The following questions concern opening and waiting times for each GP surgery in Crawley CCG.

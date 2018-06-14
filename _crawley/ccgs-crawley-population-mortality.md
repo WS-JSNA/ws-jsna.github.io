@@ -5,6 +5,7 @@ permalink: "/ccgs/crawley/population/mortality/"
 sidebar:
   nav: "crawley-POP-selected"
 toc: true
+toc_sticky: true
 ---
 This page contains information on underlying cause of death in Crawley CCG, life expectancy (at Local Authority level), as well as premature (under 75s) mortality, including infant and child mortality statistics (at Local Authority level).
 

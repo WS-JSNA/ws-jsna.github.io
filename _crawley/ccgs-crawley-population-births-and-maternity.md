@@ -5,6 +5,7 @@ permalink: "/ccgs/crawley/population/births-and-maternity/"
 sidebar:
   nav: "crawley-POP-selected"
 toc: true
+toc_sticky: true
 ---
 
 ### Live Births
