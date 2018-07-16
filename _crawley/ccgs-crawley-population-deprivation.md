@@ -4,6 +4,8 @@ title: "Deprivation"
 permalink: "/ccgs/crawley/population/deprivation/"
 sidebar:
   nav: "crawley-POP-selected"
+toc: true
+toc_sticky: true
 ---
 
 

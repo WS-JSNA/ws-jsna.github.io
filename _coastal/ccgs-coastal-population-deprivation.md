@@ -38,7 +38,7 @@ The GP Practice deprivation score is the registered population (as at 31st Decem
 
 The figure below shows GP practices within each CCG in West Sussex by their national decile group (practices in dark blue are estimated to have the most deprived populations in England whereas those in orange are the least deprived).
 
-{% include figure image_path="/assets/images/ccg-profiles/coastal/Population-weighted-using-Jan-2016-HSCIC-release-ID2015-deprivation-score.gif" alt="Population weighted (using Jan 2016 HSCIC release) ID2015 deprivation score" caption="Population weighted (using Jan 2016 HSCIC release) ID2015 deprivation score" class="full" %}
+{% include figure image_path="/assets/images/ccg-profiles/coastal/Population-weighted-using-Jan-2016-HSCIC-release-ID2015-deprivation-score.gif" alt="Population weighted (using Jan 2016 HSCIC release) ID2015 deprivation score" caption="Population weighted (using Jan 2016 HSCIC release) ID2015 deprivation score" %}
 
 In NHS Coastal West Sussex CCG, one practice (Bognor Medical Centre) is estimated to have a population in the ID2015 3rd most deprived decile. In addition, one practice falls within the 4th most deprived decile (Fitzalan practice). Conversely four practices within NHS Coastal West Sussex CCG are amongst the 10% least deprived in England (Barn Surgery, Steyning Health Centre, Southbourne Surgery and Loxwood Surgery).
 
@@ -160,14 +160,23 @@ The census examines four dimensions of deprivation:
 - **Health and disability** - a household is considered deprived if any person in the household reports their general health to be bad or very bad or if any person in the household reports that they have a long term health problem.
 - **Household overcrowding** - a household is considered deprived if the household accommodation is overcrowded (with an occupancy rating of -1 or less), or if the household is in a shared dwelling, or has no central heating.
 
-The output for this measure of deprivation is the proportion of households which are identified as deprived on none, one, two, three, or four of the above dimensions of deprivation. Census data is provided at the LSOA level, and as LSOAs are coterminous with CCG boundaries it is possible to determine the proportion of households in the CCG which were deprived on Census day 2011. The table below shows the proportions of households identified as deprived on none, one, two, three, or four deprivation dimensions for each of the CCGs in West Sussex.
+The output for this measure of deprivation is the proportion of households which are identified as deprived on none, one, two, three, or four of the above dimensions of deprivation. Census data is provided at the LSOA level, and as LSOAs are coterminous with CCG boundaries it is possible to determine the proportion of households in the CCG which were deprived on Census day 2011. The table below shows the proportions of households identified as deprived on none, one, two, three, or four deprivation dimensions for each of the CCGs in West Sussex.[^2]
 
-| Area | Not deprived in any dimension | Deprived on one dimension | Deprived on two dimensions | Deprived on three dimensions | Deprived on four dimensions | Number of households |
-|:---|---:|---:|---:|---:|---:|---:| 
-| NHS Crawley CCG | 42.1% | 34.6% | 18.5% | 4.5% | 0.4% | 42,727 |
-| NHS Coastal West Sussex CCG | 44.0% | 34.3% | 17.70% | 3.60% | 0.4% | 212,042 |
-| NHS Horsham and Mid Sussex CCG | 53.9% | 31.0% | 12.6% | 2.4% | 0.2% | 90,845 |
-| West Sussex CCGs combined | 46.4% | 33.4% | 16.4% | 3.4% | 0.3% | 345,614 |
+[^2]: An additional table gives the overall number of households for reference.
+
+| Area | Not deprived in any dimension | Deprived on one dimension | Deprived on two dimensions | Deprived on three dimensions | Deprived on four dimensions |
+|:---|---:|---:|---:|---:|---:|
+| NHS Crawley CCG | 42.1% | 34.6% | 18.5% | 4.5% | 0.4% |
+| NHS Coastal West Sussex CCG | 44.0% | 34.3% | 17.70% | 3.60% | 0.4% |
+| NHS Horsham and Mid Sussex CCG | 53.9% | 31.0% | 12.6% | 2.4% | 0.2% |
+| West Sussex CCGs combined | 46.4% | 33.4% | 16.4% | 3.4% | 0.3% |
+
+| Area | Number of households |
+|:-----|---------------------:|
+| NHS Crawley CCG |  42,727 |
+| NHS Coastal West Sussex CCG | 212,042 |
+| NHS Horsham and Mid Sussex CCG | 90,845 |
+| West Sussex CCGs combined |  345,614 |
 
 The map below shows the proportion of households at Lower-layer super output area level in NHS Coastal West Sussex that were identified as deprived on **at least one** measure of deprivation from the 2011 Census. Darker areas indicate a higher proportion of deprived households.
 
@@ -195,7 +204,8 @@ In 2013, **12.1%** of children under the age of 16 years in West Sussex were liv
 
 The table below shows the number and proportion of children under 16 years of age living in low income households in local authority districts of NHS Coastal West Sussex CCG between 2008 and 2013. It should be noted that the data for Horsham reflects the whole district of Horsham and not just the part of Horsham that is designated as NHS Coastal West Sussex CCG.
 
-#### Percentage of children under 16 years living in low income households: local authorities covering Coastal West Sussex CCG (2008-13)			
+#### Percentage of children under 16 years living in low income households: local authorities covering Coastal West Sussex CCG (2008-13)
+
 | Area | 2008 |	2009 | 2010 | 2011 | 2012 | 2013 |
 |:-----|:----:|:----:|:----:|:----:|:----:|:----:|
 | Adur | 1,820 (17.5%) | 1,960 (18.7%) | 1,795 (17.2%) | 1,785 (17.0%) | 1,720 (16.1%) | 1,650 (15.3%) |
