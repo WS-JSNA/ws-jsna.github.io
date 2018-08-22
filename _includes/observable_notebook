@@ -4,7 +4,7 @@ import notebook from "https://api.observablehq.com/@{{include.username}}/{{inclu
 
 <style>
 /* https://css-tricks.com/full-width-containers-limited-width-parents/ */
-.observable-fullwidth {
+.observable-styling {
   width: 100vw;
   position: relative;
   left: 50%;
@@ -14,17 +14,17 @@ import notebook from "https://api.observablehq.com/@{{include.username}}/{{inclu
 }
 </style>
 
-<div id="visual" class="observable-fullwidth"></div>
+<div id="{{include.target}}" class="observable-styling"></div>
 
 <script type="module">
 
   // NOTEBOOK CONFIGURATION
   {{ import_command }}
 
-  const target = document.querySelector("#visual");
+  const target = document.querySelector("#{{include.target}}");
   const renders = {
     "viewof p": "p",
-    "display": "div.fullwidth",
+    "{{include.target}}": "div.observable-styling",
   };
 
 

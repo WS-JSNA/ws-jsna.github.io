@@ -229,7 +229,7 @@
 
 <style>
 /* https://css-tricks.com/full-width-containers-limited-width-parents/ */
-.observable-fullwidth {
+.observable-styling {
   width: 100vw;
   position: relative;
   left: 50%;
@@ -239,7 +239,7 @@
 }
 </style>
 
-<div id="visual" class="observable-fullwidth"></div>
+<div id="display" class="observable-styling"></div>
 
 <script type="module">
 
@@ -248,10 +248,10 @@
 import notebook from "https://api.observablehq.com/@fil/tissots-indicatrix.js?key=1ef8c91929d29461";
 
 
-  const target = document.querySelector("#visual");
+  const target = document.querySelector("#display");
   const renders = {
     "viewof p": "p",
-    "display": "div.fullwidth",
+    "display": "div.observable-styling",
   };
 
 
