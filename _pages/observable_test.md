@@ -8,4 +8,4 @@ This is a test of embedding [Observable workbooks](https://beta.observablehq.com
 
 I forked this example and am now attempting to embed it in this page using the plugin for Jekyll that I wrote, inspired by [this post by @Fil at VisionsCarto](https://visionscarto.net/observable-jekyll/).
 
-{% include observable_notebook username="ws-jsna" workbook_name="d3-connected-scatterplot" key="1a54e3d79ca909d6" target="chart" %}
+{% include alt_observable_notebook username="ws-jsna" workbook_name="de-jong-attractor-ii" key="0c460a6c9f313e7a" target="canvas" %}
