@@ -1,20 +1,22 @@
-id,title,date,format,theme,filename,description
-MAF01,General fertility rates (GFR) total fertility rates (TFR) births 2001 - 2012,30/07/2013,Excel,starting-well,General_fertility_rates_total_fertility_rates_births_2001_2012.xlsx,"This file includes births GFR and TFR for all local authorities in West Sussex and graphs with the ability to compare trends over time."
+id,title,date,format,theme,filename,description,nix
+MAF01,"General fertility rates (GFR) total fertility rates (TFR) births 2001 - 2012",30/07/2013,Excel,starting-well,"General_fertility_rates_total_fertility_rates_births_2001_2012.xlsx","This file includes births, general fertility rate and total fertility rate for all local authorities in West Sussex.
+
+Graphs allow the comparison of trends over time.",0
 MAF02,Live births 2004 - 2010 and fertility rates 2005 - 2010,03/02/2012,Excel,starting-well,live_births_2004_2010_and_fertility_rates_2005_2010.xls,"Data on trend in number of live births from 2004 to 2010 at local authority level.
 
-Data also provided on general fertility rates (GFR) and total fertility rates (TFR) over the past 6 years at local authority levels."
+Data also provided on general fertility rates (GFR) and total fertility rates (TFR) over the past 6 years at local authority levels.",0
 BATNB01,Live births in hospital 2003 - 2007,16/02/2012,Excel,starting-well,live_births_in_hospital_2003_2007.xls,"Percentage of live births in hospital by local authority between 2003 and 2007.
 
-Data provided by the Child Health Bureau and released on a quarterly basis."
+Data provided by the Child Health Bureau and released on a quarterly basis.",0
 BATNB02,Live births by age of mother 2011,07/08/2013,Excel,starting-well,live_births_by_age_of_mother_2011.xls,"Live births at local authority level by age of mother in 2011.
 
-Data are based on area of usual residence."
+Data are based on area of usual residence.",0
 BATNB03,Live births 2004 - 2010 and fertility rates 2005 - 2010,03/02/2012,Excel,starting-well,live_births_2004_2010_and_fertility_rates_2005_2010.xls,"Data on trend in number of live births from 2004 to 2010 at local authority level.
 
-Data also provided on general fertility rates (GFR) and total fertility rates (TFR) over the past 6 years at local authority levels."
+Data also provided on general fertility rates (GFR) and total fertility rates (TFR) over the past 6 years at local authority levels.",0
 BATNB04,Looked after children needs assessment,06/07/2012,PDF,starting-well,needs_assessment_of_vulnerable_and_looked_after_children___full_report.pdf,"A comprehensive needs assessment of vulnerable and Looked After Children in West Sussex, focussing on social care services, physical and mental health, housing, lifestyle and education.
 
-Produced in 2008 by NHS Sussex."
+Produced in 2008 by NHS Sussex.",0
 EY01,Briefing - Child Disability Estimates,30/01/2017,PDF,starting-well,Briefing-Child-Disability-Estimates.pdf,"This briefing incorporates work undertaken by the Institute of Public Care for West Sussex County Council as part of the needs assessment of people born with or who acquire a lifelong disability.
 
 The briefing provides an estimate of the number of children living in West Sussex who have a disability and outline the sources of data and background to the assumptions made. This information is important to aid the planning of services and support to children, young people and their families.

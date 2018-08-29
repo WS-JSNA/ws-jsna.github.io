@@ -35,9 +35,9 @@ This section contains data sets and information about school aged children and e
 
 ### Special Educational Needs and Disability (SEND) outcomes in West Sussex
 
-<p><embed src="http://jsna.westsussex.gov.uk/wp-content/uploads/2017/01/SEND-Infographic.pdf" width="650" height="525"></p>
+{% include embedpdf file_path="/assets/starting-well/SEND-Infographic.pdf" caption="SEND Infographic" %}
 
-{% include downloads_from_db ids=page.downloads %}	
+{% include downloads_from_db ids=page.downloads %}
 
 **Please note:** we are currently updating the West Sussex JSNA site so please check back soon for updates.
 {: .notice--danger}

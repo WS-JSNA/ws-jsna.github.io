@@ -1008,7 +1008,7 @@ var idx = lunr(function () {
   
     idx.add({
       title: "Neighbourhoods",
-      excerpt: "This section contains information about infrastructure, community assets and behavioural data such as crime and deprivation. Downloads Crime rates Date...",
+      excerpt: "This section contains information about infrastructure, community assets and behavioural data such as crime and deprivation. Downloads Crime rates Crime...",
       categories: [],
       tags: [],
       id: 109
@@ -1203,7 +1203,7 @@ var idx = lunr(function () {
   
     idx.add({
       title: "Director of Public Health Reports",
-      excerpt: "NB: Change attachments… Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix Date added: 27/10/2014 This is a data...",
+      excerpt: "NB: Change attachments… Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix This is a data appendix incorporating a...",
       categories: [],
       tags: [],
       id: 130
@@ -1212,7 +1212,7 @@ var idx = lunr(function () {
   
     idx.add({
       title: "JSNA Reports",
-      excerpt: "Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix Date added: 27/10/2014 This is a data appendix incorporating a...",
+      excerpt: "Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix This is a data appendix incorporating a range of data...",
       categories: [],
       tags: [],
       id: 131
@@ -1221,7 +1221,7 @@ var idx = lunr(function () {
   
     idx.add({
       title: "Subject Specific Needs Assessments",
-      excerpt: "NB: Change attachments… Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix Date added: 27/10/2014 This is a data...",
+      excerpt: "NB: Change attachments… Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix This is a data appendix incorporating a...",
       categories: [],
       tags: [],
       id: 132
@@ -1242,7 +1242,7 @@ var idx = lunr(function () {
   
     idx.add({
       title: "Maternity and Fertility",
-      excerpt: "Downloads General fertility rates (GFR) total fertility rates (TFR) births 2001 - 2012 Date added: 30/07/2013 This file includes births...",
+      excerpt: "Downloads General fertility rates (GFR) total fertility rates (TFR) births 2001 - 2012 This file includes births, general fertility rate...",
       categories: [],
       tags: [],
       id: 134
@@ -1251,7 +1251,7 @@ var idx = lunr(function () {
   
     idx.add({
       title: "Birth and the newborn",
-      excerpt: "Downloads Live births in hospital 2003 - 2007 Date added: 16/02/2012 Percentage of live births in hospital by local authority...",
+      excerpt: "Downloads Live births in hospital 2003 - 2007 Percentage of live births in hospital by local authority between 2003 and...",
       categories: [],
       tags: [],
       id: 135
@@ -1260,7 +1260,7 @@ var idx = lunr(function () {
   
     idx.add({
       title: "0-4 years of age",
-      excerpt: "Downloads Briefing - Child Disability Estimates Date added: 30/01/2017 This briefing incorporates work undertaken by the Institute of Public Care...",
+      excerpt: "Downloads Briefing - Child Disability Estimates This briefing incorporates work undertaken by the Institute of Public Care for West Sussex...",
       categories: [],
       tags: [],
       id: 136
@@ -2544,7 +2544,7 @@ var store = [
       {
         "title": "Neighbourhoods",
         "url": "http://localhost:4000/living-well/neighbourhoods/",
-        "excerpt": "This section contains information about infrastructure, community assets and behavioural data such as crime and deprivation. Downloads Crime rates Date...",
+        "excerpt": "This section contains information about infrastructure, community assets and behavioural data such as crime and deprivation. Downloads Crime rates Crime...",
         "teaser":
           
             null
@@ -2783,7 +2783,7 @@ var store = [
       {
         "title": "Director of Public Health Reports",
         "url": "http://localhost:4000/reports/director-public-health-annual-report/",
-        "excerpt": "NB: Change attachments… Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix Date added: 27/10/2014 This is a data...",
+        "excerpt": "NB: Change attachments… Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix This is a data appendix incorporating a...",
         "teaser":
           
             null
@@ -2794,7 +2794,7 @@ var store = [
       {
         "title": "JSNA Reports",
         "url": "http://localhost:4000/reports/jsna-reports/",
-        "excerpt": "Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix Date added: 27/10/2014 This is a data appendix incorporating a...",
+        "excerpt": "Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix This is a data appendix incorporating a range of data...",
         "teaser":
           
             null
@@ -2805,7 +2805,7 @@ var store = [
       {
         "title": "Subject Specific Needs Assessments",
         "url": "http://localhost:4000/reports/subject-specific-needs-assessments/",
-        "excerpt": "NB: Change attachments… Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix Date added: 27/10/2014 This is a data...",
+        "excerpt": "NB: Change attachments… Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix This is a data appendix incorporating a...",
         "teaser":
           
             null
@@ -2831,7 +2831,7 @@ var store = [
       {
         "title": "Maternity and Fertility",
         "url": "http://localhost:4000/starting-well/maternity-and-fertility/",
-        "excerpt": "Downloads General fertility rates (GFR) total fertility rates (TFR) births 2001 - 2012 Date added: 30/07/2013 This file includes births...",
+        "excerpt": "Downloads General fertility rates (GFR) total fertility rates (TFR) births 2001 - 2012 This file includes births, general fertility rate...",
         "teaser":
           
             null
@@ -2842,7 +2842,7 @@ var store = [
       {
         "title": "Birth and the newborn",
         "url": "http://localhost:4000/starting-well/birth-newborn/",
-        "excerpt": "Downloads Live births in hospital 2003 - 2007 Date added: 16/02/2012 Percentage of live births in hospital by local authority...",
+        "excerpt": "Downloads Live births in hospital 2003 - 2007 Percentage of live births in hospital by local authority between 2003 and...",
         "teaser":
           
             null
@@ -2853,7 +2853,7 @@ var store = [
       {
         "title": "0-4 years of age",
         "url": "http://localhost:4000/starting-well/early-years/",
-        "excerpt": "Downloads Briefing - Child Disability Estimates Date added: 30/01/2017 This briefing incorporates work undertaken by the Institute of Public Care...",
+        "excerpt": "Downloads Briefing - Child Disability Estimates This briefing incorporates work undertaken by the Institute of Public Care for West Sussex...",
         "teaser":
           
             null

@@ -5,7 +5,7 @@
   {% for id in include.ids %}
     {% if id==att.id %}
       {% capture ext-string %}{{att.format | downcase | rstrip | lstrip}}{% endcapture %}
-      {% capture icon-name %}"fa fa-file-{{ext-string}}-o"{% endcapture %}
+      {% capture icon-name %}"fas fa-file-{{ext-string}}"{% endcapture %}
       {% if att.format == "Excel" %}
         {% capture att_desc %}Excel Spreadsheet{% endcapture %}
       {% elsif att.format == "Word" %}
@@ -17,8 +17,8 @@
       {% endif %}
       {% capture dl_link %}/assets/{{att.theme}}/{{att.filename}}{% endcapture %}
 <h3 id="{{att.id}}">{{att.title}}</h3>
-<p class="page__meta">Date added: {{att.date}}</p>
 {{att.description | markdownify }}
+<p class="page__meta">Date added: {{att.date}}</p>
 <i class={{icon-name}} aria-hidden="true"></i> [{{att.title}}, {{att_desc | rstrip}}.]({{dl_link}} "{{att.title}}")
     {% endif %}
   {% endfor %}

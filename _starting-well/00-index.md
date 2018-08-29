@@ -22,7 +22,7 @@ Data in this section are provided under five headings:
 * [School age children and education](/starting-well/education-children/)
 * [Young people](/starting-well/young-people/)
 
-{% include embedpdf file_path="/assets/uploads/starting-well/CYP-Outcomes-revised-August-2016.pdf" %}
+{% include embedpdf file_path="/assets/uploads/starting-well/CYP-Outcomes-revised-August-2016.pdf" caption="A Walk Through the Outcomes for Children and Young People in West Sussex." %}
 
 **Please note:** we are currently updating the West Sussex JSNA site so please check back soon for updates.
 {: .notice--danger}

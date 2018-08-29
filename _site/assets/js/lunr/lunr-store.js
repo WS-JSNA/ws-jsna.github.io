@@ -5,12 +5,12 @@ var store = [{
         "url": "http://localhost:4000/ageing-well/",
         "teaser":null},{
         "title": "Population Data",
-        "excerpt":"This page contains information about the older population in West Sussex as well as health and social care service use. Downloads West Sussex JSNA Older People Profiling Date added: 01/02/2017 This profile collates data relating to the health and wellbeing of older people in West Sussex. Data are presented, in...","categories": [],
+        "excerpt":"This page contains information about the older population in West Sussex as well as health and social care service use. Downloads West Sussex JSNA Older People Profiling This profile collates data relating to the health and wellbeing of older people in West Sussex. Data are presented, in the main, at...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/ageing-well/population-data/",
         "teaser":null},{
         "title": "Physical and mental health and wellbeing in later life",
-        "excerpt":"This section includes data and information about the physical and mental health of older people in West Sussex. Downloads Falls Commentary - Summer 2017 Date added: 07/08/2017 Falls and injuries sustained due to a fall are a common and serious problem for older people. People aged 65 and older have...","categories": [],
+        "excerpt":"This section includes data and information about the physical and mental health of older people in West Sussex. Downloads Falls Commentary - Summer 2017 Falls and injuries sustained due to a fall are a common and serious problem for older people. People aged 65 and older have the highest risk...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/ageing-well/physical-mental-health-later-life/",
         "teaser":null},{
@@ -535,17 +535,17 @@ var store = [{
         "url": "http://localhost:4000/living-well/wider-determinants/",
         "teaser":null},{
         "title": "Environment",
-        "excerpt":"This section includes information about the environment including air quality and household waste. Downloads Local carbon dioxide (CO2) emissions estimates 2005 - 2011 Date added: 07/08/2012 Local CO2 emissions estimates for 2005-2011, represented per capita and raw figures by industry. Local carbon dioxide (CO2) emissions estimates 2005 - 2011, Excel...","categories": [],
+        "excerpt":"This section includes information about the environment including air quality and household waste. Downloads Local carbon dioxide (CO2) emissions estimates 2005 - 2011 Local CO2 emissions estimates for 2005-2011, represented per capita and raw figures by industry. Date added: 07/08/2012 Local carbon dioxide (CO2) emissions estimates 2005 - 2011, Excel...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/living-well/environment/",
         "teaser":null},{
         "title": "Housing",
-        "excerpt":"This section contains information about housing, including, household composition, tenure, housing condition and homelessness. Downloads Housing Data Workbook December 2016 Date added: 01/02/2017 This spreadsheet contains data on housing in West Sussex districts and boroughs. Data sources include: Census 2011, Office for National Statistics, Land registry, Valuation Office Agency, Department...","categories": [],
+        "excerpt":"This section contains information about housing, including, household composition, tenure, housing condition and homelessness. Downloads Housing Data Workbook December 2016 This spreadsheet contains data on housing in West Sussex districts and boroughs. Data sources include: Census 2011, Office for National Statistics, Land registry, Valuation Office Agency, Department for Communities and...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/living-well/housing/",
         "teaser":null},{
         "title": "Neighbourhoods",
-        "excerpt":"This section contains information about infrastructure, community assets and behavioural data such as crime and deprivation. Downloads Crime rates Date added: 28/08/2013 Crime rates and pooled figures at ward level between 2008-2013 with comparative tools. Crime rates, Excel Spreadsheet. Alcohol related record violent crimes Date added: 16/07/2012 Data on alcohol-related...","categories": [],
+        "excerpt":"This section contains information about infrastructure, community assets and behavioural data such as crime and deprivation. Downloads Crime rates Crime rates and pooled figures at ward level between 2008-2013 with comparative tools. Date added: 28/08/2013 Crime rates, Excel Spreadsheet. Alcohol related record violent crimes Data on alcohol-related recorded and violent...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/living-well/neighbourhoods/",
         "teaser":null},{
@@ -555,22 +555,22 @@ var store = [{
         "url": "http://localhost:4000/living-well/health-behaviours/",
         "teaser":null},{
         "title": "Drugs and Alcohol",
-        "excerpt":"The following documents comprise data sets, needs assessments and maps providing an overview of specific health and wellbeing issues related to the use of drugs and alcohol in West Sussex. Downloads West Sussex alcohol and drugs needs assessment; final report 2014 Date added: 16/06/2014 In undertaking the needs assessment researchers...","categories": [],
+        "excerpt":"The following documents comprise data sets, needs assessments and maps providing an overview of specific health and wellbeing issues related to the use of drugs and alcohol in West Sussex. Downloads West Sussex alcohol and drugs needs assessment; final report 2014 In undertaking the needs assessment researchers examined evidence, reviewed...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/living-well/drugs-and-alcohol/",
         "teaser":null},{
         "title": "Physical activity and weight management",
-        "excerpt":"This section includes documents about physical activity, participation in sport, diet and nutrition and levels of obesity in the West Sussex population. Downloads Participation in sport 2007 - 2009 by district Date added: 31/01/2011 Estimates for adult participation in sport - percentage participating in moderate intensity activity for 30 minutes...","categories": [],
+        "excerpt":"This section includes documents about physical activity, participation in sport, diet and nutrition and levels of obesity in the West Sussex population. Downloads Participation in sport 2007 - 2009 by district Estimates for adult participation in sport - percentage participating in moderate intensity activity for 30 minutes or more at...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/living-well/weight-management/",
         "teaser":null},{
         "title": "Sexual Health",
-        "excerpt":"This section contains documents about the sexual health of people living in West Sussex. Downloads West Sussex Sexual Health Needs Asessment 2014 Final Report Date added: 30/01/2017 In February 2014, West Sussex County Council commissioned Nudge Associates Limited to undertake a population focused sexual health needs assessment incorporating a stakeholder...","categories": [],
+        "excerpt":"This section contains documents about the sexual health of people living in West Sussex. Downloads West Sussex Sexual Health Needs Asessment 2014 Final Report In February 2014, West Sussex County Council commissioned Nudge Associates Limited to undertake a population focused sexual health needs assessment incorporating a stakeholder engagement process with...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/living-well/sexual-health/",
         "teaser":null},{
         "title": "Smoking and Tobacco Use",
-        "excerpt":"This section contains data sets, needs assessments, briefings and other documents on the use of tobacco in West Sussex. Downloads Smoking prevalence briefing note; March 2015 Date added: 08/04/2015 Smoking prevalence briefing note; March 2015, Word document. Smoking data 2001 - 2011 Date added: 14/08/2013 A various spread of smoking...","categories": [],
+        "excerpt":"This section contains data sets, needs assessments, briefings and other documents on the use of tobacco in West Sussex. Downloads Smoking prevalence briefing note; March 2015 Date added: 08/04/2015 Smoking prevalence briefing note; March 2015, Word document. Smoking data 2001 - 2011 A various spread of smoking data from 2007-2011...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/living-well/smoking-and-tobacco/",
         "teaser":null},{
@@ -650,17 +650,17 @@ var store = [{
         "url": "http://localhost:4000/reports/",
         "teaser":null},{
         "title": "Director of Public Health Reports",
-        "excerpt":"NB: Change attachments… Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix Date added: 27/10/2014 This is a data appendix incorporating a range of data used to inform the JSNA summary. West Sussex Joint Strategic Needs Assessment 2014 Data Appendix, Word document. West Sussex Joint Strategic Needs Assessment Summary...","categories": [],
+        "excerpt":"NB: Change attachments… Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix This is a data appendix incorporating a range of data used to inform the JSNA summary. Date added: 27/10/2014 West Sussex Joint Strategic Needs Assessment 2014 Data Appendix, Word document. West Sussex Joint Strategic Needs Assessment Summary...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/reports/director-public-health-annual-report/",
         "teaser":null},{
         "title": "JSNA Reports",
-        "excerpt":"Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix Date added: 27/10/2014 This is a data appendix incorporating a range of data used to inform the JSNA summary. West Sussex Joint Strategic Needs Assessment 2014 Data Appendix, Word document. West Sussex Joint Strategic Needs Assessment Summary Version 2014 Date...","categories": [],
+        "excerpt":"Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix This is a data appendix incorporating a range of data used to inform the JSNA summary. Date added: 27/10/2014 West Sussex Joint Strategic Needs Assessment 2014 Data Appendix, Word document. West Sussex Joint Strategic Needs Assessment Summary Version 2014 This...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/reports/jsna-reports/",
         "teaser":null},{
         "title": "Subject Specific Needs Assessments",
-        "excerpt":"NB: Change attachments… Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix Date added: 27/10/2014 This is a data appendix incorporating a range of data used to inform the JSNA summary. West Sussex Joint Strategic Needs Assessment 2014 Data Appendix, Word document. West Sussex Joint Strategic Needs Assessment Summary...","categories": [],
+        "excerpt":"NB: Change attachments… Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix This is a data appendix incorporating a range of data used to inform the JSNA summary. Date added: 27/10/2014 West Sussex Joint Strategic Needs Assessment 2014 Data Appendix, Word document. West Sussex Joint Strategic Needs Assessment Summary...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/reports/subject-specific-needs-assessments/",
         "teaser":null},{
@@ -670,22 +670,22 @@ var store = [{
         "url": "http://localhost:4000/starting-well/",
         "teaser":null},{
         "title": "Maternity and Fertility",
-        "excerpt":"Downloads General fertility rates (GFR) total fertility rates (TFR) births 2001 - 2012 Date added: 30/07/2013 This file includes births GFR and TFR for all local authorities in West Sussex and graphs with the ability to compare trends over time. General fertility rates (GFR) total fertility rates (TFR) births 2001...","categories": [],
+        "excerpt":"Downloads General fertility rates (GFR) total fertility rates (TFR) births 2001 - 2012 This file includes births, general fertility rate and total fertility rate for all local authorities in West Sussex. Graphs allow the comparison of trends over time. Date added: 30/07/2013 General fertility rates (GFR) total fertility rates (TFR)...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/starting-well/maternity-and-fertility/",
         "teaser":null},{
         "title": "Birth and the newborn",
-        "excerpt":"Downloads Live births in hospital 2003 - 2007 Date added: 16/02/2012 Percentage of live births in hospital by local authority between 2003 and 2007. Data provided by the Child Health Bureau and released on a quarterly basis. Live births in hospital 2003 - 2007, Excel Spreadsheet. Live births by age...","categories": [],
+        "excerpt":"Downloads Live births in hospital 2003 - 2007 Percentage of live births in hospital by local authority between 2003 and 2007. Data provided by the Child Health Bureau and released on a quarterly basis. Date added: 16/02/2012 Live births in hospital 2003 - 2007, Excel Spreadsheet. Live births by age...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/starting-well/birth-newborn/",
         "teaser":null},{
         "title": "0-4 years of age",
-        "excerpt":"Downloads Briefing - Child Disability Estimates Date added: 30/01/2017 This briefing incorporates work undertaken by the Institute of Public Care for West Sussex County Council as part of the needs assessment of people born with or who acquire a lifelong disability. The briefing provides an estimate of the number of...","categories": [],
+        "excerpt":"Downloads Briefing - Child Disability Estimates This briefing incorporates work undertaken by the Institute of Public Care for West Sussex County Council as part of the needs assessment of people born with or who acquire a lifelong disability. The briefing provides an estimate of the number of children living in...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/starting-well/early-years/",
         "teaser":null},{
         "title": "School age children and education",
-        "excerpt":"This section contains data sets and information about school aged children and education services in West Sussex. Special Educational Needs and Disability (SEND) outcomes in West Sussex Downloads SEND Survey Summary Report 2015 Date added: 01/02/2017 Summary of key results from the Services for children with special educational needs and...","categories": [],
+        "excerpt":"This section contains data sets and information about school aged children and education services in West Sussex. Special Educational Needs and Disability (SEND) outcomes in West Sussex SEND Infographic Downloads SEND Survey Summary Report 2015 Summary of key results from the Services for children with special educational needs and disabilities...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/starting-well/education-children/",
         "teaser":null},{
