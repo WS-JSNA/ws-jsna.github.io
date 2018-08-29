@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Chronic Obstructive Pulmonary Disease"
+excerpt: "Information for Crawley CCG"
 permalink: "/ccgs/crawley/long-term-conditions/chronic-obstructive-pulmonary-disease/"
 sidebar:
   nav: "crawley-LTC-selected"

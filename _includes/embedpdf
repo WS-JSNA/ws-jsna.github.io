@@ -1,5 +1,5 @@
 <figure class="{{ include.class }}">
-  <img src=
+  <embed src=
     {% if include.file_path contains "://" %}
       "{{ include.file_path }}"
     {% else %}

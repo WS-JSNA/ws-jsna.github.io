@@ -17,11 +17,12 @@ Poor health may lead to reduced productivity and withdrawal from the labour forc
 
 Many of the risk factors associated with poor health among the working age population are avoidable and can be prevented in some way by adopting healthy lifestyles such as engaging in physical activity, reducing and quitting tobacco use, healthy eating and reducing and quitting drug and alcohol use.
 
-This section is presented under three headings, reflecting the available [demographics of the workforce in West Sussex]({{"/living-well/workforce-health/" | absolute_url}}), data on [housing]({{"/living-well/housing/" | absolute_url}}), [environment]({{"/living-well/environment/" | absolute_url}}) and [wider determinants of health]({{"/living-well/wider-determinants/" | absolute_url}}) and data on [the health behaviours of the working age population]({{"/living-well/health-behaviours/" | absolute_url}}):
+This section is presented under three headings, reflecting the available [demographics of the workforce in West Sussex]({{"/living-well/workforce-health/" | absolute_url}}), data on [housing]({{"/living-well/housing/" | absolute_url}}), [environment]({{"/living-well/environment/" | absolute_url}}) and [wider determinants of health]({{"/living-well/wider-determinants/" | absolute_url}}) and data on the health behaviours of the working age population, including:
 
-* [Workforce health and disability]({{"/living-well/workforce-health/" | absolute_url}})
-* [Housing, environment and wider determinants of health]({{"/living-well/wider-determinants/" | absolute_url}})
-* [Health behaviours]({{"/living-well/health-behaviours/" | absolute_url}})
+* [Drugs and Alcohol]({{"/living-well/drugs-and-alcohol/" | absolute_url}})
+* [Weight Management]({{"/living-well/weight-management/" | absolute_url}})
+* [Sexual Health]({{"/living-well/sexual-health/" | absolute_url}})
+* [Smoking and Tobacco]({{"/living-well/smoking-and-tobacco/" | absolute_url}})
 
 **Please note:** We are currently updating the West Sussex JSNA site so please check back soon for updates.
 {: .notice--danger}

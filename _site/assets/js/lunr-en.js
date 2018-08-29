@@ -1008,19 +1008,10 @@ var idx = lunr(function () {
   
     idx.add({
       title: "Neighbourhoods",
-      excerpt: "This section contains information about infrastructure, community assets and behavioural data such as crime and deprivation. Downloads Crime rates Crime...",
+      excerpt: "This section contains information about infrastructure, community assets and behavioural data such as crime and deprivation. Downloads Crime rates Date...",
       categories: [],
       tags: [],
       id: 109
-    });
-    
-  
-    idx.add({
-      title: "Health Behaviours",
-      excerpt: "This section contains information about drugs and alcohol prevalence in West Sussex and the services supporting people to reduce their...",
-      categories: [],
-      tags: [],
-      id: 110
     });
     
   
@@ -1029,7 +1020,7 @@ var idx = lunr(function () {
       excerpt: "The following documents comprise data sets, needs assessments and maps providing an overview of specific health and wellbeing issues related...",
       categories: [],
       tags: [],
-      id: 111
+      id: 110
     });
     
   
@@ -1038,7 +1029,7 @@ var idx = lunr(function () {
       excerpt: "This section includes documents about physical activity, participation in sport, diet and nutrition and levels of obesity in the West...",
       categories: [],
       tags: [],
-      id: 112
+      id: 111
     });
     
   
@@ -1047,7 +1038,7 @@ var idx = lunr(function () {
       excerpt: "This section contains documents about the sexual health of people living in West Sussex. Downloads West Sussex Sexual Health Needs...",
       categories: [],
       tags: [],
-      id: 113
+      id: 112
     });
     
   
@@ -1056,7 +1047,7 @@ var idx = lunr(function () {
       excerpt: "This section contains data sets, needs assessments, briefings and other documents on the use of tobacco in West Sussex. Downloads...",
       categories: [],
       tags: [],
-      id: 114
+      id: 113
     });
     
   
@@ -1068,7 +1059,7 @@ var idx = lunr(function () {
       excerpt: "Public Health guidance on the handling of domestic violence and abuse by a range of health and social care professionals. Recommendations...",
       categories: ["guidance"],
       tags: [],
-      id: 115
+      id: 114
     });
     
   
@@ -1077,7 +1068,7 @@ var idx = lunr(function () {
       excerpt: "Using data from the National Diet and Nutrition Survey, the graphic illustrates how UK food consumption varies for population groups differing in...",
       categories: ["infographic"],
       tags: [],
-      id: 116
+      id: 115
     });
     
   
@@ -1086,7 +1077,7 @@ var idx = lunr(function () {
       excerpt: "A good start in life is fundamental to lay the foundations for good health and wellbeing in later life. Investment...",
       categories: ["needs-assessment"],
       tags: [],
-      id: 117
+      id: 116
     });
     
   
@@ -1095,7 +1086,7 @@ var idx = lunr(function () {
       excerpt: "The West Sussex Public Health and Social Research Unit have now completed the annual population profiles (formerly data packs) for...",
       categories: ["profiles"],
       tags: [],
-      id: 118
+      id: 117
     });
     
   
@@ -1104,7 +1095,7 @@ var idx = lunr(function () {
       excerpt: "NHS Digital have released the National Child Measurement Programme (NCMP) results for the 2015/16 school year. Children in reception class...",
       categories: ["data"],
       tags: [],
-      id: 119
+      id: 118
     });
     
   
@@ -1113,7 +1104,7 @@ var idx = lunr(function () {
       excerpt: "As a population we're living longer but spending more years in poor health and in need of health and social...",
       categories: ["needs-assessment"],
       tags: [],
-      id: 120
+      id: 119
     });
     
   
@@ -1122,7 +1113,7 @@ var idx = lunr(function () {
       excerpt: "The West Sussex Children's Workforce Public Health data profile (2016) is now available to download. This profile is an interactive...",
       categories: ["health-profile"],
       tags: [],
-      id: 121
+      id: 120
     });
     
   
@@ -1131,7 +1122,7 @@ var idx = lunr(function () {
       excerpt: "Thank you for taking the time to visit the West Sussex Pharmaceutical Needs Assessment (PNA) survey page. The PNA looks...",
       categories: ["needs-assessment"],
       tags: [],
-      id: 122
+      id: 121
     });
     
   
@@ -1140,7 +1131,7 @@ var idx = lunr(function () {
       excerpt: "Suicide is the biggest killer of men aged 49 and under and the leading cause of death in people aged...",
       categories: ["update"],
       tags: [],
-      id: 123
+      id: 122
     });
     
   
@@ -1149,7 +1140,7 @@ var idx = lunr(function () {
       excerpt: "What is a PNA? Since 1 April 2013, every Health and Wellbeing Board (HWB) in England has had a statutory...",
       categories: ["needs-assessment"],
       tags: [],
-      id: 124
+      id: 123
     });
     
   
@@ -1158,7 +1149,7 @@ var idx = lunr(function () {
       excerpt: "In late 2015 OFSTED conducted an inspection of services for children in need of help and protection, children looked after...",
       categories: ["needs-assessment"],
       tags: [],
-      id: 125
+      id: 124
     });
     
   
@@ -1167,7 +1158,7 @@ var idx = lunr(function () {
       excerpt: "West Sussex’s Health and Wellbeing Board has now published its findings and recommendations on pharmaceutical service provision across the County....",
       categories: ["needs-assessment"],
       tags: [],
-      id: 126
+      id: 125
     });
     
   
@@ -1176,7 +1167,7 @@ var idx = lunr(function () {
       excerpt: "How would you like to contribute to improving the oral health of children in West Sussex? West Sussex County Council...",
       categories: ["needs-assessment"],
       tags: [],
-      id: 127
+      id: 126
     });
     
   
@@ -1185,7 +1176,7 @@ var idx = lunr(function () {
       excerpt: "West Sussex County Council has now published the Oral Health Needs Assessment for Children and Young People. The needs assessment...",
       categories: ["needs-assessment"],
       tags: [],
-      id: 128
+      id: 127
     });
     
   
@@ -1197,13 +1188,22 @@ var idx = lunr(function () {
       excerpt: "This section contains our published reports, including short reports and briefing nots as well as formal comprehensive needs assessments and...",
       categories: [],
       tags: [],
-      id: 129
+      id: 128
     });
     
   
     idx.add({
       title: "Director of Public Health Reports",
-      excerpt: "NB: Change attachments… Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix This is a data appendix incorporating a...",
+      excerpt: "NB: Change attachments… Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix Date added: 27/10/2014 This is a data...",
+      categories: [],
+      tags: [],
+      id: 129
+    });
+    
+  
+    idx.add({
+      title: "JSNA Reports",
+      excerpt: "Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix Date added: 27/10/2014 This is a data appendix incorporating a...",
       categories: [],
       tags: [],
       id: 130
@@ -1211,20 +1211,11 @@ var idx = lunr(function () {
     
   
     idx.add({
-      title: "JSNA Reports",
-      excerpt: "Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix This is a data appendix incorporating a range of data...",
+      title: "Subject Specific Needs Assessments",
+      excerpt: "NB: Change attachments… Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix Date added: 27/10/2014 This is a data...",
       categories: [],
       tags: [],
       id: 131
-    });
-    
-  
-    idx.add({
-      title: "Subject Specific Needs Assessments",
-      excerpt: "NB: Change attachments… Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix This is a data appendix incorporating a...",
-      categories: [],
-      tags: [],
-      id: 132
     });
     
   
@@ -1236,13 +1227,22 @@ var idx = lunr(function () {
       excerpt: "The health and wellbeing of children from conception to the age of two is a priority of the West Sussex...",
       categories: [],
       tags: [],
-      id: 133
+      id: 132
     });
     
   
     idx.add({
       title: "Maternity and Fertility",
-      excerpt: "Downloads General fertility rates (GFR) total fertility rates (TFR) births 2001 - 2012 This file includes births, general fertility rate...",
+      excerpt: "Downloads General fertility rates (GFR) total fertility rates (TFR) births 2001 - 2012 Date added: 30/07/2013 This file includes births,...",
+      categories: [],
+      tags: [],
+      id: 133
+    });
+    
+  
+    idx.add({
+      title: "Birth and the newborn",
+      excerpt: "Downloads Live births in hospital 2003 - 2007 Date added: 16/02/2012 Percentage of live births in hospital by local authority...",
       categories: [],
       tags: [],
       id: 134
@@ -1250,20 +1250,11 @@ var idx = lunr(function () {
     
   
     idx.add({
-      title: "Birth and the newborn",
-      excerpt: "Downloads Live births in hospital 2003 - 2007 Percentage of live births in hospital by local authority between 2003 and...",
+      title: "0-4 years of age",
+      excerpt: "Downloads Briefing - Child Disability Estimates Date added: 30/01/2017 This briefing incorporates work undertaken by the Institute of Public Care...",
       categories: [],
       tags: [],
       id: 135
-    });
-    
-  
-    idx.add({
-      title: "0-4 years of age",
-      excerpt: "Downloads Briefing - Child Disability Estimates This briefing incorporates work undertaken by the Institute of Public Care for West Sussex...",
-      categories: [],
-      tags: [],
-      id: 136
     });
     
   
@@ -1272,7 +1263,7 @@ var idx = lunr(function () {
       excerpt: "This section contains data sets and information about school aged children and education services in West Sussex. Special Educational Needs...",
       categories: [],
       tags: [],
-      id: 137
+      id: 136
     });
     
   
@@ -1281,6 +1272,15 @@ var idx = lunr(function () {
       excerpt: "This section contains information and data sets about the young people living in West Sussex. The What About YOUth? survey...",
       categories: [],
       tags: [],
+      id: 137
+    });
+    
+  
+    idx.add({
+      title: "Child Health Profiles (formerly Children and Family Centre Profiles)",
+      excerpt: "The West Sussex Public Health and Social Research Unit have been working on the production of a new Child Health...",
+      categories: [],
+      tags: ["child health","early years","under 5's"],
       id: 138
     });
     
@@ -1295,20 +1295,11 @@ var idx = lunr(function () {
     
   
     idx.add({
-      title: "Child Health Profiles (formerly Children and Family Centre Profiles)",
-      excerpt: "The West Sussex Public Health and Social Research Unit have been working on the production of a new Child Health...",
-      categories: [],
-      tags: ["child health","early years","under 5's"],
-      id: 140
-    });
-    
-  
-    idx.add({
       title: "Children and Family Centre profiles (up to 2016)",
       excerpt: "The West Sussex Children’s Workforce Public Health data profile (2016) is an interactive dashboard that summarises a wide range of...",
       categories: [],
       tags: ["births","child health","early years","mother and child","under 5's"],
-      id: 141
+      id: 140
     });
     
   
@@ -2544,18 +2535,7 @@ var store = [
       {
         "title": "Neighbourhoods",
         "url": "http://localhost:4000/living-well/neighbourhoods/",
-        "excerpt": "This section contains information about infrastructure, community assets and behavioural data such as crime and deprivation. Downloads Crime rates Crime...",
-        "teaser":
-          
-            null
-          
-      },
-    
-      
-      {
-        "title": "Health Behaviours",
-        "url": "http://localhost:4000/living-well/health-behaviours/",
-        "excerpt": "This section contains information about drugs and alcohol prevalence in West Sussex and the services supporting people to reduce their...",
+        "excerpt": "This section contains information about infrastructure, community assets and behavioural data such as crime and deprivation. Downloads Crime rates Date...",
         "teaser":
           
             null
@@ -2783,7 +2763,7 @@ var store = [
       {
         "title": "Director of Public Health Reports",
         "url": "http://localhost:4000/reports/director-public-health-annual-report/",
-        "excerpt": "NB: Change attachments… Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix This is a data appendix incorporating a...",
+        "excerpt": "NB: Change attachments… Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix Date added: 27/10/2014 This is a data...",
         "teaser":
           
             null
@@ -2794,7 +2774,7 @@ var store = [
       {
         "title": "JSNA Reports",
         "url": "http://localhost:4000/reports/jsna-reports/",
-        "excerpt": "Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix This is a data appendix incorporating a range of data...",
+        "excerpt": "Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix Date added: 27/10/2014 This is a data appendix incorporating a...",
         "teaser":
           
             null
@@ -2805,7 +2785,7 @@ var store = [
       {
         "title": "Subject Specific Needs Assessments",
         "url": "http://localhost:4000/reports/subject-specific-needs-assessments/",
-        "excerpt": "NB: Change attachments… Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix This is a data appendix incorporating a...",
+        "excerpt": "NB: Change attachments… Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix Date added: 27/10/2014 This is a data...",
         "teaser":
           
             null
@@ -2831,7 +2811,7 @@ var store = [
       {
         "title": "Maternity and Fertility",
         "url": "http://localhost:4000/starting-well/maternity-and-fertility/",
-        "excerpt": "Downloads General fertility rates (GFR) total fertility rates (TFR) births 2001 - 2012 This file includes births, general fertility rate...",
+        "excerpt": "Downloads General fertility rates (GFR) total fertility rates (TFR) births 2001 - 2012 Date added: 30/07/2013 This file includes births,...",
         "teaser":
           
             null
@@ -2842,7 +2822,7 @@ var store = [
       {
         "title": "Birth and the newborn",
         "url": "http://localhost:4000/starting-well/birth-newborn/",
-        "excerpt": "Downloads Live births in hospital 2003 - 2007 Percentage of live births in hospital by local authority between 2003 and...",
+        "excerpt": "Downloads Live births in hospital 2003 - 2007 Date added: 16/02/2012 Percentage of live births in hospital by local authority...",
         "teaser":
           
             null
@@ -2853,7 +2833,7 @@ var store = [
       {
         "title": "0-4 years of age",
         "url": "http://localhost:4000/starting-well/early-years/",
-        "excerpt": "Downloads Briefing - Child Disability Estimates This briefing incorporates work undertaken by the Institute of Public Care for West Sussex...",
+        "excerpt": "Downloads Briefing - Child Disability Estimates Date added: 30/01/2017 This briefing incorporates work undertaken by the Institute of Public Care...",
         "teaser":
           
             null
