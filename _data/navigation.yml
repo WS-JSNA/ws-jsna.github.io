@@ -203,15 +203,6 @@ core:
     url: "/core/maps/"
   - title: "Tools"
     url: "/core/tools/"
-    children:
-      - title: "Postcode Lookup Tool"
-        url: "/core/tools/postcode-lookup-tool/"
-      - title: "Children's Workforce Public Health Dashboard"
-        url: "/core/tools/childrens-workforce-public-health-dashboard"
-      - title: "Adult Health, Disabilities and Mental Health Projections"
-        url: "/core/tools/adult-health-disabilities-and-mental-health-projections/"
-      - title: "Adult Health, Disabilities and Mental Health Projections for Older People"
-        url: "/core/tools/adult-health-disabilities-and-mental-health-projections-older-people/"
   - title: "Illness and Disability Data"
     url: "/core/illness-and-disability-data/"
 

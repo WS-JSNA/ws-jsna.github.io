@@ -448,6 +448,24 @@ var idx = lunr(function () {
     });
     
   
+    idx.add({
+      title: "Tools",
+      excerpt: "The tools on this page have been produced by the Public Health and Social Research Unit to help others to...",
+      categories: [],
+      tags: [],
+      id: 48
+    });
+    
+  
+    idx.add({
+      title: "Illness and Disability Data",
+      excerpt: "Data relating to specific conditions and disabilities can be found in a number of places on this website. For example,...",
+      categories: [],
+      tags: [],
+      id: 49
+    });
+    
+  
 
   
   
@@ -456,7 +474,7 @@ var idx = lunr(function () {
       excerpt: "The following questions concern ease of access to each GP surgery in Crawley CCG. Respondents to the GP Patient Survey...",
       categories: [],
       tags: [],
-      id: 48
+      id: 50
     });
     
   
@@ -465,7 +483,7 @@ var idx = lunr(function () {
       excerpt: "The following questions concern the overall experience patients have at their GP surgery in Crawley CCG. Respondents to the GP...",
       categories: [],
       tags: [],
-      id: 49
+      id: 51
     });
     
   
@@ -474,7 +492,7 @@ var idx = lunr(function () {
       excerpt: "The following questions concern opening and waiting times for each GP surgery in Crawley CCG. Respondents to the GP Patient...",
       categories: [],
       tags: [],
-      id: 50
+      id: 52
     });
     
   
@@ -483,7 +501,7 @@ var idx = lunr(function () {
       excerpt: "The GP patient survey asks patients about their experience of their own GP practice. The survey has now been extended...",
       categories: [],
       tags: [],
-      id: 51
+      id: 53
     });
     
   
@@ -492,7 +510,7 @@ var idx = lunr(function () {
       excerpt: "Asthma is a common long-term condition that can cause coughing, tightness of chest, and wheeziness. The graph below shows a...",
       categories: [],
       tags: [],
-      id: 52
+      id: 54
     });
     
   
@@ -501,7 +519,7 @@ var idx = lunr(function () {
       excerpt: "The bubble chart below shows the number of tumours diagnosed by tumour site in 2014 for males and females in...",
       categories: [],
       tags: [],
-      id: 53
+      id: 55
     });
     
   
@@ -510,7 +528,7 @@ var idx = lunr(function () {
       excerpt: "Chronic Obstructive Pulmonary Disease (COPD) is the name for a collection of lung diseases (such as chronic bronchitis and emphysema)....",
       categories: [],
       tags: [],
-      id: 54
+      id: 56
     });
     
   
@@ -519,7 +537,7 @@ var idx = lunr(function () {
       excerpt: "Coronary Heart Disease (CHD) is a leading cause of death in the UK. The main symptoms of CHD include heart...",
       categories: [],
       tags: [],
-      id: 55
+      id: 57
     });
     
   
@@ -528,7 +546,7 @@ var idx = lunr(function () {
       excerpt: "Diabetes is a common long-term condition that causes a persons blood sugar levels to become too high. The prevalence of...",
       categories: [],
       tags: [],
-      id: 56
+      id: 58
     });
     
   
@@ -537,7 +555,7 @@ var idx = lunr(function () {
       excerpt: "Epilepsy is a condition that affects the brain, causing repeated seizures. It is estimated that almost 1 in every 100...",
       categories: [],
       tags: [],
-      id: 57
+      id: 59
     });
     
   
@@ -546,7 +564,7 @@ var idx = lunr(function () {
       excerpt: "Heart failure is a condition that is caused by the heart failing to pump enough blood around the body at...",
       categories: [],
       tags: [],
-      id: 58
+      id: 60
     });
     
   
@@ -555,7 +573,7 @@ var idx = lunr(function () {
       excerpt: "High blood pressure (hypertension) is very common, affecting more than 1 in 4 adults in England (PHE - Tackling high...",
       categories: [],
       tags: [],
-      id: 59
+      id: 61
     });
     
   
@@ -564,7 +582,7 @@ var idx = lunr(function () {
       excerpt: "A stroke is a serious, life-threatening condition that occurs when the blood supply to part of the brain is cut...",
       categories: [],
       tags: [],
-      id: 60
+      id: 62
     });
     
   
@@ -573,7 +591,7 @@ var idx = lunr(function () {
       excerpt: "This section examines data for long-term conditions among populations in NHS Crawley CCG. Data included recorded and modelled prevalence data...",
       categories: [],
       tags: [],
-      id: 61
+      id: 63
     });
     
   
@@ -582,7 +600,7 @@ var idx = lunr(function () {
       excerpt: "Crawley Clinical Commissioning Group (CCG) is responsible for the health and wellbeing of approximately 110,000 residents living within the town...",
       categories: [],
       tags: [],
-      id: 62
+      id: 64
     });
     
   
@@ -591,7 +609,7 @@ var idx = lunr(function () {
       excerpt: "Live Births In 2013, there were approximately 1,620 live births to mothers whose usual residence is within NHS Crawley CCG....",
       categories: [],
       tags: [],
-      id: 63
+      id: 65
     });
     
   
@@ -600,7 +618,7 @@ var idx = lunr(function () {
       excerpt: "This section shows a number of measures of deprivation across NHS Crawley CCG. The most recently available deprivation data are...",
       categories: [],
       tags: [],
-      id: 64
+      id: 66
     });
     
   
@@ -609,7 +627,7 @@ var idx = lunr(function () {
       excerpt: "Population Estimates Population information is available in different formats depending on the definition used. The registered population is defined as...",
       categories: [],
       tags: [],
-      id: 65
+      id: 67
     });
     
   
@@ -618,7 +636,7 @@ var idx = lunr(function () {
       excerpt: "This page contains information on underlying cause of death in Crawley CCG, life expectancy (at Local Authority level), as well...",
       categories: [],
       tags: [],
-      id: 66
+      id: 68
     });
     
   
@@ -627,7 +645,7 @@ var idx = lunr(function () {
       excerpt: "Information on protected characteristics of the population of Crawley CCG is coming soon! Please note: we are currently updating the...",
       categories: [],
       tags: [],
-      id: 67
+      id: 69
     });
     
   
@@ -636,7 +654,7 @@ var idx = lunr(function () {
       excerpt: "This section describes the characteristics of the local population of the NHS Crawley CCG area. Area Covered This section includes...",
       categories: [],
       tags: [],
-      id: 68
+      id: 70
     });
     
   
@@ -645,7 +663,7 @@ var idx = lunr(function () {
       excerpt: "On this page, statistics are given for alcohol related behaviours, hospital activity and mortality. Data for alcohol related behaviours include...",
       categories: [],
       tags: [],
-      id: 69
+      id: 71
     });
     
   
@@ -654,7 +672,7 @@ var idx = lunr(function () {
       excerpt: "Ensuring good mental health within the population and throughout the life course is about more than the absence of a...",
       categories: [],
       tags: [],
-      id: 70
+      id: 72
     });
     
   
@@ -663,7 +681,7 @@ var idx = lunr(function () {
       excerpt: "Physical inactivity is the 4th leading risk factor for global mortality, accounting for 6% of deaths globally. People who are...",
       categories: [],
       tags: [],
-      id: 71
+      id: 73
     });
     
   
@@ -672,7 +690,7 @@ var idx = lunr(function () {
       excerpt: "Smoking is the single greatest cause of preventable illness and premature death in the UK and is a major cause...",
       categories: [],
       tags: [],
-      id: 72
+      id: 74
     });
     
   
@@ -681,7 +699,7 @@ var idx = lunr(function () {
       excerpt: "Childhood Obesity This section includes data from the National Child Measurement Programme (NCMP). Overweight and obese children are more likely...",
       categories: [],
       tags: [],
-      id: 73
+      id: 75
     });
     
   
@@ -690,7 +708,7 @@ var idx = lunr(function () {
       excerpt: "This section summarises information relating to a number of risk and preventative factors which contribute to a persons health. Alcohol...",
       categories: [],
       tags: [],
-      id: 74
+      id: 76
     });
     
   
@@ -699,7 +717,7 @@ var idx = lunr(function () {
       excerpt: "This section summarises local level data for NHS Crawley CCG. This is structured into four sections (population, wider determinants of...",
       categories: [],
       tags: [],
-      id: 75
+      id: 77
     });
     
   
@@ -711,7 +729,7 @@ var idx = lunr(function () {
       excerpt: "The following questions concern ease of access to each GP surgery in Horsham and Mid Sussex CCG. Respondents to the...",
       categories: [],
       tags: [],
-      id: 76
+      id: 78
     });
     
   
@@ -720,7 +738,7 @@ var idx = lunr(function () {
       excerpt: "The following questions concern the overall experience patients have at their GP surgery in Horsham and Mid Sussex CCG. Respondents...",
       categories: [],
       tags: [],
-      id: 77
+      id: 79
     });
     
   
@@ -729,7 +747,7 @@ var idx = lunr(function () {
       excerpt: "The following questions concern opening and waiting times for each GP surgery in Horsham and Mid Sussex CCG. Respondents to...",
       categories: [],
       tags: [],
-      id: 78
+      id: 80
     });
     
   
@@ -738,7 +756,7 @@ var idx = lunr(function () {
       excerpt: "The GP patient survey asks patients about their experience of their own GP practice. The survey has now been extended...",
       categories: [],
       tags: [],
-      id: 79
+      id: 81
     });
     
   
@@ -747,7 +765,7 @@ var idx = lunr(function () {
       excerpt: "Asthma is a common long-term condition that can cause coughing, tightness of chest, and wheeziness. The graph below shows a...",
       categories: [],
       tags: [],
-      id: 80
+      id: 82
     });
     
   
@@ -756,7 +774,7 @@ var idx = lunr(function () {
       excerpt: "The bubble chart below shows the number of tumours diagnosed by tumour site in 2014 for males and females in...",
       categories: [],
       tags: [],
-      id: 81
+      id: 83
     });
     
   
@@ -765,7 +783,7 @@ var idx = lunr(function () {
       excerpt: "Chronic Obstructive Pulmonary Disease (COPD) is the name for a collection of lung diseases (such as chronic bronchitis and emphysema)....",
       categories: [],
       tags: [],
-      id: 82
+      id: 84
     });
     
   
@@ -774,7 +792,7 @@ var idx = lunr(function () {
       excerpt: "Coronary Heart Disease (CHD) is a leading cause of death in the UK. The main symptoms of CHD include heart...",
       categories: [],
       tags: [],
-      id: 83
+      id: 85
     });
     
   
@@ -783,7 +801,7 @@ var idx = lunr(function () {
       excerpt: "Diabetes is a common long-term condition that causes a persons blood sugar levels to become too high. The prevalence of...",
       categories: [],
       tags: [],
-      id: 84
+      id: 86
     });
     
   
@@ -792,7 +810,7 @@ var idx = lunr(function () {
       excerpt: "Epilepsy is a condition that affects the brain, causing repeated seizures. It is estimated that almost 1 in every 100...",
       categories: [],
       tags: [],
-      id: 85
+      id: 87
     });
     
   
@@ -801,7 +819,7 @@ var idx = lunr(function () {
       excerpt: "Heart failure is a condition that is caused by the heart failing to pump enough blood around the body at...",
       categories: [],
       tags: [],
-      id: 86
+      id: 88
     });
     
   
@@ -810,7 +828,7 @@ var idx = lunr(function () {
       excerpt: "High blood pressure (hypertension) is very common, affecting more than 1 in 4 adults in England (PHE - Tackling high...",
       categories: [],
       tags: [],
-      id: 87
+      id: 89
     });
     
   
@@ -819,7 +837,7 @@ var idx = lunr(function () {
       excerpt: "A stroke is a serious, life-threatening condition that occurs when the blood supply to part of the brain is cut...",
       categories: [],
       tags: [],
-      id: 88
+      id: 90
     });
     
   
@@ -828,7 +846,7 @@ var idx = lunr(function () {
       excerpt: "This section examines data for long-term conditions among populations in NHS Horsham and Mid Sussex CCG. Data included recorded and...",
       categories: [],
       tags: [],
-      id: 89
+      id: 91
     });
     
   
@@ -837,7 +855,7 @@ var idx = lunr(function () {
       excerpt: "The information in this profile has been grouped by GP registered population for the localities of Horsham and Mid Sussex...",
       categories: [],
       tags: [],
-      id: 90
+      id: 92
     });
     
   
@@ -846,7 +864,7 @@ var idx = lunr(function () {
       excerpt: "Live Births In 2013, there were approximately 2,285 live births to mothers whose usual residence is within NHS Horsham and...",
       categories: [],
       tags: [],
-      id: 91
+      id: 93
     });
     
   
@@ -855,7 +873,7 @@ var idx = lunr(function () {
       excerpt: "This section shows a number of measures of deprivation across NHS Horsham and Mid Sussex CCG. The most recently available...",
       categories: [],
       tags: [],
-      id: 92
+      id: 94
     });
     
   
@@ -864,7 +882,7 @@ var idx = lunr(function () {
       excerpt: "Population Estimates Population information is available in different formats depending on the definition used. The registered population is defined as...",
       categories: [],
       tags: [],
-      id: 93
+      id: 95
     });
     
   
@@ -873,7 +891,7 @@ var idx = lunr(function () {
       excerpt: "In 2014, there were 1,989 deaths among individuals living in NHS Horsham and Mid Sussex CCG (HSCIC, 2015). This page...",
       categories: [],
       tags: [],
-      id: 94
+      id: 96
     });
     
   
@@ -882,7 +900,7 @@ var idx = lunr(function () {
       excerpt: "Information on protected characteristics of the population of Horsham and Mid Sussex CCG is coming soon! Please note: we are...",
       categories: [],
       tags: [],
-      id: 95
+      id: 97
     });
     
   
@@ -891,7 +909,7 @@ var idx = lunr(function () {
       excerpt: "This section describes the characteristics of the local population of the NHS Horsham and Mid Sussex CCG area. Area Covered...",
       categories: [],
       tags: [],
-      id: 96
+      id: 98
     });
     
   
@@ -900,7 +918,7 @@ var idx = lunr(function () {
       excerpt: "On this page, statistics are given for alcohol related behaviours, hospital activity and mortality. Data for alcohol related behaviours include...",
       categories: [],
       tags: [],
-      id: 97
+      id: 99
     });
     
   
@@ -909,7 +927,7 @@ var idx = lunr(function () {
       excerpt: "Ensuring good mental health within the population and throughout the life course is about more than the absence of a...",
       categories: [],
       tags: [],
-      id: 98
+      id: 100
     });
     
   
@@ -918,7 +936,7 @@ var idx = lunr(function () {
       excerpt: "Physical inactivity is the 4th leading risk factor for global mortality, accounting for 6% of deaths globally. People who are...",
       categories: [],
       tags: [],
-      id: 99
+      id: 101
     });
     
   
@@ -927,7 +945,7 @@ var idx = lunr(function () {
       excerpt: "Smoking is the single greatest cause of preventable illness and premature death in the UK and is a major cause...",
       categories: [],
       tags: [],
-      id: 100
+      id: 102
     });
     
   
@@ -936,7 +954,7 @@ var idx = lunr(function () {
       excerpt: "Childhood Obesity This section includes data from the National Child Measurement Programme (NCMP). Overweight and obese children are more likely...",
       categories: [],
       tags: [],
-      id: 101
+      id: 103
     });
     
   
@@ -945,7 +963,7 @@ var idx = lunr(function () {
       excerpt: "This section summarises information relating to a number of risk and preventative factors which contribute to a persons health. Alcohol...",
       categories: [],
       tags: [],
-      id: 102
+      id: 104
     });
     
   
@@ -954,7 +972,7 @@ var idx = lunr(function () {
       excerpt: "This section summarises local level data for NHS Horsham and Mid Sussex CCG. This is structured into four sections (population,...",
       categories: [],
       tags: [],
-      id: 103
+      id: 105
     });
     
   
@@ -966,7 +984,7 @@ var idx = lunr(function () {
       excerpt: "This section contains key data and analyses on the working age population (usually classified as those aged 16-64) of West...",
       categories: [],
       tags: [],
-      id: 104
+      id: 106
     });
     
   
@@ -975,7 +993,7 @@ var idx = lunr(function () {
       excerpt: "This section includes available data on the health and disability related demographics of the workforce in West Sussex. Please note:...",
       categories: [],
       tags: [],
-      id: 105
+      id: 107
     });
     
   
@@ -984,7 +1002,7 @@ var idx = lunr(function () {
       excerpt: "This section contains data sets, needs assessments and other documents which provide information on the wider determinants of health in...",
       categories: [],
       tags: [],
-      id: 106
+      id: 108
     });
     
   
@@ -993,7 +1011,7 @@ var idx = lunr(function () {
       excerpt: "This section includes information about the environment including air quality and household waste. Downloads Local carbon dioxide (CO2) emissions estimates...",
       categories: [],
       tags: [],
-      id: 107
+      id: 109
     });
     
   
@@ -1002,7 +1020,7 @@ var idx = lunr(function () {
       excerpt: "This section contains information about housing, including, household composition, tenure, housing condition and homelessness. Downloads Housing Data Workbook December 2016...",
       categories: [],
       tags: [],
-      id: 108
+      id: 110
     });
     
   
@@ -1011,7 +1029,7 @@ var idx = lunr(function () {
       excerpt: "This section contains information about infrastructure, community assets and behavioural data such as crime and deprivation. Downloads Crime rates Date...",
       categories: [],
       tags: [],
-      id: 109
+      id: 111
     });
     
   
@@ -1020,7 +1038,7 @@ var idx = lunr(function () {
       excerpt: "The following documents comprise data sets, needs assessments and maps providing an overview of specific health and wellbeing issues related...",
       categories: [],
       tags: [],
-      id: 110
+      id: 112
     });
     
   
@@ -1029,7 +1047,7 @@ var idx = lunr(function () {
       excerpt: "This section includes documents about physical activity, participation in sport, diet and nutrition and levels of obesity in the West...",
       categories: [],
       tags: [],
-      id: 111
+      id: 113
     });
     
   
@@ -1038,7 +1056,7 @@ var idx = lunr(function () {
       excerpt: "This section contains documents about the sexual health of people living in West Sussex. Downloads West Sussex Sexual Health Needs...",
       categories: [],
       tags: [],
-      id: 112
+      id: 114
     });
     
   
@@ -1047,7 +1065,7 @@ var idx = lunr(function () {
       excerpt: "This section contains data sets, needs assessments, briefings and other documents on the use of tobacco in West Sussex. Downloads...",
       categories: [],
       tags: [],
-      id: 113
+      id: 115
     });
     
   
@@ -1059,7 +1077,7 @@ var idx = lunr(function () {
       excerpt: "Public Health guidance on the handling of domestic violence and abuse by a range of health and social care professionals. Recommendations...",
       categories: ["guidance"],
       tags: [],
-      id: 114
+      id: 116
     });
     
   
@@ -1068,7 +1086,7 @@ var idx = lunr(function () {
       excerpt: "Using data from the National Diet and Nutrition Survey, the graphic illustrates how UK food consumption varies for population groups differing in...",
       categories: ["infographic"],
       tags: [],
-      id: 115
+      id: 117
     });
     
   
@@ -1077,7 +1095,7 @@ var idx = lunr(function () {
       excerpt: "A good start in life is fundamental to lay the foundations for good health and wellbeing in later life. Investment...",
       categories: ["needs-assessment"],
       tags: [],
-      id: 116
+      id: 118
     });
     
   
@@ -1086,7 +1104,7 @@ var idx = lunr(function () {
       excerpt: "The West Sussex Public Health and Social Research Unit have now completed the annual population profiles (formerly data packs) for...",
       categories: ["profiles"],
       tags: [],
-      id: 117
+      id: 119
     });
     
   
@@ -1095,7 +1113,7 @@ var idx = lunr(function () {
       excerpt: "NHS Digital have released the National Child Measurement Programme (NCMP) results for the 2015/16 school year. Children in reception class...",
       categories: ["data"],
       tags: [],
-      id: 118
+      id: 120
     });
     
   
@@ -1104,7 +1122,7 @@ var idx = lunr(function () {
       excerpt: "As a population we're living longer but spending more years in poor health and in need of health and social...",
       categories: ["needs-assessment"],
       tags: [],
-      id: 119
+      id: 121
     });
     
   
@@ -1113,7 +1131,7 @@ var idx = lunr(function () {
       excerpt: "The West Sussex Children's Workforce Public Health data profile (2016) is now available to download. This profile is an interactive...",
       categories: ["health-profile"],
       tags: [],
-      id: 120
+      id: 122
     });
     
   
@@ -1122,7 +1140,7 @@ var idx = lunr(function () {
       excerpt: "Thank you for taking the time to visit the West Sussex Pharmaceutical Needs Assessment (PNA) survey page. The PNA looks...",
       categories: ["needs-assessment"],
       tags: [],
-      id: 121
+      id: 123
     });
     
   
@@ -1131,7 +1149,7 @@ var idx = lunr(function () {
       excerpt: "Suicide is the biggest killer of men aged 49 and under and the leading cause of death in people aged...",
       categories: ["update"],
       tags: [],
-      id: 122
+      id: 124
     });
     
   
@@ -1140,7 +1158,7 @@ var idx = lunr(function () {
       excerpt: "What is a PNA? Since 1 April 2013, every Health and Wellbeing Board (HWB) in England has had a statutory...",
       categories: ["needs-assessment"],
       tags: [],
-      id: 123
+      id: 125
     });
     
   
@@ -1149,7 +1167,7 @@ var idx = lunr(function () {
       excerpt: "In late 2015 OFSTED conducted an inspection of services for children in need of help and protection, children looked after...",
       categories: ["needs-assessment"],
       tags: [],
-      id: 124
+      id: 126
     });
     
   
@@ -1158,7 +1176,7 @@ var idx = lunr(function () {
       excerpt: "West Sussex’s Health and Wellbeing Board has now published its findings and recommendations on pharmaceutical service provision across the County....",
       categories: ["needs-assessment"],
       tags: [],
-      id: 125
+      id: 127
     });
     
   
@@ -1167,7 +1185,7 @@ var idx = lunr(function () {
       excerpt: "How would you like to contribute to improving the oral health of children in West Sussex? West Sussex County Council...",
       categories: ["needs-assessment"],
       tags: [],
-      id: 126
+      id: 128
     });
     
   
@@ -1176,7 +1194,7 @@ var idx = lunr(function () {
       excerpt: "West Sussex County Council has now published the Oral Health Needs Assessment for Children and Young People. The needs assessment...",
       categories: ["needs-assessment"],
       tags: [],
-      id: 127
+      id: 129
     });
     
   
@@ -1188,7 +1206,7 @@ var idx = lunr(function () {
       excerpt: "This section contains our published reports, including short reports and briefing nots as well as formal comprehensive needs assessments and...",
       categories: [],
       tags: [],
-      id: 128
+      id: 130
     });
     
   
@@ -1197,7 +1215,7 @@ var idx = lunr(function () {
       excerpt: "NB: Change attachments… Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix Date added: 27/10/2014 This is a data...",
       categories: [],
       tags: [],
-      id: 129
+      id: 131
     });
     
   
@@ -1206,7 +1224,7 @@ var idx = lunr(function () {
       excerpt: "Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix Date added: 27/10/2014 This is a data appendix incorporating a...",
       categories: [],
       tags: [],
-      id: 130
+      id: 132
     });
     
   
@@ -1215,7 +1233,7 @@ var idx = lunr(function () {
       excerpt: "NB: Change attachments… Downloads West Sussex Joint Strategic Needs Assessment 2014 Data Appendix Date added: 27/10/2014 This is a data...",
       categories: [],
       tags: [],
-      id: 131
+      id: 133
     });
     
   
@@ -1227,7 +1245,7 @@ var idx = lunr(function () {
       excerpt: "The health and wellbeing of children from conception to the age of two is a priority of the West Sussex...",
       categories: [],
       tags: [],
-      id: 132
+      id: 134
     });
     
   
@@ -1236,7 +1254,7 @@ var idx = lunr(function () {
       excerpt: "Downloads General fertility rates (GFR) total fertility rates (TFR) births 2001 - 2012 Date added: 30/07/2013 This file includes births,...",
       categories: [],
       tags: [],
-      id: 133
+      id: 135
     });
     
   
@@ -1245,7 +1263,7 @@ var idx = lunr(function () {
       excerpt: "Downloads Live births in hospital 2003 - 2007 Date added: 16/02/2012 Percentage of live births in hospital by local authority...",
       categories: [],
       tags: [],
-      id: 134
+      id: 136
     });
     
   
@@ -1254,7 +1272,7 @@ var idx = lunr(function () {
       excerpt: "Downloads Briefing - Child Disability Estimates Date added: 30/01/2017 This briefing incorporates work undertaken by the Institute of Public Care...",
       categories: [],
       tags: [],
-      id: 135
+      id: 137
     });
     
   
@@ -1263,7 +1281,7 @@ var idx = lunr(function () {
       excerpt: "This section contains data sets and information about school aged children and education services in West Sussex. Special Educational Needs...",
       categories: [],
       tags: [],
-      id: 136
+      id: 138
     });
     
   
@@ -1272,25 +1290,25 @@ var idx = lunr(function () {
       excerpt: "This section contains information and data sets about the young people living in West Sussex. The What About YOUth? survey...",
       categories: [],
       tags: [],
-      id: 137
-    });
-    
-  
-    idx.add({
-      title: "Child Health Profiles (formerly Children and Family Centre Profiles)",
-      excerpt: "The West Sussex Public Health and Social Research Unit have been working on the production of a new Child Health...",
-      categories: [],
-      tags: ["child health","early years","under 5's"],
-      id: 138
-    });
-    
-  
-    idx.add({
-      title: "Child Health Profiles (formerly Children and Family Centre Profiles)",
-      excerpt: "The West Sussex Public Health and Social Research Unit have been working on the production of a new Child Health...",
-      categories: [],
-      tags: ["child health","early years","under 5's"],
       id: 139
+    });
+    
+  
+    idx.add({
+      title: "Child Health Profiles (formerly Children and Family Centre Profiles)",
+      excerpt: "The West Sussex Public Health and Social Research Unit have been working on the production of a new Child Health...",
+      categories: [],
+      tags: ["child health","early years","under 5's"],
+      id: 140
+    });
+    
+  
+    idx.add({
+      title: "Child Health Profiles (formerly Children and Family Centre Profiles)",
+      excerpt: "The West Sussex Public Health and Social Research Unit have been working on the production of a new Child Health...",
+      categories: [],
+      tags: ["child health","early years","under 5's"],
+      id: 141
     });
     
   
@@ -1299,7 +1317,7 @@ var idx = lunr(function () {
       excerpt: "The West Sussex Children’s Workforce Public Health data profile (2016) is an interactive dashboard that summarises a wide range of...",
       categories: [],
       tags: ["births","child health","early years","mother and child","under 5's"],
-      id: 140
+      id: 142
     });
     
   
@@ -1842,6 +1860,28 @@ var store = [
         "title": "Maps",
         "url": "http://localhost:4000/core/maps/",
         "excerpt": "There are a variety of ways in which the population of West Sussex are divided up. We might compare West...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Tools",
+        "url": "http://localhost:4000/core/tools/",
+        "excerpt": "The tools on this page have been produced by the Public Health and Social Research Unit to help others to...",
+        "teaser":
+          
+            null
+          
+      },
+    
+      
+      {
+        "title": "Illness and Disability Data",
+        "url": "http://localhost:4000/core/illness-and-disability-data/",
+        "excerpt": "Data relating to specific conditions and disabilities can be found in a number of places on this website. For example,...",
         "teaser":
           
             null

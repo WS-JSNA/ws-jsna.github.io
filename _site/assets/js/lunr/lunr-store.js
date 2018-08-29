@@ -239,6 +239,16 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/core/maps/",
         "teaser":null},{
+        "title": "Tools",
+        "excerpt":"The tools on this page have been produced by the Public Health and Social Research Unit to help others to explore data further or to enhance their own datasets. Click on the links below to access the tools. For more information on the tools provided please contact the Public Health...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/core/tools/",
+        "teaser":null},{
+        "title": "Illness and Disability Data",
+        "excerpt":"Data relating to specific conditions and disabilities can be found in a number of places on this website. For example, if you are looking for information relating to a specific CCG, then click on the West Sussex Clinical Commissioning Group pages and navigate to the CCG of interest. For information...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/core/illness-and-disability-data/",
+        "teaser":null},{
         "title": "Accessing Your GP",
         "excerpt":"The following questions concern ease of access to each GP surgery in Crawley CCG. Respondents to the GP Patient Survey were asked to rate how easy they found it to get through to their surgery on the phone (very easy to not at all easy), how helpful the receptionists at...","categories": [],
         "tags": [],
