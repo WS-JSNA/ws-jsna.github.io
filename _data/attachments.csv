@@ -692,3 +692,79 @@ TOOL01,Postcode Lookup Tool,01/07/2016,Excel,core,PHSRU-Postcode-Lookup-Tool-Upd
 TOOL02,Children’s Workforce Public Health Dashboard,01/01/2017,Excel,core,West-Sussex-Childrens-Workforce-JSNA-Data-Profiles-2016-Supporting-the-Health4Families-Programme-1.xlsx,"The Children’s Workforce Public Health Profile (2016) is an interactive dashboard that summarises a wide range of data (e.g. demographic, socioeconomic, health and early years) at Children and Family Centre level. This profile aims to help the Children’s Workforce monitor changes in the under 5 population within their centre area. This profile supports the West Sussex Health4Families Programme.",
 TOOL03,"Adult health, disabilities and mental health projections",01/02/2017,Excel,core,PANSI-With-2015-MYE.xlsx,"This workbook has been drafted to adapt the Projecting Adult Needs and Service Information (PANSI) model developed by the Institute of Public Care (commissioned by the Department of Health). This resource brought together the various research and prevalence assumptions relating to health and social care needs of working age adults (in this work in the main referring to 18-64 year olds). This has been locally adapted to use WSCC population projections are used (as opposed to ONS projections).",
 TOOL04,"Adult health, disabilities and mental health projections for older people",01/02/2017,Excel,core,POPPI-with-2015-MYE.xlsx,"This workbook has been drafted to adapt the Projecting Older People Population Information System (POPPI) model developed by the Institute of Public Care (commissioned by the Department of Health). This resource brings together various prevalence assumptions relating to health and social care needs of older people – people aged 65 years or over. There is a corresponding model for working aged adults called PANSI. This has been locally adapted to use WSCC population projections are used (as opposed to ONS projections).",
+PE1,"West Sussex District Population Profile 2014 and 2015",01/02/2017,Excel,core,West-Sussex-District-Population-Profile-2014-and-2015.xlsx,"Population tables for West Sussex Districts.",
+PE2,"West Sussex CCG Population Profile",01/02/2017,Excel,core,West-Sussex-CCG-Population-Profile.xlsx,"Population tables for West Sussex Clinical Commissioning Groups.",
+PROJ1,"Year on year population projections, 2011-2021",01/10/2015,Excel,core,population_projections_year_on_year_2011_2021.xlsx,"Year on year population projections for the years 2011 to 2021 based on 2011 Census data. Produced by ONS.",
+LEX01,"Life expectancy tables for West Sussex districts",01/02/2017,Excel,core,West-Sussex-LAs-Life-Expectancy.xlsx,"Tables of life expectancy for West Sussex districts.",
+LEX02,"Briefing - Life Expectancy in West Sussex June 2016",01/01/2017,PDF,core,Briefing-Life-Expectancy-in-West-Sussex-June-2016.pdf,"This briefing outlines the life expectancy at birth and at age 65 years for West Sussex Males and Females as well as estimates for smaller areas.
+
+At county level, life expectancy for men and women in West Sussex is good and has remained consistently (and significantly) above that of England, although remains in line with the SE region.
+
+Life expectancy at 65 years is also higher compared to England the SE region.
+
+At District and Borough level ‐ for males LE ranges from 79.2 years (Worthing) to 81.4 years (Horsham and Mid Sussex); for women again Worthing has the lowest life expectancy 83.2 years, with the highest in Chichester and Mid Sussex (85.0 years).",
+LEX03,"West Sussex Local Authorities - Life Expectancy",01/02/2017,Excel,core,West-Sussex-LAs-Life-Expectancy.xlsx,"This spreadsheet summarises data from ONS on the life expectancy at birth and at age 65 by local authorities in West Sussex, 2009-2011 to 2012-2014.",
+LEX04,"Life expectancy at birth in West Sussex 2001-2012: data briefing",01/10/2015,Word,core,life_expectancy_at_birth_in_west_sussex_2001_2012_data_briefing.docx,"An analysis of ward, district, county and deprivation decile level life expectancy estimates over time.
+
+Evidence indicates that inequality has been rising and that older person poverty is highly associated with decreases in life expectancy values.",
+LEX05,"Ward Level Life Expectancy Estimates 2001-2012",01/10/2015,Excel,core,ward_level_life_expectancy_estimates_2001_12.xlsx,"Three and six years pooled 2001-12. Using population data based on 2001-2012 mid-year population estimates. Calculated using SEPHO life expectancy calculator.
+
+Life expectancy for each area is compared to the West Sussex expectancy for that period and coloured red if significantly lower and green if significantly higher.",
+LEX06,"Local Authority Life Expectancy Estimates 2001 - 2012",01/10/2015,Excel,core,local_authority_life_expectancy_estimates_2001_12.xlsx,"Life expectancy estimates in years by gender for West Sussex local authorities.
+
+Three and six years pooled 2001 - 2012. Using population data based on 2001-2012 mid-year population estimates from the Office of National Statistics (ONS).
+
+Calculated using South East Public Health Observatory (now part of Public Health England [PHE]) life expectancy calculator.
+
+Life expectancy for each district is compared to the West Sussex expectancy for that period and coloured red if significantly lower and green if significantly higher.",
+LEX07,"Deprivation decile life expectancy estimates 2001 - 2012",01/10/2015,Excel,core,deprivation_decile_life_expectancy_estimates_2001_2012.xlsx,"Life expectancy estimates in years by gender by Index of Multiple Deprivation (IMD) 2010 decile.
+
+Three and six years pooled 2001-2012. Using population data based on 2001-2012 mid-year population estimates from the Office of National Statistics (ONS). Calculated using South East Public Health Observatory (now Public Health England [PHE]) life expectancy calculator. 
+
+Life expectancy for each decile is compared to the West Sussex expectancy for that period and coloured red if significantly lower and green if significantly higher.",
+LEX08,"Life Expectancy at birth and age 65 1993-2011",01/11/2015,Excel,core,Life-Expectancy-at-birth-and-age-65-1993-2011.xls,"Life Expectancy at birth and age 65 1993-2011.",
+LEX09,"Disability free life expectancy by ward, 2001",01/10/2015,Excel,core,disability_free_life_expectancy_by_ward__2001_.xls,"Number of years a person can expect to live without developing a long term limiting illness by electoral ward based on data from the 2001 Census.
+
+These data have been downloaded from the Office of National Statistics (ONS) rather than locally calculated. It is based on a combination of life expectancy by ward calculations for the period 1999-2003 inclusive and self reported assessments of limiting long term illness from the census (not medical diagnosis).
+
+Further notes on the methodology are included within the document.
+
+Disability free life expectancy is very strongly correlated with deprivation and varies even more than life expectancy.",
+LEX10,"Healthy life expectancy by ward 2001",01/11/2015,Excel,core,Healthy-life-expectancy-by-ward-2001.xls,"Healthy life expectancy by ward based on 2001 figures.",
+MRT01,"Briefing - Mortality in West Sussex 2014-15",01/01/2017,PDF,core,Briefing-Mortality-in-West-Sussex-2014-15.pdf,"This briefing summarises mortality data (number of deaths, age at death and cause of death) for West Sussex in 2014 and 2015.
+
+In January 2015 there were 1,125 deaths registered in West Sussex, this was 34% higher than January 2014 registrations (837).
+
+The pattern, in relation to monthly deaths in West Sussex, is in line with the national picture, including the high number of deaths in January 2015.
+
+The week commencing 2nd January 2015 saw a particularly high number of deaths (221) and numbers were high over the Christmas and New Year period into early February.
+
+In terms of age at death, a higher proportion of deaths in January 2015 were of people aged 85 years or over (54%), this was higher than the percentage in 2014 (47%).
+
+Local analysis found that respiratory causes were listed as the cause of death, or listed as a contributory factor, in 42% of deaths in West Sussex in January 2015, again higher than 2014.",
+MRT02,"West Sussex - Infant and Child Mortality",03/02/2017,Excel,core,West-Sussex-Infant-and-Child-Mortality.xlsx,"This spreadsheet summarises information on infant mortality at West Sussex geographies. The data in this file is reproduced from the Public Health England Public Health Profiles (Children and Young People&#8217;s Health Benchmarking Tool for Local Authority level data and Child Health Profiles for Clinical Commissioning Group level data).",
+MRT03,"All cause mortality rates 1993 - 2008",24/02/2011,Excel,core,all_cause_mortality_rates-1993_to_2008.xls,"Direct age standardised rates are calculated by applying local age specific death rates to the local population as if it had the age structure of the standard population.
+
+This is a way of controlling for biases in age structure between different populations.
+
+This spreadsheet contains a 15 year trend and the ability to compare between local authorities.",
+MRT04,"Years of life lost crude rates all causes","03/02/2012",Excel,core,years_of_life_lost_crude_rates_all_causes.xls,"Data on years of life lost at Local Authority level and by sex.
+
+The data is a 3 year average between 2008 and 2010 with an assumption is made that individuals live up to 75 years of age.",
+MRT05,"Number of deaths 2003 - 2007 ward level",03/02/2012,Excel,core,number_of_deaths_2003_2007_ward_level.xls,"Data from the West Sussex Child Health Bureau on the number of deaths at ward level between 2003 and 2007.",
+MRT06,"Ward and district level death rates 2000 - 2007",07/02/2011,Excel,core,ward_and_district_level_death_rates_2000___2007.xls,"Directly Age Standardised Death Rates per 1000 people, per year for Wards and Districts.",
+MRT07,"Mortality for all cancers (direct standardised rates) 1993 - 2008",24/02/2011,Excel,core,"mortality_all_cancers_dsr_1993_to_2008.xls","Direct age standardised rates are calculated by applying local age specific death rates to the local population as if it had the age structure of the standard population. This is a way of controlling for biases in age structure between different populations.",
+MRT08,"Mortality for all circulatory diseases (direct standardised rates) 1993 - 2008",03/03/2011,Excel,core,mortality_all_circulatory_diseases_dsr_1993_to_2008.xls,"Directly age standardised rates are calculated by applying local age specific death rates to the local population as if it had the age structure of the standard population.
+
+This is a way of controlling for biases in age structure between different populations.
+
+Circulatory diseases are defined as those with an ICD-10 code of I00 -I99, for more information see http://www.nchod.nhs.uk
+
+This spreadsheet contains a 15 year trend and the ability to compare between local authorities.",
+MRT09,"Mortality from suicide and undetermined injury direct standardised rates (DSR) 1993 - 2010",25/07/2013,Excel,core,mortality_suicide_and_injury_undetermined_dsr_1993_to_2010.xls,"Directly Age Standardised Rates are calculated by applying local age specific death rates to the local population as if it had the age structure of the standard population.
+
+This is a way of controlling for biases in age structure between different population.
+
+Suicide and undetermined injury are calculated from deaths with primary cause codes (ICD9 E950-E959, E980-E989 excl. E988.8; ICD10 X60-X84, Y10-Y34 excl. Y33.9), for more information on these codes see http://www.nchod.nhs.uk.
+
+This spreadsheet contains a 15 year trend and the ability to compare between local authorities.",

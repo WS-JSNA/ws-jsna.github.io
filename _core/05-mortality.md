@@ -8,6 +8,7 @@ excerpt: "Calculated based on latest projections from the Office of National Sta
 toc: true
 sidebar:
   nav: "core"
+downloads: ["MRT01", "MRT02", "MRT03", "MRT04", "MRT05", "MRT06", "MRT07", "MRT08", "MRT09"]
 ---
 In January 2015 there were 1,125 deaths registered in West Sussex, this was 34% higher than January 2014 registrations (837).
 
@@ -21,6 +22,6 @@ The underlying cause may be a long-standing, chronic disease or disorder that pr
 
 Direct age standardised rates are calculated by applying local age specific death rates to the local population as if it had the age structure of the standard population. This is a way of controlling for biases in age structure between different populations.
 
-{% include wip_notice %}
+{% include downloads_from_db ids=page.downloads %}
 
-(Attachments needed)
+{% include wip_notice %}

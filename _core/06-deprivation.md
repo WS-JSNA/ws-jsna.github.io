@@ -5,6 +5,8 @@ header:
   overlay_color: "#1976d2"
 permalink: "/core/population-data/deprivation/"
 excerpt: "Calculated based on latest IMD data"
+toc: true
+toc_sticky: true
 sidebar:
   nav: "core"
 ---
@@ -27,29 +29,29 @@ Domains contributing[^1] to the overall Index of multiple deprivation:
 
 [^1]: The weights used to calculate how much each domain contributes to the overall score is included in brackets
 
-[Click here for the West Sussex 2015 IMD briefing.]()
+[Click here for the West Sussex 2015 IMD briefing.](/assets/core/Briefing-Indices-of-Deprivation-2015.pdf)
 
 Maps for each of the districts in West Sussex are available in the list below:
 
-* [Adur IMD 2015 maps](/assets/pdf/maps/adur_imd_2015.pdf)
-* [Arun IMD 2015 maps](/assets/pdf/maps/arun_imd_2015.pdf)
-* [Chichester IMD 2015 maps](/assets/pdf/maps/chichester_imd_2015.pdf)
-* [Crawley IMD 2015 maps](/assets/pdf/maps/crawley_imd_2015.pdf)
-* [Horsham IMD 2015 maps](/assets/pdf/maps/horsham_imd_2015.pdf)
-* [Mid Sussex IMD 2015 maps](/assets/pdf/maps/mid_sussex_imd_2015.pdf)
-* [Worthing IMD 2015 maps](/assets/pdf/maps/worthing_imd_2015.pdf)
-Indices of multiple deprivation at GP practice level
+* [Adur IMD 2015 maps](/assets/pdf/maps/Adur-IMD-2015.pdf)
+* [Arun IMD 2015 maps](/assets/pdf/maps/Arun-IMD-2015.pdf)
+* [Chichester IMD 2015 maps](/assets/pdf/maps/Chichester-IMD-2015.pdf)
+* [Crawley IMD 2015 maps](/assets/pdf/maps/Crawley-IMD-2015.pdf)
+* [Horsham IMD 2015 maps](/assets/pdf/maps/Horsham-IMD-2015.pdf)
+* [Mid Sussex IMD 2015 maps](/assets/pdf/maps/Mid-Sussex-IMD-2015.pdf)
+* [Worthing IMD 2015 maps](/assets/pdf/maps/Worthing-IMD-2015.pdf)
+
+### Indices of multiple deprivation at GP practice level
 
 GP practices do not have established geographical boundaries (e.g. people residing in one area may be registered to GP practices outside of their local area and more than one GP practice may operate in a single area). However, using the January 2016 release of residential location of GP registered patients, it is possible to create a deprivation score for each GP practice ‘reach’.
 
 The GP Practice deprivation score is the registered population (as at 31st December 2015) weighted by ID2015 score, as a proportion of the total population registered to the GP. This is calculated by taking the deprivation score for every LSOA where a GP has registrations multiplied by the number of registrations for the GP in that LSOA and dividing this total by the number of people registered to the GP.
 
-{% include figure image_path="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/04/Population-weighted-using-Jan-2016-HSCIC-release-ID2015-deprivation-score.gif" caption="GP practices within each CCG in West Sussex by their national decile group. Practices in dark blue are estimated to have the most deprived populations in England whereas those in orange are the least deprived." class="full" %}
+{% include figure image_path="http://jsna.westsussex.gov.uk/wp-content/uploads/2016/04/Population-weighted-using-Jan-2016-HSCIC-release-ID2015-deprivation-score.gif" caption="GP practices within each CCG in West Sussex by their national decile group. Practices in dark blue are estimated to have the most deprived populations in England whereas those in orange are the least deprived." %}
 
 Population weighted (using Jan 2016 HSCIC release) ID2015 deprivation score
 
 The table below shows the number of practices in each deprivation decile for West Sussex CCGs.
-
 
 | Deciles | NHS Crawley CCG | NHS Coastal West Sussex CCG | NHS Horsham and Mid Sussex CCG | All West Sussex GPs |
 |:---|---:|---:|---:|---:|---:|
