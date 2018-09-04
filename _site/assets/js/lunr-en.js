@@ -1119,7 +1119,7 @@ var idx = lunr(function () {
   
     idx.add({
       title: "The West Sussex Tobacco Control Needs Assessment has now been published",
-      excerpt: "As a population we're living longer but spending more years in poor health and in need of health and social...",
+      excerpt: "As a population we’re living longer but spending more years in poor health and in need of health and social...",
       categories: ["needs-assessment"],
       tags: [],
       id: 121
@@ -1128,7 +1128,7 @@ var idx = lunr(function () {
   
     idx.add({
       title: "West Sussex Children's Workforce Public Health Data Profile (2016)",
-      excerpt: "The West Sussex Children's Workforce Public Health data profile (2016) is now available to download. This profile is an interactive...",
+      excerpt: "The West Sussex Children’s Workforce Public Health data profile (2016) is now available to download. This profile is an interactive...",
       categories: ["health-profile"],
       tags: [],
       id: 122
@@ -1190,7 +1190,7 @@ var idx = lunr(function () {
     
   
     idx.add({
-      title: "West Sussex Oral Health Needs Assessment 2018",
+      title: "West Sussex Oral Health Needs Assessment 2018 Released",
       excerpt: "West Sussex County Council has now published the Oral Health Needs Assessment for Children and Young People. The needs assessment...",
       categories: ["needs-assessment"],
       tags: [],
@@ -2633,7 +2633,7 @@ var store = [
       
       {
         "title": "Domestic violence and abuse - how services can respond effectively",
-        "url": "http://localhost:4000/guidance/domestic-violence-and-abuse-how-services-can-respond-effectively/",
+        "url": "http://localhost:4000/updates/domestic-violence-and-abuse-services/",
         "excerpt": "Public Health guidance on the handling of domestic violence and abuse by a range of health and social care professionals. Recommendations...",
         "teaser":
           
@@ -2644,7 +2644,7 @@ var store = [
       
       {
         "title": "Tasty Infographics: Food, income and education: who eats more of what?",
-        "url": "http://localhost:4000/infographic/tasty-infographics-food-income-and-education-who-eats-more-of-what/",
+        "url": "http://localhost:4000/updates/tasty-infographics/",
         "excerpt": "Using data from the National Diet and Nutrition Survey, the graphic illustrates how UK food consumption varies for population groups differing in...",
         "teaser":
           
@@ -2655,7 +2655,7 @@ var store = [
       
       {
         "title": "Release: West Sussex Early Years Needs Assessment",
-        "url": "http://localhost:4000/needs-assessment/early-years-needs-assessment/",
+        "url": "http://localhost:4000/updates/early-years-needs-assessment/",
         "excerpt": "A good start in life is fundamental to lay the foundations for good health and wellbeing in later life. Investment...",
         "teaser":
           
@@ -2666,7 +2666,7 @@ var store = [
       
       {
         "title": "CCG area profiles - Now Live!",
-        "url": "http://localhost:4000/profiles/ccg-area-profiles-now-live/",
+        "url": "http://localhost:4000/updates/ccg-area-profiles-now-live/",
         "excerpt": "The West Sussex Public Health and Social Research Unit have now completed the annual population profiles (formerly data packs) for...",
         "teaser":
           
@@ -2677,7 +2677,7 @@ var store = [
       
       {
         "title": "Release: National Child Measurement Programme (NCMP) 2015/16",
-        "url": "http://localhost:4000/data/release-national-child-measurement-programme-ncmp-201516/",
+        "url": "http://localhost:4000/updates/ncmp-2015-16/",
         "excerpt": "NHS Digital have released the National Child Measurement Programme (NCMP) results for the 2015/16 school year. Children in reception class...",
         "teaser":
           
@@ -2688,8 +2688,8 @@ var store = [
       
       {
         "title": "The West Sussex Tobacco Control Needs Assessment has now been published",
-        "url": "http://localhost:4000/needs-assessment/west-sussex-tobacco-control-needs-assessment-now-published/",
-        "excerpt": "As a population we're living longer but spending more years in poor health and in need of health and social...",
+        "url": "http://localhost:4000/updates/tobacco-control-needs-assessment/",
+        "excerpt": "As a population we’re living longer but spending more years in poor health and in need of health and social...",
         "teaser":
           
             null
@@ -2699,8 +2699,8 @@ var store = [
       
       {
         "title": "West Sussex Children's Workforce Public Health Data Profile (2016)",
-        "url": "http://localhost:4000/health-profile/west-sussex-childrens-workforce-public-health-data-profile-2016-now-available-download/",
-        "excerpt": "The West Sussex Children's Workforce Public Health data profile (2016) is now available to download. This profile is an interactive...",
+        "url": "http://localhost:4000/updates/west-sussex-childrens-workforce-data-profile-2016/",
+        "excerpt": "The West Sussex Children’s Workforce Public Health data profile (2016) is now available to download. This profile is an interactive...",
         "teaser":
           
             null
@@ -2710,7 +2710,7 @@ var store = [
       
       {
         "title": "Have Your Say in the Pharmaceutical Needs Assessment (PNA) survey",
-        "url": "http://localhost:4000/needs-assessment/survey/",
+        "url": "http://localhost:4000/updates/pna-survey/",
         "excerpt": "Thank you for taking the time to visit the West Sussex Pharmaceutical Needs Assessment (PNA) survey page. The PNA looks...",
         "teaser":
           
@@ -2721,7 +2721,7 @@ var store = [
       
       {
         "title": "Suicide Prevention - draft strategy now available",
-        "url": "http://localhost:4000/update/suicide-prevention-draft-strategy-now-available/",
+        "url": "http://localhost:4000/updates/suicide-prevention-draft-strategy/",
         "excerpt": "Suicide is the biggest killer of men aged 49 and under and the leading cause of death in people aged...",
         "teaser":
           
@@ -2732,7 +2732,7 @@ var store = [
       
       {
         "title": "West Sussex Pharmaceutical Needs Assessment (PNA)",
-        "url": "http://localhost:4000/needs-assessment/2017/",
+        "url": "http://localhost:4000/updates/west-sussex-pharmaceutical-needs-assessment/",
         "excerpt": "What is a PNA? Since 1 April 2013, every Health and Wellbeing Board (HWB) in England has had a statutory...",
         "teaser":
           
@@ -2743,7 +2743,7 @@ var store = [
       
       {
         "title": "West Sussex Children Looked After Needs Assessment 2017",
-        "url": "http://localhost:4000/needs-assessment/west-sussex-children-looked-needs-assessment-2017/",
+        "url": "http://localhost:4000/updates/cla-needs-assessment-2017/",
         "excerpt": "In late 2015 OFSTED conducted an inspection of services for children in need of help and protection, children looked after...",
         "teaser":
           
@@ -2754,7 +2754,7 @@ var store = [
       
       {
         "title": "West Sussex Pharmaceutical Needs Assessment (PNA) 2018",
-        "url": "http://localhost:4000/needs-assessment/west-sussex-pharmaceutical-needs-assessment-pna-2018/",
+        "url": "http://localhost:4000/updates/west-sussex-pharmaceutical-needs-assessment-pna-2018/",
         "excerpt": "West Sussex’s Health and Wellbeing Board has now published its findings and recommendations on pharmaceutical service provision across the County....",
         "teaser":
           
@@ -2765,7 +2765,7 @@ var store = [
       
       {
         "title": "West Sussex Oral Health Needs Assessment 2018",
-        "url": "http://localhost:4000/needs-assessment/oral-health-needs-assessment-2018/",
+        "url": "http://localhost:4000/updates/west-sussex-oral-health-needs-assessment-2018/",
         "excerpt": "How would you like to contribute to improving the oral health of children in West Sussex? West Sussex County Council...",
         "teaser":
           
@@ -2775,8 +2775,8 @@ var store = [
     
       
       {
-        "title": "West Sussex Oral Health Needs Assessment 2018",
-        "url": "http://localhost:4000/needs-assessment/oral-health-needs-assessment-2018/",
+        "title": "West Sussex Oral Health Needs Assessment 2018 Released",
+        "url": "http://localhost:4000/updates/oral-health-needs-assessment-complete/",
         "excerpt": "West Sussex County Council has now published the Oral Health Needs Assessment for Children and Young People. The needs assessment...",
         "teaser":
           

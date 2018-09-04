@@ -7,6 +7,7 @@ header:
   overlay_filter: 0.5
 excerpt: "We'd appreciate comments on this draft of the West Sussex Oral Health Needs Assessment."
 category: needs-assessment
+permalink: /updates/west-sussex-oral-health-needs-assessment-2018/
 ---
 
 How would you like to contribute to improving the oral health of children in West Sussex?
@@ -19,4 +20,4 @@ Please direct any comments or feedback to [Louis.Hall@westsussex.gov.uk](mailto:
 
 We look forward to hearing from you.
 
-[Final Draft of West Sussex Oral Health Needs Assessment 2018](http://jsna.westsussex.gov.uk/wp-content/uploads/2018/05/West-Sussex-OHNA-2018-Final-Draft.docx) (Word Document, 13.2MB).
+[Final Draft of West Sussex Oral Health Needs Assessment 2018](/assets/core/West-Sussex-OHNA-2018-Final-Draft.docx) (Word Document, 13.2MB).
